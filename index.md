@@ -72,7 +72,7 @@ The classic recommendation! Loomis is one of the most well known art instructor 
 
 **[Drawabox](https://drawabox.com/)**, *Irshad Karim*
 
-<img src="/learn-drawing/img/drawabox.jpg" alt="Drawabox" width="200px"/>¨
+<img src="/learn-drawing/img/drawabox.jpg" alt="Drawabox" width="200px"/>
 
 Perhaps the most well-known free art course available right now, Drawabox aims to teach you observation and construction in seven lessons and a few challenges along the way (such as the famous "250 boxes" one). It's free so I can't complain much, not to mention it's pretty good. Personally, I only did the first part and the challenges because afterwards I went to Eviston's book, but I'm sure the rest is good too. The community is a highlight too.
 
@@ -83,6 +83,8 @@ Drawabox was created based on this course by Peter Han, so it tackles the same t
 ## Figure Drawing
 
 Figure drawing is a huge field in its own right, so it's a bit silly to categorize it as one single thing but here I specifically mean books and courses that allow you to get a grip on the proportions of the human body and how to simplify it in a way that retains its most essential elements. This is not about anatomy where we study specific muscle insertions and so on. Here, gesture is king.
+
+#### Books
 
 **[Figure Drawing for Artists](https://www.amazon.com/Figure-Drawing-Artists-Making-Every/dp/1631590650)**, *Steve Huston*
 
@@ -150,6 +152,18 @@ This book along with the next discuss コツ, various tips and tricks for drawin
 
 This is the second book and focuses specifically on 人体ドローイング as the title implies.
 
+#### Courses
+
+**[Proko's Figure Drawing Course](https://www.proko.com/course/figure-drawing-fundamentals)**, *Stan Prokopenko*
+
+<img src="/learn-drawing/img/prokofigure.jpeg" alt="ProkoFD" width="200px"/>
+
+Stan Prokopenko is perhaps YouTube's most well-known art instructor. His figure drawing course is well-constructed and pretty good, though not everyone can stand Proko's antics. Personally, I don't really mind, but I remember one of my friend getting pretty tired of it when she was going through the anatomy course. If you prefer watching rather than reading, this is really good.
+
+**[hide channel](https://www.youtube.com/@hidechannel2)**
+
+It's hard not to recommend this YouTube channel considering they're by far my favorite Japanese art instructor on YouTube. Has a lot of tutorials on figure drawing, my favorite being [this video on クロッキー](https://www.youtube.com/watch?v=v-Ej9EIlfoc).
+
 **[]()**, **
 
 <img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
@@ -160,6 +174,109 @@ This is the second book and focuses specifically on 人体ドローイング as 
 
 <img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
 
 **[]()**, **
