@@ -32,7 +32,7 @@ Finally, I would advise against spending all your time studying. Chess masters s
 
 Up to you honestly. When it comes to rendering, I would do it on your preferred medium because it is pretty different. I like to do studies with a pencil and some nice paper but you can also do everything digitally.
 
-## Why did you not include this?
+## Why did you not include this resource?
 
 Probably because I am not aware of it.
 
