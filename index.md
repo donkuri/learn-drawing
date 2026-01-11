@@ -1,6 +1,6 @@
 # Introductory remarks
 
-## What is this?
+## What is this?
 
 This website aims to catalog and discuss a variety of resources (mostly books) to learn how to draw. Resources are mainly in two languages: English and Japanese. My hope is that everyone can learn from these, but they are also tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. I do not claim expertise in the same way that I do on the [Mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/) learning websites. If that bothers you, feel free to disregard my comments on the books and just use this website as a catalog and gallery.
 
