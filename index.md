@@ -164,11 +164,17 @@ Stan Prokopenko is perhaps YouTube's most well-known art instructor. His figure 
 
 It's hard not to recommend this YouTube channel considering they're by far my favorite Japanese art instructor on YouTube. Has a lot of tutorials on figure drawing, my favorite being [this video on クロッキー](https://www.youtube.com/watch?v=v-Ej9EIlfoc).
 
-**[]()**, **
+## Light and Color
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+Light and color are often packaged together because, well, color can also be perceived through light. This is also where shadows, i.e. the partial (or total) absence of light, usually is treated.
 
+#### Books
 
+**[Light for Visual Artists](https://www.amazon.com/Light-Visual-Artists-Second-Understanding/dp/1786274515)**, *Richard Yot*
+
+<img src="/learn-drawing/img/yot.jpg" alt="Yot" width="200px"/>
+
+An introduction to using light in visual arts. It is thus not just aimed at illustrators, but the explanations are quite clear and not too overly technical in my opinion.
 
 **[]()**, **
 
