@@ -90,7 +90,7 @@ Figure drawing is a huge field in its own right, so it's a bit silly to categori
 
 <img src="/learn-drawing/img/huston.jpg" alt="Huston" width="200px"/>
 
-Steve Huston's Figure Drawing for Artists is my favorite drawing book. In there, Steve analyzes his own works (which by the way, breathtaking) as well as old masters (notably Boucher) to understand the two main tools that support figure drawing: structure and gesture. His explanations are crystal clear and his drawings are drop-dead gorgeous, full of life and interesting to analyze. The second part is more about anatomy, and there is a chapter on light. I think everyone should read the first few chapters at least.
+Steve Huston's Figure Drawing for Artists is my favorite art book. In there, Steve analyzes his own works (which by the way, breathtaking) as well as old masters (notably Boucher) to understand the two main tools that support figure drawing: structure and gesture. His explanations are crystal clear and his drawings are drop-dead gorgeous, full of life and interesting to analyze. The second part is more about anatomy, and there is a chapter on light and its absence. I think everyone should read the first few chapters at least.
 
 **[Figure Drawing: Design and Invention](https://www.amazon.com/Figure-Drawing-Invention-Michael-Hampton/dp/0615272819/)**, *Michael Hampton*
 
@@ -152,6 +152,12 @@ This book along with the next discuss コツ, various tips and tricks for drawin
 
 This is the second book and focuses specifically on 人体ドローイング as the title implies.
 
+**[お絵描きチュートリアル](https://www.amazon.co.jp/-/en/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308139)**, *Rino Park*
+
+<img src="/learn-drawing/img/paku.jpg" alt="Paku" width="200px"/>
+
+This book is part of a whole series of tutorials that were translated in Japanese. The author is a fantastic Korean illustrator whose work I encourage you to check out. Either way, this is an introduction to お絵描き more generally but it focuses on the human body. I have this book and the one on color and light (see below) but I haven't used it too much. Still, it's famous for a reason.
+
 #### Courses
 
 **[Proko's Figure Drawing Course](https://www.proko.com/course/figure-drawing-fundamentals)**, *Stan Prokopenko*
@@ -176,40 +182,35 @@ Light and color are often packaged together because, well, color can also be per
 
 An introduction to using light in visual arts. It is thus not just aimed at illustrators, but the explanations are quite clear and not too overly technical in my opinion.
 
-**[]()**, **
+**[Artists's Master Series: Color and Light](https://www.amazon.com/Artists-Master-Color-3dtotal-Publishing/dp/1912843412)**, *3dtotal Publishing*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/3dtotal.jpg" alt="3dtotal" width="200px"/>
 
+This book is a part of 3dtotal Publishing's line-up and focuses first on color and then on light, splitting the subject in three different parts. I think this has my favorite explanations and is the perfect reference book. And I mean, any book that has Guweiz, Djamila Knopf and Nathan Fowkes is bound to be phenomenal. Highly recommended.
 
+**[ライティングの教科書](https://www.amazon.co.jp/-/en/%E3%83%90%E3%83%8B%E3%83%AA%E3%82%BE-ebook/dp/B0DDS5VSNP)**, *バニリゾ*
 
-**[]()**, **
+<img src="/learn-drawing/img/lighting.jpg" alt="Lighting" width="200px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+Now that is the book I would pick up for understanding light on (anime) characters. The way it breaks down the various parts of the body and how they react to light (and more importantly, shadow) is a real highlight (pun intended). In particular, chapters 4 and 5 focus on コツ which I found pretty useful.
 
+**[影指定ワークブック](https://www.amazon.co.jp/-/en/YURIKO-ebook/dp/B0FP4MYNP2/356-0896065-3452744)**, *YURIKO*
 
+<img src="/learn-drawing/img/yuriko.jpg" alt="Yuriko" width="200px"/>
 
-**[]()**, **
+Very cute book. Basically, it's a workbook that teaches you where to put shadows in your anime drawings. I would use this either as an introduction to shadows and light to get convincing illustrations quickly, or after you actually understand how these things work to see how they're put into practice in anime-style drawings.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+**[Color and Light](https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719)**, *James Gurney*
 
+<img src="/learn-drawing/img/gurney.jpg" alt="" width="200px"/>
 
-**[]()**, **
+Ok, ok, I know this is what you were all expecting. James Gurney is a fantastic artist and I'm sure his books are fantastic, but to be honest I consider this to be a bit above my paygrade for the moment. It's here as a reference and I _will_ come back to it, but for now I can't say much other than everyone seems to be praising this book, so it has to be good, right? Anyway, I would probably use this as a second look at color and light, but maybe it's just me.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+**[光と色のチュートリアル](https://www.amazon.co.jp/%E5%85%89%E3%81%A8%E8%89%B2%E3%81%AE%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308201)**, *Rino Park*
 
+<img src="/learn-drawing/img/paku1.jpg" alt="" width="200px"/>
 
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
+Another book in Rino Park's excellent series of tutorials on drawing. Like the first, I haven't touched this one much but it reminds me a lot of the other ライティング book I mentioned above. If you liked the other books in the series, check it out.
 
 **[]()**, **
 
@@ -278,6 +279,62 @@ An introduction to using light in visual arts. It is thus not just aimed at illu
 
 <img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
 
 **[]()**, **
