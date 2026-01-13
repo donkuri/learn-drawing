@@ -440,52 +440,55 @@ A huge collection of poses to learn from. Very varied and once again already sim
 
 ## General Anatomy
 
-**[]()**, **
+Ah, yes, anatomy. For some reason, every beginner artist seems to be obsessed with it. Yes, it's always seemed to me like anatomy was the domain of advanced artists. In general, the main issues that arise with beginning artists have more to do with what I have called before figure drawing, that is to say, correct proportions. This is about the study of individual muscles, how they attach to the body, how they flow, how they form one coherent mass, how we can simplify them. In this section, we tackle general anatomy, that is to say, anatomy for the whole body. The anatomy of specific body parts (e.g. the head) will be discussed below.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[Basic Human Anatomy](https://www.amazon.com/Basic-Human-Anatomy-Essential-Artists/dp/1580934382)**, *Roberto Osti*
 
+<img src="/learn-drawing/img/basic.jpg" alt="Basic" width="280px"/>
 
+This is maybe my favorite book on anatomy proper. Osti is a fantastic anatomical artist, the drawings are gorgeous and truly help you better understand the anatomy of the human body without overcomplicating every single muscle. To me, it sits "just right". The stereometric approach proposed in the book is nice to grasp the basics of human anatomy. Highly recommended.
 
-**[]()**, **
+**[Dynamic Human Anatomy](https://www.amazon.com/Dynamic-Human-Anatomy-Artists-Structure/dp/1580935516)**, *Roberto Osti*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/dynamic.jpg" alt="Dynamic" width="280px"/>
 
+This is the follow-up book, dealing with more dynamic problems in anatomy. If you liked the first volume, you should get this one although it is definitely more advanced due to the nature of dynamic anatomical poses.
 
-**[]()**, **
+**[Anatomy for Sculptors](https://www.amazon.com/Anatomy-Sculptors-Understanding-Human-Figure/dp/1735039020)**, *Uldis Zarins*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/scultpors.jpg" alt="Zarins" width="280px"/>
 
+This fantastic reference is full of extremely detailed anatomical pictures, including 3D models. I use it as the ultimate reference book to help you answer some of your finer anatomical questions. The author is a sculptor but it's not just for sculptors despite what the title says.
 
+**[Morpho Series](https://www.amazon.com/gp/product/1681983745)**, *Michel Lauricella*
 
-**[]()**, **
+<img src="/learn-drawing/img/morpho.jpg" alt="Morpho" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+The Morpho series (originally in French) is one of the most popular series of book on drawing. Most of them deal with anatomy with a few exceptions (most of which we will see below). I often see people recommend these for beginners but I think they're decently tough for beginners because you have to understand the simplification that the author makes and you need some experience to appreciate them. Still, it's fantastic and you should definitely get them. The thumbnail only shows the first book but there are many of them.
 
+**[Anatomy for Artists: Drawing Form & Pose](https://www.amazon.com/Anatomy-Artists-ultimate-perspective-tomfoxdraws-ebook/dp/B0D64J5W99)**, *Tom Fox*
 
+<img src="/learn-drawing/img/fox.jpg" alt="Fox" width="280px"/>
 
-**[]()**, **
+Tom Fox is a pretty well known artist (especially on social media) and this is his approach to anatomy. There are a variety of lessons on different topics with tips and tricks and many good pictures (hehe, old men). In general, the drawings are very "fleshy" for lack of a better term. Good stuff.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[Stonehouse's Anatomy Note](https://superanius.com/products/stonehouse-anatomy-note)**, *Jeonghyun Seok*
 
+<img src="/learn-drawing/img/stonehouse.jpg" alt="Stonehouse" width="280px"/>
 
+Considered by some to be kind of a final boss of anatomy. Honestly, it's very thick and I haven't been able to learn much from it yet because it's just above my paygrade, but it's legendary for a reason. The drawings are insane and you can tell the author understands anatomy in and out.
 
-**[]()**, **
+**[Bridgman's Complete Guide to Drawing From Life](https://www.amazon.com/Bridgmans-Complete-Guide-Drawing-Life/dp/1454926538)**, *George B. Bridgman*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/bridgman.jpg" alt="Bridgman" width="280px"/>
 
+Is there a more famous anatomy book than this? Bridgman is feared by many and for good reason, it takes a lot of time to digest it. In fact, it's so well-known in the community that famous art instructors such as Alain Watts and Proko have spent time explaining how exactly to study from Bridgman. The general way people use this book is by copying it cover to cover twice, the first time with the references in front of them. I'm not there yet, but Bridgman's influence extends everywhere when it comes to illustrations so it's kind of a rite of passage, I guess.
 
+**[Strength Training Anatomy](https://www.amazon.com/Strength-Training-Anatomy-Frederic-Delavier/dp/1718214863)**, *Frédéric Delavier*
 
-**[]()**, **
+<img src="/learn-drawing/img/delavier.jpg" alt="Delavier" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+This might seem like a bit of a weird addition. This is very clearly a book about strength training, so why is it here? Well, the anatomical drawings are just fantastic. This book has been praised by many artists for a good reason. Good stuff, especially if you like to draw muscular bodies.
 
 **[]()**, **
 
