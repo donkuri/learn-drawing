@@ -80,6 +80,63 @@ Perhaps the most well-known free art course available right now, Drawabox aims t
 
 Drawabox was created based on this course by Peter Han, so it tackles the same topic. In my opinion, this is harder than Drawabox because it doesn't your hand as much, but at the same time, the two people I know that went through the course seem to have actually learned a whole lot from it, so it's worth checking out at the very least. If you feel like Drawabox is too verbose or too boring, maybe try it out.
 
+## Perspective
+
+Perspective is a set of rules developed a while ago to understand how to create a three-dimensional effect on a two-dimensional plane such as a sheet of paper or a computer screen. As such, it helps us understand volumes in space and is an invaluable tool to make our drawings "realistic", whatever that means. It's particularly helpful when drawing complex, urban backgrounds (which just happens to be my favorite thing to draw) but it's also tremendously important for characters, because their construction almost always involves simple forms in space. The way to render these forms realistically is what perspective is about.
+
+#### Books
+
+**[Perspective Made Easy](https://www.amazon.com/Perspective-Made-Easy-Dover-Instruction/dp/0486404730)**, *Ernest R. Norling*
+
+<img src="/learn-drawing/img/norling.jpg" alt="Norling" width="200px"/>
+
+The first book on perspective I ever read. Actually, I read this even before I wanted to learn how to draw, partially because perspective is quite mathematical in nature, which is my background. Some of my friends thought this was a bit hard, but I think it's just a bit old school. In fact, it's published by Dover which basically prints old books for extremely cheap. Honestly, I like it a lot but I guess some people would prefer something a bit more modern-looking.
+
+**[Framed Perspective Vol. 1](https://www.amazon.com/Framed-Perspective-Vol-Technical-Storytelling/dp/1624650309)**, *Marcos Mateu-Mestre*
+
+<img src="/learn-drawing/img/mmm1.jpg" alt="mmm1" width="200px"/>
+
+My personal recommendation for people interested in learning perspective as it relates to characters. In general, the explanations are cool with beautiful drawings that really make you want to dig more into it. Because of my mathematics background, I prefer something more formal like the book below but I would still recommend this to just about anyone. 
+
+**[How to Draw](https://www.amazon.com/How-Draw-sketching-environments-imagination/dp/1933492732)**, *Scott Robertson*
+
+<img src="/learn-drawing/img/scott1.jpg" alt="Scott1" width="200px"/>
+
+Now that's the stuff. If you're serious about perspective, you should study from this book. If you're not serious about perspective, you should also study from this book. This is Robertson's fantastic first book in the "How to" series which deals with perspective, from the very basics to the advanced stuff. The final chapters are kind of like the final sections of Drawabox on steroids. It's a tough but worthwhile read that will help you tremendously to understand space and volume. My favorite part is the perspective grid chapter.
+
+**[パースのレッスン](https://www.amazon.co.jp/-/en/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%A6%E3%81%84%E3%81%AD%E3%81%84%E3%81%AA%E3%83%91%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3-%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%81%AB%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%84%E3%81%84%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%91%E3%82%8B%E6%9C%AC-Susie%EF%BC%88%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%BC%EF%BC%89/dp/4815633517)**, *Susie*
+
+<img src="/learn-drawing/img/susie.jpg" alt="Susie" width="200px"/>
+
+A very recent textbook on perspective that I found on the top shelves of Maruzen a bit ago and couldn't stop checking out. Usually when that happens it means I have to buy the book, and I regret not doing it. That being said, I did spend some time flipping through it and I thought it was extremely well made. The explanations were clear and the organisation itself was nice.
+
+**[Perspective and Depth](https://www.amazon.com/Artists-Master-Perspective-Mike-Hernandez/dp/1912843838)**, *3dtotal Publishing*
+
+<img src="/learn-drawing/img/3dtotal2.jpg" alt="3dtotal2" width="200px"/>
+
+Full disclosure I have not read this book yet, although I plan to buy it soon. So why is it here? Because this is in the "Artists' Master Series" and their first book on Color and Light was so good that I expect them not to disappoint with the other books they put out. But this is tentative, if it sucks when I get it, I'll take it out of here. This also holds for their book on composition which will come later.
+
+#### Courses
+
+**[How to draw (the) human body in perspective & others](https://krenzcushart.gumroad.com/l/cRkSh?layout=profile)**, *Krenz Cushart*
+
+<img src="/learn-drawing/img/krenz.jpg" alt="" width="200px"/>
+
+Krenz is a master although his stuff is sometimes hard to understand. Still, he's such a good artist and this advanced tutorial is really useful to applying perspective to your characters.
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+
+
+
+
 ## Figure Drawing
 
 Figure drawing is a huge field in its own right, so it's a bit silly to categorize it as one single thing but here I specifically mean books and courses that allow you to get a grip on the proportions of the human body and how to simplify it in a way that retains its most essential elements. This is not about anatomy where we study specific muscle insertions and so on. Here, gesture is king.
@@ -204,53 +261,33 @@ Very cute book. Basically, it's a workbook that teaches you where to put shadows
 
 <img src="/learn-drawing/img/gurney.jpg" alt="" width="200px"/>
 
-Ok, ok, I know this is what you were all expecting. James Gurney is a fantastic artist and I'm sure his books are fantastic, but to be honest I consider this to be a bit above my paygrade for the moment. It's here as a reference and I _will_ come back to it, but for now I can't say much other than everyone seems to be praising this book, so it has to be good, right? Anyway, I would probably use this as a second look at color and light, but maybe it's just me.
+Ok, ok, I know this is what you were all expecting. James Gurney is a fantastic artist and I'm sure his books are fantastic, but to be honest I consider this to be a bit above my paygrade for the moment. It's here as a reference and I _will_ come back to it, but for now I can't say much other than everyone seems to be praising this book, so it has to be good, right? Anyway, I would probably use this as a second look at color and light, but maybe it's just me. Anyway, he also has another famous book named [Imaginative Realism](https://www.amazon.com/Imaginative-Realism-Paint-Doesnt-Gurney/dp/0740785508/142-9456114-2752317?pd_rd_w=98oZH&content-id=amzn1.sym.2aec5a0f-72e8-4d2b-85c5-8e0dd71765ff&pf_rd_p=2aec5a0f-72e8-4d2b-85c5-8e0dd71765ff&pf_rd_r=ECFHWJT9ECFTHW7X8WK9&pd_rd_wg=7IMI2&pd_rd_r=0f4dffa5-42bc-4952-ab0e-97a942799e2d&pd_rd_i=0740785508&psc=1), although I don't know anything about it.
 
 **[光と色のチュートリアル](https://www.amazon.co.jp/%E5%85%89%E3%81%A8%E8%89%B2%E3%81%AE%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308201)**, *Rino Park*
 
-<img src="/learn-drawing/img/paku1.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/paku1.jpg" alt="Paku1" width="200px"/>
 
-Another book in Rino Park's excellent series of tutorials on drawing. Like the first, I haven't touched this one much but it reminds me a lot of the other ライティング book I mentioned above. If you liked the other books in the series, check it out.
+Another book in Rino Park's excellent series of tutorials on drawing. Like the first, I haven't touched this one much but it reminds me a lot of the other ライティング book I mentioned above. If you liked the other books in the series, check it out. Apparently, there is a version on coloring in the same series called [色塗りチュートリアル](https://www.amazon.co.jp/-/en/%E8%89%B2%E5%A1%97%E3%82%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E7%AB%8B%E4%BD%93%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E6%8F%8F%E3%81%93%E3%81%86-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308155). I don't know about it, but if you like this series, you'll probably like it as well. I heard it was slightly easier.
 
-**[]()**, **
+**[Framed Perspective Vol.2](https://www.amazon.com/Framed-Perspective-Vol-Technical-Characters/dp/1624650325)**, *Marcos Mateu-Mestre*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/mmm2.jpg" alt="FPvol2" width="200px"/>
 
+This is the follow-up book to Marcos Mateu-Mestre's other very famous book Framed Perspective Vol.1 which we saw before. This second book aims to help you draw shadows in perspective. If you liked the first one, I recommend looking at this one too.
 
-**[]()**, **
+**[How to Render](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961)**, *Scott Robertson*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/scott2.jpg" alt="Scott2" width="200px"/>
 
+This is Robertson's second book in the "How to" series, building on the first book about perspective we saw before. If you loved the first one, you're likely to also like this one. I consider this to be the final say on rendering just about anything and it's more of a reference for me currently, though the explanations are surprisingly understandable. I genuinely think any artist should study this book cover to cover at some point. I know I will.
 
+#### Courses
 
-**[]()**, **
+**[Foundations of Light and Shadow](https://www.youtube.com/watch?v=0q-LZVFZuGE&list=PLV2X3tgajVlHkH3FHxm3rLZWqScFTRhtv)**, *Sycra*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/sycra.jpg" alt="Sycra" width="200px"/>
 
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
+A great introduction to the principles of light in an accessible YouTube video course format. Great stuff.
 
 **[]()**, **
 
@@ -314,11 +351,6 @@ Another book in Rino Park's excellent series of tutorials on drawing. Like the f
 <img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
 
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
 
 **[]()**, **
 
@@ -347,20 +379,4 @@ Another book in Rino Park's excellent series of tutorials on drawing. Like the f
 <img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
 
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
 
