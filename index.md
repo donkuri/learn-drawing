@@ -164,9 +164,9 @@ Krenz is a master although his stuff is sometimes hard to understand. Still, he'
 
 This is an extremely comprehensive look at perspective, including some difficult topics. I highly recommend you do not start with this straight up if you haven't seen perspective before because it's a bit overwhelming. Instead, I would use this as a second look, at the same time or replacing Scott Robertson's How to Draw.
 
-## Light and Color
+## Color and Light
 
-Light and color are often packaged together because, well, color can also be perceived through light. This is also where shadows, i.e. the partial (or total) absence of light, usually is treated.
+Color and light are often packaged together because, well, color is perceived through light. This is also where shadows, i.e. the partial (or total) absence of light, usually get treated.
 
 #### Books
 
@@ -174,7 +174,7 @@ Light and color are often packaged together because, well, color can also be per
 
 <img src="/learn-drawing/img/yot.jpg" alt="Yot" width="280px"/>
 
-An introduction to using light in visual arts. It is thus not just aimed at illustrators, but the explanations are quite clear and not too overly technical in my opinion.
+An introduction to using light in visual arts. It is thus not just aimed at illustrators, but the explanations are quite clear and not too overly technical in my opinion. Still, I sometimes find it a bit hard to apply, personally.
 
 **[Artists's Master Series: Color and Light](https://www.amazon.com/Artists-Master-Color-3dtotal-Publishing/dp/1912843412)**, *3dtotal Publishing*
 
@@ -204,7 +204,7 @@ Ok, ok, I know this is what you were all expecting. James Gurney is a fantastic 
 
 <img src="/learn-drawing/img/paku1.jpg" alt="Paku1" width="280px"/>
 
-Another book in Rino Park's excellent series of tutorials on drawing. Like the first, I haven't touched this one much but it reminds me a lot of the other ライティング book I mentioned above. If you liked the other books in the series, check it out. Apparently, there is a version on coloring in the same series called [色塗りチュートリアル](https://www.amazon.co.jp/-/en/%E8%89%B2%E5%A1%97%E3%82%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E7%AB%8B%E4%BD%93%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E6%8F%8F%E3%81%93%E3%81%86-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308155). I don't know about it, but if you like this series, you'll probably like it as well. I heard it was slightly easier.
+This book is part of a whole series of tutorials that were translated in Japanese. The author is a fantastic Korean illustrator whose work I encourage you to check out. I haven't touched this one much but it reminds me a lot of the other ライティング book I mentioned above. Apparently, there is a version on coloring in the same series called [色塗りチュートリアル](https://www.amazon.co.jp/-/en/%E8%89%B2%E5%A1%97%E3%82%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E7%AB%8B%E4%BD%93%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E6%8F%8F%E3%81%93%E3%81%86-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308155). I don't know about it, but I heard it was slightly easier.
 
 **[モノクロイラストテクニック](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B07KJ9ST18)**, *jaco*
 
@@ -374,7 +374,7 @@ This is the second book and focuses specifically on 人体ドローイング as 
 
 <img src="/learn-drawing/img/paku.jpg" alt="Paku" width="280px"/>
 
-This book is part of a whole series of tutorials that were translated in Japanese. The author is a fantastic Korean illustrator whose work I encourage you to check out. Either way, this is an introduction to お絵描き more generally but it focuses on the human body. I have this book and the one on color and light (see below) but I haven't used it too much. Still, it's famous for a reason.
+Another book in Rino Park's excellent series of tutorials on drawing. This is an introduction to お絵描き more generally but it focuses on the human body. I have this book and the one on color and light (the one we've mentioned before) but I haven't used it much. Still, it's famous for a reason.
 
 #### Courses
 
