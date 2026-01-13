@@ -12,7 +12,7 @@ Some time and a tendency for self-care. Learning anything is hard but art is a p
 
 ## Who is this for?
 
-Anyone with even a passing interest in learning how to draw.
+Anyone with even a passing interest in learning how to draw. If I am aware of it, I haven't had the chance to see or use it myself, nor do I know someone close that did and can provide earnest feedback.
 
 ## How do I learn to draw?
 
@@ -78,64 +78,9 @@ Perhaps the most well-known free art course available right now, Drawabox aims t
 
 **[Dynamic Sketching I](https://www.cgmasteracademy.com/courses/66-dynamic-sketching-1.html)**, *Peter Han*
 
+<img src="/learn-drawing/img/han.jpg" alt="Han" width="200px"/>
+
 Drawabox was created based on this course by Peter Han, so it tackles the same topic. In my opinion, this is harder than Drawabox because it doesn't your hand as much, but at the same time, the two people I know that went through the course seem to have actually learned a whole lot from it, so it's worth checking out at the very least. If you feel like Drawabox is too verbose or too boring, maybe try it out.
-
-## Perspective
-
-Perspective is a set of rules developed a while ago to understand how to create a three-dimensional effect on a two-dimensional plane such as a sheet of paper or a computer screen. As such, it helps us understand volumes in space and is an invaluable tool to make our drawings "realistic", whatever that means. It's particularly helpful when drawing complex, urban backgrounds (which just happens to be my favorite thing to draw) but it's also tremendously important for characters, because their construction almost always involves simple forms in space. The way to render these forms realistically is what perspective is about.
-
-#### Books
-
-**[Perspective Made Easy](https://www.amazon.com/Perspective-Made-Easy-Dover-Instruction/dp/0486404730)**, *Ernest R. Norling*
-
-<img src="/learn-drawing/img/norling.jpg" alt="Norling" width="200px"/>
-
-The first book on perspective I ever read. Actually, I read this even before I wanted to learn how to draw, partially because perspective is quite mathematical in nature, which is my background. Some of my friends thought this was a bit hard, but I think it's just a bit old school. In fact, it's published by Dover which basically prints old books for extremely cheap. Honestly, I like it a lot but I guess some people would prefer something a bit more modern-looking.
-
-**[Framed Perspective Vol. 1](https://www.amazon.com/Framed-Perspective-Vol-Technical-Storytelling/dp/1624650309)**, *Marcos Mateu-Mestre*
-
-<img src="/learn-drawing/img/mmm1.jpg" alt="mmm1" width="200px"/>
-
-My personal recommendation for people interested in learning perspective as it relates to characters. In general, the explanations are cool with beautiful drawings that really make you want to dig more into it. Because of my mathematics background, I prefer something more formal like the book below but I would still recommend this to just about anyone. 
-
-**[How to Draw](https://www.amazon.com/How-Draw-sketching-environments-imagination/dp/1933492732)**, *Scott Robertson*
-
-<img src="/learn-drawing/img/scott1.jpg" alt="Scott1" width="200px"/>
-
-Now that's the stuff. If you're serious about perspective, you should study from this book. If you're not serious about perspective, you should also study from this book. This is Robertson's fantastic first book in the "How to" series which deals with perspective, from the very basics to the advanced stuff. The final chapters are kind of like the final sections of Drawabox on steroids. It's a tough but worthwhile read that will help you tremendously to understand space and volume. My favorite part is the perspective grid chapter.
-
-**[パースのレッスン](https://www.amazon.co.jp/-/en/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%A6%E3%81%84%E3%81%AD%E3%81%84%E3%81%AA%E3%83%91%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3-%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%81%AB%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%84%E3%81%84%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%91%E3%82%8B%E6%9C%AC-Susie%EF%BC%88%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%BC%EF%BC%89/dp/4815633517)**, *Susie*
-
-<img src="/learn-drawing/img/susie.jpg" alt="Susie" width="200px"/>
-
-A very recent textbook on perspective that I found on the top shelves of Maruzen a bit ago and couldn't stop checking out. Usually when that happens it means I have to buy the book, and I regret not doing it. That being said, I did spend some time flipping through it and I thought it was extremely well made. The explanations were clear and the organisation itself was nice.
-
-**[Perspective and Depth](https://www.amazon.com/Artists-Master-Perspective-Mike-Hernandez/dp/1912843838)**, *3dtotal Publishing*
-
-<img src="/learn-drawing/img/3dtotal2.jpg" alt="3dtotal2" width="200px"/>
-
-Full disclosure I have not read this book yet, although I plan to buy it soon. So why is it here? Because this is in the "Artists' Master Series" and their first book on Color and Light was so good that I expect them not to disappoint with the other books they put out. But this is tentative, if it sucks when I get it, I'll take it out of here. This also holds for their book on composition which will come later.
-
-#### Courses
-
-**[How to draw (the) human body in perspective & others](https://krenzcushart.gumroad.com/l/cRkSh?layout=profile)**, *Krenz Cushart*
-
-<img src="/learn-drawing/img/krenz.jpg" alt="" width="200px"/>
-
-Krenz is a master although his stuff is sometimes hard to understand. Still, he's such a good artist and this advanced tutorial is really useful to applying perspective to your characters.
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
-
-
-
 
 ## Figure Drawing
 
@@ -157,7 +102,7 @@ What a fantastic book. Hampton simplifies the human body in just the right way i
 
 **[Figure Drawing for All It's Worth](https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986)**, *Andrew Loomis*
 
-<img src="/learn-drawing/img/FDFAIW.jpg" alt="FDFAIW" width="200px"/>
+<img src="/learn-drawing/img/fdfaiw.jpg" alt="FDFAIW" width="200px"/>
 
 Probably the most famous of all Loomis books, this one is a clear step up from Fun with a Pencil. It tackles the human body in all its glory. Similarly to Fun with a Pencil, the style is a bit dated and many people do not really like the explanations. Personally, I would probably just skim through the explanations and spend most of my time copying it instead, but some other people might benefit from the explanations.
 
@@ -167,11 +112,17 @@ Probably the most famous of all Loomis books, this one is a clear step up from F
 
 A classic treatise on figure drawing by one of the world's foremost animator who worked for years teaching at Disney. I'll be honest, I have only skimmed this book briefly but it consistently gets such high praises (and Vilppu as an instructor as well) that I thought it would be a disservice not to mention it. This is a "digitally enhanced" edition, whatever that might mean, but I saw pages from the original.
 
+**[Force: Dynamic Life Drawing for Animators](https://www.amazon.com/Force-Dynamic-Drawing-Animators-Second/dp/0240808452)**, *Mike Mattesi*
+
+<img src="/learn-drawing/img/force.jpg" alt="Force" width="200px"/>
+
+A very famous figure drawing book, part of Mike Mattesi's FORCE series that focuses on a dynamic approach to drawing. This one is perhaps the well known of the bunch and for good reason. Particularly useful if you want to become an animator.
+
 **[Drawing the Female Figure](https://www.amazon.com/Drawing-Female-Figure-Hentai-Artists/dp/1912740133)**, *Hikaru Hayashi*
 
 <img src="/learn-drawing/img/hayashi.jpg" alt="Hayashi" width="200px"/>
 
-Hikaru Hayashi is a pretty well-known in the world of English books teaching you how to draw in a manga or anime kind of style. This is the only book I have seen from him but it is absolutely fantastic and it does not shy away from risqué angles and such (as is obvious from the extended title). Most of it is pretty good though I have seen one or two drawings that I thought were off here and there, so don't just copy mindlessly, try to understand why he does the simplifications you see. Good introduction to drawing cute anime girls, basically.
+Hikaru Hayashi is pretty well-known in the world of English books teaching you how to draw in a manga or anime kind of style. This is the only book I have seen from him but it is absolutely fantastic and it does not shy away from risqué angles and such (as is obvious from the extended title). Most of it is pretty good though I have seen one or two drawings that I thought were off here and there, so don't just copy mindlessly, try to understand why he does the simplifications you see. Good introduction to drawing cute anime girls, basically.
 
 **[アタリ練習帳](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%82%93%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%82%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%A2%E3%82%BF%E3%83%AA%E7%B7%B4%E7%BF%92%E5%B8%B3-%E8%A5%BF%E6%9D%B1%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4791627970/355-3254362-7590161)**, *西東社*
 
@@ -183,7 +134,7 @@ Tremendous book focusing on アタリ, the rough drawing of the pose before you 
 
 <img src="/learn-drawing/img/jinbutsusakuga.jpg" alt="" width="200px"/>
 
-A variety of techniques to draw the human body from one of my favorite art teachers, toshi. This is a mixed bag of tips about perspective, specific body parts and more general things so it does not fit neatly in one category. Since it's all about drawing the human body, I decided to put it in this category.
+A variety of techniques to draw the human body from one of my favorite art teachers, toshi. This is a mixed bag of tips about perspective (see below), specific body parts and more general things so it does not fit neatly in one category. Since it's all about drawing the human body, I decided to put it in this category.
 
 **[マンガキャラの描き方超入門](https://www.amazon.co.jp/-/en/%E8%A6%8B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E8%B6%85%E5%85%A5%E9%96%80-KawaiiSensei/dp/4415332781)**, *KawaiiSensei*
 
@@ -226,6 +177,56 @@ Stan Prokopenko is perhaps YouTube's most well-known art instructor. His figure 
 **[hide channel](https://www.youtube.com/@hidechannel2)**
 
 It's hard not to recommend this YouTube channel considering they're by far my favorite Japanese art instructor on YouTube. Has a lot of tutorials on figure drawing, my favorite being [this video on クロッキー](https://www.youtube.com/watch?v=v-Ej9EIlfoc).
+
+## Perspective
+
+Perspective is a set of rules developed a while ago to understand how to create a three-dimensional effect on a two-dimensional plane such as a sheet of paper or a computer screen. As such, it helps us understand volumes in space and is an invaluable tool to make our drawings "realistic", whatever that means. It's particularly helpful when drawing complex, urban backgrounds (which just happens to be my favorite thing to draw) but it's also tremendously important for characters, because their construction almost always involves simple forms in space. The way to render these forms realistically is what perspective is about.
+
+#### Books
+
+**[Perspective Made Easy](https://www.amazon.com/Perspective-Made-Easy-Dover-Instruction/dp/0486404730)**, *Ernest R. Norling*
+
+<img src="/learn-drawing/img/norling.jpg" alt="Norling" width="200px"/>
+
+The first book on perspective I ever read. Actually, I read this even before I wanted to learn how to draw, partially because perspective is quite mathematical in nature, which is my background. Some of my friends thought this was a bit hard, but I think it's just a bit old school. In fact, it's published by Dover which basically prints old books for extremely cheap. Honestly, I like it a lot but I guess some people would prefer something a bit more modern-looking.
+
+**[Framed Perspective Vol. 1](https://www.amazon.com/Framed-Perspective-Vol-Technical-Storytelling/dp/1624650309)**, *Marcos Mateu-Mestre*
+
+<img src="/learn-drawing/img/mmm1.jpg" alt="mmm1" width="200px"/>
+
+My personal recommendation for people interested in learning perspective as it relates to characters. In general, the explanations are cool with beautiful drawings that really make you want to dig more into it. Because of my mathematics background, I prefer something more formal like the book below but I would still recommend this to just about anyone. 
+
+**[How to Draw](https://www.amazon.com/How-Draw-sketching-environments-imagination/dp/1933492732)**, *Scott Robertson*
+
+<img src="/learn-drawing/img/scott1.jpg" alt="Scott1" width="200px"/>
+
+Now that's the stuff. If you're serious about perspective, you should study from this book. If you're not serious about perspective, you should also study from this book. This is Robertson's fantastic first book in the "How to" series which deals with perspective, from the very basics to the advanced stuff. The final chapters are kind of like the final sections of Drawabox on steroids. It's a tough but worthwhile read that will help you tremendously to understand space and volume. My favorite part is the perspective grid chapter.
+
+**[パースのレッスン](https://www.amazon.co.jp/-/en/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%A6%E3%81%84%E3%81%AD%E3%81%84%E3%81%AA%E3%83%91%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3-%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%81%AB%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%84%E3%81%84%E7%B5%B5%E3%81%8C%E6%8F%8F%E3%81%91%E3%82%8B%E6%9C%AC-Susie%EF%BC%88%E3%82%B9%E3%83%BC%E3%82%B8%E3%83%BC%EF%BC%89/dp/4815633517)**, *Susie*
+
+<img src="/learn-drawing/img/susie.jpg" alt="Susie" width="200px"/>
+
+A very recent textbook on perspective that I found on the top shelves of Maruzen a bit ago and couldn't stop checking out. Usually when that happens it means I have to buy the book, and I regret not doing it. That being said, I did spend some time flipping through it and I thought it was extremely well made. The explanations were clear and the organisation itself was nice.
+
+**[Perspective and Depth](https://www.amazon.com/Artists-Master-Perspective-Mike-Hernandez/dp/1912843838)**, *3dtotal Publishing*
+
+<img src="/learn-drawing/img/3dtotal2.jpg" alt="3dtotal2" width="200px"/>
+
+Full disclosure I have not read this book yet, although I plan to buy it soon. So why is it here? Because this is in the "Artists' Master Series" and their first book on Color and Light was so good that I expect them not to disappoint with the other books they put out. But this is tentative, if it sucks when I get it, I'll take it out of here. This also holds for their book on composition which will come later.
+
+#### Courses
+
+**[How to draw (the) human body in perspective & others](https://krenzcushart.gumroad.com/l/cRkSh?layout=profile)**, *Krenz Cushart*
+
+<img src="/learn-drawing/img/krenz.jpg" alt="Krenz" width="200px"/>
+
+Krenz is a master although his stuff is sometimes hard to understand. Still, he's such a good artist and this advanced tutorial is really useful to applying perspective to your characters.
+
+**[Linear Perspective Master Course](https://www.nma.art/courses/a-complete-guide-to-perspective-for-artists-with-erik-olson/)**, *Erik Olson*
+
+<img src="/learn-drawing/img/olson.jpg" alt="Olson" width="200px"/>
+
+This is an extremely comprehensive look at perspective, including some difficult topics. I highly recommend you do not start with this straight up if you haven't seen perspective before because it's a bit overwhelming. Instead, I would use this as a second look, at the same time or replacing Scott Robertson's How to Draw.
 
 ## Light and Color
 
@@ -289,39 +290,49 @@ This is Robertson's second book in the "How to" series, building on the first bo
 
 A great introduction to the principles of light in an accessible YouTube video course format. Great stuff.
 
-**[]()**, **
+## Composition
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+In essence, composition is the organization of all visual elements in your piece to get an esthetically pleasing arrangement. In my experience, it tends to be the most neglected of all art fundamentals (including by yours truly), perhaps because people tend to think that is somewhat arbitrary. Well, I am here to tell you it is not, at least not entirely. There are a variety of well-known rules (such as the rule of thirds) which tend to produce certain effects on the viewer. This is what the books and courses below are all about.
 
+#### Books
 
+**[Framed Ink](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953)**, *Marcos Mateu-Mestre*
 
-**[]()**, **
+<img src="/learn-drawing/img/mmm3.jpg" alt="mmm3" width="200px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+Probably Marcos Mateu-Mestre's most famous book, Framed Ink is a great explanation of the basic principles of composition in the context of visual storytelling, e.g. comics or manga. This is my favorite composition book, period. Highly recommended.
 
+**[Artists' Master Series: Composition and Narrative](https://www.amazon.com/Artists-Master-Composition-Narrative-Masters/dp/1912843595)**, *3dtotal Publishing*
 
-**[]()**, **
+<img src="/learn-drawing/img/3dtotal3.jpg" alt="3dtotal3" width="200px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+Another book by 3dtotal Publishing. Once more, I haven't read this once but considering Nathan Fowkes (see below) is on the team, it has to be absolutely fantastic. From what I have seen, it looks great with a good emphasis on very classic paintings. It might be a good idea to couple it with Framed Ink above to see different perspectives.
 
+**[Framed Ink 2](https://www.amazon.com/Framed-Ink-Format-Composition-Storytellers/dp/1624650538)**, *Marcos Mateu-Mestre*
 
+<img src="/learn-drawing/img/mmm4.jpg" alt="mmm4" width="200px"/>
 
-**[]()**, **
+The follow-up to Framed Ink. If you liked the previous entry, you should love this as well. However, this one hits more specific topics so it's probably not as applicable generally. Take a look at what's included and see if you care. If you don't, that's alright.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+**[Mastering Composition](https://www.amazon.com/Mastering-Composition-Techniques-Principles-Dramatically/dp/1581809247)**, *Ian Roberts*
 
+<img src="/learn-drawing/img/roberts.jpg" alt="Roberts" width="200px"/>
 
+A pretty well-known composition masterbook for painters. Full disclosure I haven't used it much but friends of mine have warmly recommended it, so I'm putting it there. Feel free to disregard it.
 
-**[]()**, **
+#### Courses
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+**[Pictorial Composition](https://schoolism.com/courses/concept-art/pictorial-composition-nathan-fowkes)**, *Nathan Fowkes*
 
+<img src="/learn-drawing/img/fowkes.jpg" alt="Fowkes" width="200px"/>
 
+This is a masterclass by Nathan Fowkes, a fantastic artist in his own right, now often associated with 3dtotal Publishing. Because it's a course, a lot of it is done live on Photoshop which is really nice. It's a serious course, perhaps I would do Framed Ink first.
 
-**[]()**, **
+**[Elements of Traditional Composition](https://www.nma.art/courses/elements-of-traditional-composition/)**, *Glenn Vilppu*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="200px"/>
+<img src="/learn-drawing/img/vilppu2.jpg" alt="Vilppu2" width="200px"/>
 
+Any class taught by Vilppu is worth taking. In this one, he analyzes the Old Masters and how they used composition to produce specific effects to then show you how to apply it in your own drawings. Cool stuff.
 
 **[]()**, **
 
