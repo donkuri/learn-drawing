@@ -398,7 +398,7 @@ By posing, I mean how to approach drawing specific poses ranging from the basic 
 
 **[ポージングのチュートリアル](https://www.amazon.co.jp/-/en/%E3%83%9D%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308163)**, *Rino Park*
 
-<img src="/learn-drawing/img/paku2.jpg" alt="Paku2" width="280px"/>
+<img src="/learn-drawing/img/paku3.jpg" alt="Paku2_oops" width="280px"/>
 
 This is another book from Rino Park's famous チュートリアル series. Here, the focus is on how to approach different poses through gesture, anatomy and perspective. As always, if you liked the other books in the series, you will like this one.
 
