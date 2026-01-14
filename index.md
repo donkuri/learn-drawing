@@ -236,6 +236,12 @@ A great book by a fantastic author that focuses on monochromatic drawing techniq
 
 This book touches on one of my favorite anime style, drawings that have 透明感, a sense of "transparency" I guess, I'm not sure how to translate it. But well, just take a look at the cover. Does that look cool and something you might wanna be able to draw and render? Then get this book.
 
+**[透明感のある女の子イラスト](https://www.amazon.co.jp/-/en/%E6%B0%B4%E5%BD%A9%E3%81%A7%E6%8F%8F%E3%81%8F%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E5%84%AA%E5%AD%90%E9%88%B4/dp/4837308244)**, *優子鈴*
+
+<img src="/learn-drawing/img/suisai.jpg" alt="Suisai" width="280px"/>
+
+Just like the above, except this one is literally about using watercolor. Honestly super cool but I'd rather render digitally. If that isn't you, maybe get this.
+
 **[「肌塗り」の秘訣](https://www.amazon.co.jp/mignon%E3%81%8C%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E8%82%8C%E5%A1%97%E3%82%8A%E3%80%8D%E3%81%AE%E7%A7%98%E8%A8%A3-%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%AB%E8%A6%8B%E6%83%9A%E3%82%8C%E3%82%8B%E4%BD%9C%E7%94%BB%E6%B5%81%E5%84%80-mignon/dp/4797397551)**, *mignon*
 
 <img src="/learn-drawing/img/hadanuri.jpg" alt="Hadanuri" width="280px"/>
@@ -801,6 +807,12 @@ This one focuses a bit more on how folds and creases are created along the cloth
 
 As the name implies, this is a dictionary focusing on how to draw a variety of clothes. Simple shadows are also highlighted at the end of each clothing breakdown. It's pretty cool though we had trouble finding it in store for some reason, so maybe order it online.
 
+**[フリル&リボンのガーリーなお洋服図鑑](https://www.amazon.co.jp/-/en/%E6%8F%8F%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E5%A5%B3%E5%AD%90%E6%9C%8D%E5%9B%B3%E9%91%91%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%95%E3%83%AA%E3%83%AB-%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AA%E3%81%8A%E6%B4%8B%E6%9C%8D%E5%9B%B3%E9%91%91-%E5%88%9D%E5%A4%8F/dp/4046078251)**, *初夏*
+
+<img src="/learn-drawing/img/girly.jpg" alt="Girly" width="280px"/>
+
+A cute book focusing on very girly clothing with lots of frills and ribons. It's simple with a lot of variations and could be useful as a reference.
+
 #### Courses
 
 **[How to Draw the Costumed/Draped Figure](https://www.nma.art/courses/how-to-draw-the-costumed-draped-figure/)**, *New Masters Academy*
@@ -900,18 +912,6 @@ The goal of this book is to get you to render and create a variety of materials,
 <img src="/learn-drawing/img/donut.jpg" alt="Donut" width="280px"/>
 
 This is where I recommend you start if you're interested in Blender or 3D tools more generally. This is maybe the most famous Blender tutorial ever and [Blender Guru](https://www.youtube.com/@blenderguru) updates it every year. Honestly, I'd do it just to see if you're interested. If you had fun going through the tutorial, then 3D work might be for you.
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
 
 **[]()**, **
 
