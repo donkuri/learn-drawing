@@ -540,7 +540,7 @@ Tom Fox is a pretty well known artist (especially on social media) and this is h
 
 **[Stonehouse's Anatomy Note](https://superanius.com/products/stonehouse-anatomy-note)**, *Jeonghyun Seok*
 
-<img src="/learn-drawing/img/stonehouse.webp" alt="Stonehouse" width="280px"/>
+<img src="/learn-drawing/img/stonehouse.jpg" alt="Stonehouse" width="280px"/>
 
 Considered by some to be kind of a final boss of anatomy. Honestly, it's very thick and I haven't been able to learn much from it yet because it's just above my paygrade, but it's legendary for a reason. The drawings are insane and you can tell the author understands anatomy in and out.
 
