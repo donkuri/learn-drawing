@@ -604,6 +604,8 @@ If you liked his figure drawing book or classes, you might enjoy Steve Huston's 
 
 In this section, we take a look at specific parts of the body that people tend to have problems with such as the head or the hands and feet.
 
+#### Books
+
 **[Drawing the Head and Hands](https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978)**, *Andrew Loomis*
 
 <img src="/learn-drawing/img/loomishead.jpg" alt="LoomisHead" width="280px"/>
@@ -693,13 +695,15 @@ The first two parts dealt with a lot of foundational topics. This third part, th
 
 Picture this: You draw really well, you honed all your fundamentals, your perspective is fantastic, your anatomy is outstanding, great gesture, great rendering. The only question left is: what do we draw? The books in this section help you think about this with regards to characters.
 
+#### Books
+
 **[Designing Creatures and Characters](https://www.amazon.com/Designing-Creatures-Characters-Portfolio-Animation/dp/1440344094)**, *Marc Taro Holmes*
 
 <img src="/learn-drawing/img/holmes.jpg" alt="Holmes" width="280px"/>
 
 A pretty cool book from the rest of the section that doesn't focus so much on specific things as much as it is about generating interesting concept ideas. You can tell Holmes is an industry veteran because the whole thing sounds very "industry-ready" so to speak, so if you're trying to break in the concept artist space you should get this book.
 
-**[Fundamentals of Character Design](https://www.amazon.com/Fundamentals-Character-Design-Illustration-Development/dp/1912843188)**, **
+**[Fundamentals of Character Design](https://www.amazon.com/Fundamentals-Character-Design-Illustration-Development/dp/1912843188)**, *3dtotal Publishing*
 
 <img src="/learn-drawing/img/fundamentalscd.jpg" alt="FundamentalsCD" width="280px"/>
 
@@ -741,23 +745,25 @@ Yet another book in the 超描けるシリーズ, this one focuses on a very spe
 
 Same author as the above so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
 
-**[]()**, **
+**[VTuberキャラクターデザイン&Live2D超入門](https://www.amazon.co.jp/-/en/VTuber%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-Live2D%E8%B6%85%E5%85%A5%E9%96%80-%E3%82%8F%E3%81%8B%E3%82%8BLive2D%E5%8B%95%E7%94%BB%E8%A7%A3%E8%AA%AC%E4%BB%98%E3%81%8D-%E4%B8%AD%E9%87%8C-%E6%99%BA%E6%98%8E/dp/4046073020)**, *中里 智明*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/vtuber.jpg" alt="VTuber" width="280px"/>
 
+Bit of a different thing going on here. You might have noticed that VTubers are all over pop culture. This books focuses on how to create (and animate) a female VTuber model. Not exactly my thing but since they're so popular, I figure someone will be interested.
 
+**[キャラクターデザインの教科書](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7%E5%AD%A6%E3%81%B6%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E4%BA%BA%E7%89%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%88-%E3%81%A1%E3%82%83%E3%82%82%E3%83%BC%E3%81%84%E3%80%81toi8%E3%80%81%E3%81%A4%E3%81%AA%E3%81%93%E3%80%81%E3%81%86%E3%81%A3%E3%81%91%E3%80%81Anmi-%E3%80%89/dp/4844365568)**, *株式会社Playce*
 
-**[]()**, **
+<img src="/learn-drawing/img/playce.jpg" alt="Playce" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+Another one of these books where multiple illustrators are invited to think about a specific theme, here character design. Each illustrator designs a cute anime girl based on a specific theme such as a game character, cosplay, etc. I don't think it's mind-blowing but if you like these kinds of books, why not.
 
+#### Courses
 
+**[Fundamentals of Character Design](https://www.silverdrawingacademy.com/characterdesigncourse)**, *Stephen Silver*
 
-**[]()**, **
+<img src="/learn-drawing/img/silver.jpg" alt="Silver" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+Stephen Silver is a legend in the industry (he worked at Disney Channel and Nickelodeon) who is well-known for his character design work, a lot of which you might not even be aware of. Due to his background in caricature, his characters are very expressive which is useful even if you don't really like their style.
 
 **[]()**, **
 
