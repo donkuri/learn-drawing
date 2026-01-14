@@ -749,7 +749,7 @@ Another one of these books where multiple illustrators are invited to think abou
 
 <img src="/learn-drawing/img/oriko.jpg" alt="Oriko" width="280px"/>
 
-Same author as the above so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
+Same author as メルヘン book so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
 
 **[VTuberキャラクターデザイン&Live2D超入門](https://www.amazon.co.jp/-/en/VTuber%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-Live2D%E8%B6%85%E5%85%A5%E9%96%80-%E3%82%8F%E3%81%8B%E3%82%8BLive2D%E5%8B%95%E7%94%BB%E8%A7%A3%E8%AA%AC%E4%BB%98%E3%81%8D-%E4%B8%AD%E9%87%8C-%E6%99%BA%E6%98%8E/dp/4046073020)**, *中里 智明*
 
