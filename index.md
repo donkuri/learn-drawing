@@ -21,7 +21,7 @@
 - [Part III: Design](#part-iii-design)
 	- [Character Design](#character-design)
 	- [Clothing and Folds](#clothing-and-folds)
-	- [Environment Design](#environment-design)
+	- [Environments and Backgrounds](#environments-and-backgrounds)
 	- [3D Tools](#3d-tools)
 - [Part IV: Miscellaneous](#part-iv-miscellaneous)
 	- [Some artists and artbooks I like](#some-artists-and-artbooks-i-like)
@@ -241,12 +241,6 @@ This book touches on one of my favorite anime style, drawings that have 透明�
 <img src="/learn-drawing/img/hadanuri.jpg" alt="Hadanuri" width="280px"/>
 
 This book is part of a series where masters lecture on the topic they are most famous for. In the case of mignon, it is most definitely rendering the human skin. This is invaluable if you draw anime characters.
-
-**[「服」の塗り方](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE-ebook/dp/B09J4BVV1P)**, *どうしま*
-
-<img src="/learn-drawing/img/fukunuri.jpg" alt="Fukunuri" width="280px"/>
-
-Another book in the same series as mignon above, this one focusing on rendering clothes.
 
 **[デジタルイラスト「塗り」の教科書](https://www.amazon.co.jp/-/en/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%80%8C%E5%A1%97%E3%82%8A%E3%80%8D%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%EF%BC%BBCLIP-STUDIO-PAINT-PRO-iPad%E5%AF%BE%E5%BF%9C%EF%BC%BD/dp/4297135612)**, **
 
@@ -733,6 +727,12 @@ The second book that くるみつ put out, this one focuses on ミニキャラ, 
 
 Another chibi characters book. This one explains the transposition process between standard and chibi illustrations quite well, so I'd get it even if you don't plan on making chibi characters immediately, because there's a lot to learn about design in the way this transposition happens.
 
+**[デジタルイラストの「表情」描き方事典](https://www.amazon.co.jp/-/en/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%80%8C%E8%A1%A8%E6%83%85%E3%80%8D%E6%8F%8F%E3%81%8D%E6%96%B9%E4%BA%8B%E5%85%B8-%E6%83%B3%E3%81%84%E3%81%8C%E4%BC%9D%E3%82%8F%E3%82%8B%E6%84%9F%E6%83%85%E8%A1%A8%E7%8F%BE53-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%8F%8F%E3%81%8D%E6%96%B9%E4%BA%8B%E5%85%B8-NextCreator%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4797389648)**, *NextCreator編集部*
+
+<img src="/learn-drawing/img/hyoujou.jpg" alt="Hyoujou" width="280px"/>
+
+I am not fully sure where to put this, but since it is very specifically about how to show specific emotions and how to make your characters more expressive, I will consider this a part of character design. It's a dictionary of a variety of head drawings that show a specific kind of emotion. Pretty useful in my opinion.
+
 **[メルヘンファンタジーな女の子のキャラデザ＆作画テクニック](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%AA%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%87%E3%82%B6%EF%BC%86%E4%BD%9C%E7%94%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768309844)**, *佐倉おりこ*
 
 <img src="/learn-drawing/img/marchen.jpg" alt="Marchen" width="280px"/>
@@ -749,7 +749,7 @@ Another one of these books where multiple illustrators are invited to think abou
 
 <img src="/learn-drawing/img/oriko.jpg" alt="Oriko" width="280px"/>
 
-Same author as メルヘン book so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
+Same author as the メルヘン book so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
 
 **[VTuberキャラクターデザイン&Live2D超入門](https://www.amazon.co.jp/-/en/VTuber%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-Live2D%E8%B6%85%E5%85%A5%E9%96%80-%E3%82%8F%E3%81%8B%E3%82%8BLive2D%E5%8B%95%E7%94%BB%E8%A7%A3%E8%AA%AC%E4%BB%98%E3%81%8D-%E4%B8%AD%E9%87%8C-%E6%99%BA%E6%98%8E/dp/4046073020)**, *中里 智明*
 
@@ -765,90 +765,111 @@ Bit of a different thing going on here. You might have noticed that VTubers are 
 
 Stephen Silver is a legend in the industry (he worked at Disney Channel and Nickelodeon) who is well-known for his character design work, a lot of which you might not even be aware of. Due to his background in caricature, his characters are very expressive which is useful even if you don't really like their style.
 
-**[]()**, **
+## Clothing and Folds
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+This section could've been put under Part II, but some of the books here are more about the way clothing and character design interact, so I decided to keep it here. A few books teach you how clothes drape over the body, others are more akin to reference books with a variety of clothing options for your character. Both are useful.
 
+#### Books
 
+**[Morpho: Clothing Folds and Creases](https://www.amazon.com/Morpho-Clothing-Creases-Anatomy-Artists/dp/168198847X)**, *Michel Lauricella*
 
-**[]()**, **
+<img src="/learn-drawing/img/morphoclothing.jpg" alt="MorphoClothing" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+Another Morpho banger, what can I say. Even if you're only interested in anime-style drawing it's a fantastic reference. I know I say this every time I mention Morpho but you truly have to copy the drawings to get the most from it. Either way, good stuff. Highly recommended.
 
+**[「服」の塗り方](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE-ebook/dp/B09J4BVV1P)**, *どうしま*
 
+<img src="/learn-drawing/img/fukunuri.jpg" alt="Fukunuri" width="280px"/>
 
+Another book in the same series as mignon, this one focusing on rendering clothes. I debated putting it in the rendering section but well, it truly is about clothing so I thought I'd kept it here. Great reference for a wide variety of anime-style clothing.
 
-**[]()**, **
+**[服のシワと影の描き方](https://www.amazon.co.jp/-/en/%E3%83%80%E3%83%86%E3%83%8A%E3%82%AA%E3%83%88-ebook/dp/B07HCCVVDN?crid=2GOWXK2OV96YD)**, *ダテナオト*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/naoto.jpg" alt="Naoto" width="280px"/>
 
+A pretty approachable book about clothing folds and filling in shadows. My friend first noticed it in Maruzen but ended up putting it back because it seemed a bit too basic for her but that's not necessarily a bad thing.
 
+**[動きとシワがよくわかる](https://www.amazon.co.jp/%E5%8B%95%E3%81%8D%E3%81%A8%E3%82%B7%E3%83%AF%E3%81%8C%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B-%E8%A1%A3%E6%9C%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E5%9B%B3%E9%91%91-%E6%9C%8D%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8B%E3%82%89%E8%A7%92%E5%BA%A6%E5%88%A5%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E3%81%BE%E3%81%A7-%E3%82%89%E3%81%B3%E3%81%BE%E3%82%8B/dp/4798621633)**, *らびまる*
 
-**[]()**, **
+<img src="/learn-drawing/img/ugokishiwa.jpg" alt="Ugokishiwa" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+This one focuses a bit more on how folds and creases are created along the clothes as movement happens. I think the references are very clear and the action lines help you better understand what is happening. Good stuff.
 
+**[デジタルイラストの「服装」描き方事典](https://www.amazon.co.jp/デジタルイラストの「服装」描き方事典-キャラクターを着飾る衣服の秘訣45-デジタルイラスト描き方事典-スタジオ・ハードデラックス/dp/4797389915)**, **
 
+<img src="/learn-drawing/img/fukusou.jpg" alt="Fukusou" width="280px"/>
 
-**[]()**, **
+As the name implies, this is a dictionary focusing on how to draw a variety of clothes. Simple shadows are also highlighted at the end of each clothing breakdown. It's pretty cool though we had trouble finding it in store for some reason, so maybe order it online.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+#### Courses
 
+**[How to Draw the Costumed/Draped Figure](https://www.nma.art/courses/how-to-draw-the-costumed-draped-figure/)**, *New Masters Academy*
 
+<img src="/learn-drawing/img/nma.jpg" alt="NMA" width="280px"/>
 
-**[]()**, **
+Originally, the course I had in mind was done by Glenn Vilppu but it seems like it got absorbed into this one because I cannot seem to find it anywhere online. Anyway, this has a variety of instructors from NMA (including Vilppu) describing clothing and drapery. Anyway, this course is absolutely massive (it's a whopping 34+ hours) and pretty much covers anything you'd ever need.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+## Environments and Backgrounds
 
+In this section, we finally get to my favorite part of drawing: backgrounds. What first drew me into drawing was the art of Nier Automata with its sprawling and lifeless urban environments. This section is where we learn how to draw that kind of stuff. For this, a good understanding of perspective is imperative so make sure you're good on that.
 
+#### Books
 
-**[]()**, **
+**[Framed Environment Design](https://www.amazon.com/Framed-Environment-Design-Marcos-Mateu-Mestre/dp/1624650813)**, *Marcos Mateu-Mestre*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/mmmn.jpg" alt="mmmn" width="280px"/>
 
+Another book in the Framed series, this one really puts into context all the work you've done mastering perspective and composition by allowing you to design complex environments that feels full of life. It's not easy, obviously, but it's well worth it. I like the fact that it always keeps composition and storytelling in mind. Highly recommended.
 
+**[背景描き方大事典](https://www.amazon.com/%E8%83%8C%E6%99%AF%E6%8F%8F%E3%81%8D%E6%96%B9%E5%A4%A7%E4%BA%8B%E5%85%B8-%E5%86%99%E7%9C%9F%E3%81%8B%E3%82%89%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AB%E5%90%88%E3%81%86%E3%82%B7%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%80%86%E7%AE%97%E3%81%99%E3%82%8B-smile/dp/B0FBQVBWNF)**, *smile*
 
-**[]()**, **
+<img src="/learn-drawing/img/smile.jpg" alt="Smile" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+This book was a really nice surprise. If I remember correctly, I found it in Yodobashi right after it came out and I remember being immediately impressed. One thing I particularly appreciate about it is that for each background that we learn how to draw, there is a section called "Characters" where you can see potential scenes with characters added to understand how to best use this background. Great stuff.
 
+**[背景画の描き方](https://www.amazon.com/%E3%81%93%E3%81%93%E3%82%92%E5%A4%89%E3%81%88%E3%82%8C%E3%81%B0%E3%82%B0%E3%83%83%E3%81%A8%E8%89%AF%E3%81%8F%E3%81%AA%E3%82%8B%E8%83%8C%E6%99%AF%E7%94%BB%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E7%94%9F%E3%81%8B%E3%81%99%E8%83%8C%E6%99%AF-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/4768312969)**, *酒井 達也*
 
+<img src="/learn-drawing/img/haikeiga.jpg" alt="Haikeiga" width="280px"/>
 
-**[]()**, **
+Decidedly, these 超描ける books are everywhere. To be fair, it's usually because they tend to be really good. This one is no exception. It starts with a review of what perspective is and how it works but I would expect you to know this at this point or you will struggle. A highlight is that characters and backgrounds are thought of together rather than being completely separated. This is especially apparent when the author starts from a character drawing and tries to think of what background to put behind it to make it shine.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[FANTASY奇幻背景 画法教室](https://www.amazon.com/%E3%80%90%E4%B8%AD%E5%95%86%E5%8E%9F%E7%89%88%E3%80%91FANTASY%E5%A5%87%E5%B9%BB%E8%83%8C%E6%99%AF-%E7%94%BB%E6%B3%95%E6%95%99%E5%AE%A4-%E7%94%A8Photoshop%E6%9D%A5%E7%94%BB%EF%BC%81%E7%94%BB%E5%87%BA%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E5%A5%87%E5%B9%BB%E8%83%8C%E6%99%AF-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1%E3%80%8C%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E8%83%8C%E6%99%AF%E3%80%8D%E6%8F%8F%E3%81%8D%E6%96%B9%E6%95%99%E5%AE%A4-SB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96/dp/4797387645)**, *よー清水*
 
+<img src="/learn-drawing/img/fantasy.jpg" alt="Fantasy" width="280px"/>
 
+Yeah ok, I'm sorry but that is just ridiculous. The fantasy art in here is just absurdly gorgeous, and you're saying that I could try to replicate that? Yeah, I don't know. Still, it is meant to be a book to help you learn how to get there. This book does focus on Photoshop but I'm sure you can translate that to other digital illustration software. All the scenes are gorgeous but I'd consider this a bit more advanced (look at those perspective grids...) although it's worth getting just to look at the pretty backgrounds.
 
-**[]()**, **
+**[デジタルイラストの「背景」描き方事典](https://www.amazon.com/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%80%8C%E8%83%8C%E6%99%AF%E3%80%8D%E6%8F%8F%E3%81%8D%E6%96%B9%E4%BA%8B%E5%85%B8-Photoshop%E3%81%A7%E6%8F%8F%E3%81%8F-%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%E5%BD%A9%E3%82%8B%E9%A2%A8%E6%99%AF%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A046/dp/479737229X)**, *高原 さと*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/haikeijiten.jpg" alt="HaikeiJiten" width="280px"/>
 
+Another book in the 描き方辞典 series, this one focusing on backgrounds. As usual, it's separated in a variety of themes such as "tree" and "sunset" along with a lot of very practical components such as school tables and chairs. It's not mindblowing or anything but it's not bad either. I'd skim through it and see if it appeals to you, I don't consider it a must-buy.
 
+**[背景の描き方](https://www.amazon.com/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AE%9F%E8%B7%B5%E3%81%BE%E3%81%A7%E5%85%A8%E7%B6%B2%E7%BE%85-%E8%83%8C%E6%99%AF%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9/dp/4815603065)**, *高原 さと*
 
-**[]()**, **
+<img src="/learn-drawing/img/kisokara.jpg" alt="KisoKara" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+A pretty approachable book written by the same author as above, this time focusing more on actually building backgrounds as opposed to being a dictionary. This is also meant to be used with Photoshop. Not the easiest thing in the world but backgrounds usually aren't super easy due to the amount of perspective and composition involved to get them right. Still, it's worth working through.
 
+**[背景作画](https://www.amazon.com/%E8%83%8C%E6%99%AF%E4%BD%9C%E7%94%BB-%E6%94%B9%E8%A8%82%E7%89%88-%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%97%E3%83%AD%E3%81%AE%E6%8A%80-%E7%A5%9E%E6%8A%80%E4%BD%9C%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-KITORA-Android/dp/4046053615)**, *mocha*
 
+<img src="/learn-drawing/img/haikeisakuga.jpg" alt="HaikeiSakuga" width="280px"/>
 
-**[]()**, **
+The author, mocha, is one of my favorite background artist. In this book, we can see how they go about creating a variety of backgrounds, first nature and then human made. The very first chapter discusses the basics of background art but I think the real meat is in the メーキング. Great stuff and highly recommended.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[写真加工で作る風景イラスト](https://www.amazon.com/%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5%E3%81%A7%E4%BD%9C%E3%82%8B%E9%A2%A8%E6%99%AF%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E7%A5%9E%E6%8A%80%E4%BD%9C%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-KITORA/dp/4046041099)**, *さけハラス*
 
+<img src="/learn-drawing/img/shashin.jpg" alt="Shashin" width="280px"/>
 
+Ok, it's pretty ballsy to put this textbook here. I know the purists will hate it. Yes, I admit, this is a book explaining how to use photobashing to get cool backgrounds you can then re-draw over. Personally, I don't really get what the big deal is. I think a lot of people suck at it, so it's great to have a textbook explaining how to do it really well, not to mention you will struggle if you can't draw because さけハラス is not just mix-and-matching photographs. Either way, if you're into this, the author is a master at this. Personally, I love perspective grids too much to give up doing things myself, but I think there's no shame in using the photographs you took to make art.
 
-**[]()**, **
+#### Courses
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[Environment Design](https://schoolism.com/courses/concept-art/environment-design-nathan-fowkes)**, *Nathan Fowkes*
 
+<img src="/learn-drawing/img/fowkesed.jpg" alt="FowkesED" width="280px"/>
 
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+Perhaps Nathan Fowkes's most important contribution, this course on environment design is the real deal. Obviously, Fowkes is a fantastic concept artist but he's also a really good instructor. If you like it, there's also an accompanying [workout course](https://schoolism.com/courses/concept-art/environment-design-workout-nathan-fowkes) that might be worth checking out where you can draw along.
 
 **[]()**, **
 
