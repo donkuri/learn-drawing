@@ -626,7 +626,7 @@ Same as the above but focusing on the hands and feet, two areas of the human bod
 
 **[「手」の描き方](https://www.amazon.co.jp/-/en/%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E5%85%A8%E5%8A%9B%E3%81%A7%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E3%82%B9%E3%82%B4%E3%81%84%E6%89%8B%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9/dp/481560567X)**, *加々美 高浩*
 
-<img src="/learn-drawing/img/te.jpg" alt="Te" width="280px"/>
+<img src="/learn-drawing/img/te1.jpg" alt="Te" width="280px"/>
 
 A part of the sames series as mignon's 肌塗り and どうしま's 服の塗り方, this one focuses on the hands. I'll admit I haven't really looked at this one much but when I skimmed it in 紀伊國屋 it looked decent. There's a [second book](https://www.amazon.co.jp/-/en/%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E5%85%A8%E5%8A%9B%E3%81%A7%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E3%82%B9%E3%82%B4%E3%81%84%E6%89%8B%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9/dp/481560567X) too. If you're specifically looking for anime-style hands, this might be worth looking into.
 
