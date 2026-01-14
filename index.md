@@ -194,6 +194,12 @@ Now that is the book I would pick up for understanding light on (anime) characte
 
 Very cute book. Basically, it's a workbook that teaches you where to put shadows in your anime drawings. I would use this either as an introduction to shadows and light to get convincing illustrations quickly, or after you actually understand how these things work to see how they're put into practice in anime-style drawings.
 
+**[線と陰](https://www.amazon.co.jp/-/en/%E7%B7%9A%E3%81%A8%E9%99%B0-%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E4%BD%9C%E7%94%BB%E8%A1%93-toshi/dp/4844367692)**, *toshi*
+
+<img src="/learn-drawing/img/kage.jpg" alt="" width="280px"/>
+
+We are going to see many books by toshi in this guide. This one focuses on an animator's point of view when it comes to shading. It describes a lot of dynamic poses from many angles with a lot of tips and tricks to understand how and where to fill in shadows properly. Great stuff.
+
 **[Color and Light](https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719)**, *James Gurney*
 
 <img src="/learn-drawing/img/gurney.jpg" alt="" width="280px"/>
@@ -211,6 +217,44 @@ This book is part of a whole series of tutorials that were translated in Japanes
 <img src="/learn-drawing/img/jack.jpg" alt="Jaco" width="280px"/>
 
 A great book by a fantastic author that focuses on monochromatic drawing techniques. One might argue this fits better under figure drawing or whatever, but the focus is on shading and monochromatic techniques so I've decided to put it here. If you want to see what the author's work looks like, check [this book](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B09CTSXK9N) out.
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[塗りフェチ事典](https://www.amazon.co.jp/-/en/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E8%82%89%E6%84%9F%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E6%8F%8F%E3%81%8F-%E5%A1%97%E3%82%8A%E3%83%95%E3%82%A7%E3%83%81%E4%BA%8B%E5%85%B8-%E5%A5%B3%E3%81%AE%E5%AD%90%E7%B7%A8-HJ%E6%8A%80%E6%B3%95%E6%9B%B8%E7%B7%A8%E9%9B%86%E9%83%A8/dp/479862750X)**, *HJ技法書編集部*
+
+<img src="/learn-drawing/img/fechi.jpg" alt="Fechi" width="280px"/>
+
+As the name implies, this is a dictionary for coloring and emphasizing specific parts of the body to make them more sexy. A variety of great artists show you how they approach one illustration with a specific theme in mind.
 
 **[Framed Perspective Vol.2](https://www.amazon.com/Framed-Perspective-Vol-Technical-Characters/dp/1624650325)**, *Marcos Mateu-Mestre*
 
@@ -352,11 +396,29 @@ A pretty gentle introduction to drawing characters in a manga style, mostly by t
 
 Another book by Hikaru Hayashi. This one is more general than his book on the female figure, although the drawings are very similar. I find it more useful as a collection of drawings to copy than as a book to learn from personally.
 
+**[キャラに生命を吹き込むイラスト上達テクニック](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E7%94%9F%E5%91%BD%E3%82%92%E5%90%B9%E3%81%8D%E8%BE%BC%E3%82%80%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%B8%8A%E9%81%94%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-toshi/dp/4844362682)**, *toshi*
+
+<img src="/learn-drawing/img/inochi.jpg" alt="Inochi" width="280px"/>
+
+The book series that put toshi on the map. As is usual with toshi, this covers a wide variety of things, all having to do with instilling life into your drawings. I think it's a fantastic book (like all toshi books are) and I highly suggest you take a look at it. If you like it, here are [part two](https://www.amazon.co.jp/-/en/%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91%E3%83%9D%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E4%BB%98-%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E7%94%9F%E5%91%BD%E3%82%92%E5%90%B9%E3%81%8D%E8%BE%BC%E3%82%80%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%B8%8A%E9%81%94%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF2-%E8%A1%A8%E7%8F%BE%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97%E7%B7%A8-toshi/dp/4844363476) and [part three](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E7%94%9F%E5%91%BD%E3%82%92%E5%90%B9%E3%81%8D%E8%BE%BC%E3%82%80%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%B8%8A%E9%81%94%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF3-%E5%A6%84%E6%83%B3%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97%E7%B7%A8-toshi/dp/4844364073).
+
+**[アニメーターが教えるキャラ描画の基本法則](https://www.amazon.co.jp/-/en/%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E6%8F%8F%E7%94%BB%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%B3%95%E5%89%87-toshi/dp/4844365622)**, *toshi*
+
+<img src="/learn-drawing/img/housoku.jpg" alt="Housoku" width="280px"/>
+
+As you might have noticed, we are going to meet a lot of toshi books in this section and in the guide more generally, in part due to personal bias but also because animators are really good at capturing movement and gesture, something crucial to getting illustrations that are full of life. As the title implies, this books deals with the fundamental rules of character drawing from an animator's point of view.
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
 **[神技作画](https://www.amazon.co.jp//Manabu-Kamiwaza-Learning-Techniques-Scratch/dp/4046015039)**, *toshi*
 
 <img src="/learn-drawing/img/kamiwaza.jpg" alt="" width="280px"/>
 
-Another book by toshi which first tackles a variety of important questions and struggles in a Q&A. Once again, a book that touches on a variety of subjects that might also be classified elsewhere (for instance shadows and such). Worth getting after you have some experience with drawing アタリ and such.
+Yet another book by toshi (sorry!) which first tackles a variety of important questions and struggles in a Q&A. Once again, a book that touches on a variety of subjects that might also be classified elsewhere (for instance shadows and such). Worth getting after you have some experience with drawing アタリ and such. There's [another one](https://www.amazon.co.jp/-/en/%E6%A5%B5%E3%82%81%E3%82%8B-%E3%82%AD%E3%83%A3%E3%83%A9%E4%BD%9C%E7%94%BB-%E7%A5%9E%E6%8A%80%E4%BD%9C%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-KITORA/dp/4046024380) in the series but I don't know much about this one.
 
 **[キャラ作画のコツ160](https://www.amazon.co.jp/-/en/TACO%E7%9B%B4%E4%BC%9D%EF%BC%81-%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E6%82%A9%E3%81%BF%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B-%E3%82%AD%E3%83%A3%E3%83%A9%E4%BD%9C%E7%94%BB%E3%81%AE%E3%82%B3%E3%83%84160-TACO%EF%BC%88%E3%82%BF%E3%82%B3%EF%BC%89/dp/4756257690)**, *TACO*
 
@@ -490,11 +552,11 @@ Is there a more famous anatomy book than this? Bridgman is feared by many and fo
 
 This might seem like a bit of a weird addition. This is very clearly a book about strength training, so why is it here? Well, the anatomical drawings are just fantastic. This book has been praised by many artists for a good reason. Good stuff, especially if you like to draw muscular bodies.
 
-**[]()**, **
+**[人体の構造と動き](https://www.amazon.co.jp/-/en/人体の構造と動き-描き方入門-人体を描くうえで重要なポイントを完全解説-蒙小洛/dp/4798634492)**, *蒙小洛*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/ugoki.jpg" alt="Ugoki" width="280px"/>
 
-
+An interesting book on anatomy (do not let the title fool you) with direct applications to more dynamic poses and movement, something that tends to be lacking in books discussing anatomy in my experience. I feel like the simplifications made are just right, although the book is slightly more difficult than it looks, so don't be fooled by the cute anime characters, this is a real anatomy book.
 
 **[]()**, **
 
