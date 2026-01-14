@@ -1,4 +1,4 @@
-# Contents
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/4c482587-4b59-474f-b354-9f626bbd2692" /># Contents
 
 - [Introductory remarks](#introductory-remarks)
 	- [What is this?](#what-is-this)
@@ -450,6 +450,13 @@ This is the second book and focuses specifically on 人体ドローイング as 
 
 Stan Prokopenko is perhaps YouTube's most well-known art instructor. His figure drawing course is well-constructed and pretty good, though not everyone can stand Proko's antics. Personally, I don't really mind, but I remember one of my friend getting pretty tired of it when she was going through the anatomy course. If you prefer watching rather than reading, this is really good.
 
+
+**[Constructive Figure Drawing](https://www.nma.art/courses/constructive-figure-drawing-i/)**, *Steve Huston*
+
+<img src="/learn-drawing/img/constructivefd.jpg" alt="Constructive FD" width="280px"/>
+
+If you liked Steve Huston's book (or you would rather watch him teach), this is the series for you. There is a [follow-up course](https://www.nma.art/courses/constructive-figure-drawing-ii/) as well. As I mentioned before, he's my favorite art instructor so I will be biased, but his binary approach to figure drawing is fantastic in my opinion.
+
 **[hide channel](https://www.youtube.com/@hidechannel2)**
 
 <img src="/learn-drawing/img/hide.jpg" alt="Hide Channel" width="280px"/>
@@ -480,6 +487,12 @@ Another book discussing posing with somewhat of a focus on exaggerated poses for
 
 Another book by KawaiiSensei, this time focusing on how to draw a variety of poses. I haven't read this one but coming from the author it must be pretty decent. I will probably buy it and report back.
 
+**[自然なしぐさイラストポーズ集](https://www.amazon.co.jp/%E8%87%AA%E7%84%B6%E3%81%AA%E3%81%97%E3%81%90%E3%81%95%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BA%E9%9B%86-%E8%87%AA%E7%84%B6%E4%BD%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E3%81%99%E3%81%90%E6%8F%8F%E3%81%91%E3%82%8B/dp/4798623830)**, *ホビージャパン*
+
+<img src="/learn-drawing/img/shizen.jpg" alt="Shizen" width="280px"/>
+
+My personal favorite compilation of anime-style poses. They're all great poses including quite a few interesting poses with two people, be it friends or a couple. Highly recommended.
+
 **[アクションポーズ０５あおりモーション](https://www.amazon.co.jp/-/en/%E7%9E%AC%E6%92%AE%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%BA05-%E3%81%82%E3%81%8A%E3%82%8A%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E7%B7%A8-%E6%9D%B1%E5%9C%B0%E5%92%8C%E7%94%9F/dp/4768309674)**, *東地和生, カラサワイサオ*
 
 <img src="/learn-drawing/img/action.jpg" alt="Action" width="280px"/>
@@ -503,6 +516,12 @@ A well made collection of a variety of poses focusing on very cute girls, usuall
 <img src="/learn-drawing/img/tonikaku.jpg" alt="Tonikaku" width="280px"/>
 
 A huge collection of poses to learn from. Very varied and once again already simplified. A good reference book to have considering it even has poses with more than one person.
+
+**[ちょっとドキドキする女の子の仕草を描くイラストポーズ集](https://www.amazon.co.jp/-/en/%E3%82%B5%E3%82%A4%E3%83%89%E3%83%A9%E3%83%B3%E3%83%81-ebook/dp/B07BF99JZ9)**, *サイドランチ*
+
+<img src="/learn-drawing/img/dokidoki.jpg" alt="Dokidoki" width="280px"/>
+
+Those are poses meant to have you ドキッ, mostly composed of slightly risqué shots of everyday situations (日常の何気ない可愛い仕草 according to the description). It's fine, I'd get it if you're interested in this kind of stuff.
 
 ## General Anatomy
 
@@ -566,7 +585,97 @@ An interesting book on anatomy (do not let the title fool you) with direct appli
 
 <img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
 
+#### Courses
 
+**[Anatomy of the Human Body](https://www.proko.com/course/anatomy-of-the-human-body)**, *Stan Prokopenko*
+
+<img src="/learn-drawing/img/prokoanatomy.jpg" alt="Proko Anatomy" width="280px"/>
+
+Perhaps the most famous anatomy course on the internet. Proko's humor is a bit grating at times in my opinion, but you can tell he's a fantastic artist when it comes to the human body. His simplifications are pretty good (I especially liked his way of conceptualizing the pelvis) and it's extremely comprehensive. Good if you prefer videos.
+
+**[Art Anatomy for Beginners](https://www.nma.art/courses/art-anatomy-beginners/)**, *Steve Huston*
+
+<img src="/learn-drawing/img/hustonanatomy.jpg" alt="Huston Anatomy" width="280px"/>
+
+If you liked his figure drawing book or classes, you might enjoy Steve Huston's approach to anatomy laid out in this course. Anatomy was already tackled in his book, but I usually suggest beginners don't spend too much time on it early on, so if you didn't cover that part of the book, you might want to do it while following this course.
+
+## Specific Anatomy
+
+In this section, we take a look at specific parts of the body that people tend to have problems with such as the head or the hands and feet.
+
+**[Drawing the Head and Hands](https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978)**, *Andrew Loomis*
+
+<img src="/learn-drawing/img/loomishead.jpg" alt="LoomisHead" width="280px"/>
+
+Still _the_ reference for drawing the head and hands in my opinion. Of course, it's Loomis, so you can expect a lot of gorgeous drawing and a lot of time spent trying to copy them well to understand what simplifications he is making to make it look good. Highly recommended.
+
+**[Morpho: Face, Neck and Head](https://www.amazon.com/Morpho-Face-Head-Anatomy-Artists/dp/B0CDYQV3B7)**, *Michel Lauricella*
+
+<img src="/learn-drawing/img/morphoface.jpg" alt="MorphoFace" width="280px"/>
+
+We've already seen the Morpho series but I would like to highlight this book and the one below because they focus specifically on areas that tend to pose a lot of trouble for beginners, the head and the hands and feet. As usual with Morpho it's not terribly easy but it's extremely worth looking at to understand how to simplify anatomy in a productive way for your drawings.
+
+**[Morpho: Hands and Feet](https://www.amazon.com/Morpho-Hands-Feet-Anatomy-Artists/dp/168198539X)**, *Michel Lauricella*
+
+<img src="/learn-drawing/img/morphohands.jpg" alt="MorphoHands" width="280px"/>
+
+Same as the above but focusing on the hands and feet, two areas of the human body that are consistently among the hardest to nail as is evidenced by AI training in that area.
+
+**[「手」の描き方](https://www.amazon.co.jp/-/en/%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E5%85%A8%E5%8A%9B%E3%81%A7%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E3%82%B9%E3%82%B4%E3%81%84%E6%89%8B%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9/dp/481560567X)**, *加々美 高浩*
+
+<img src="/learn-drawing/img/te.jpg" alt="Te" width="280px"/>
+
+A part of the sames series as mignon's 肌塗り and どうしま's 服の塗り方, this one focuses on the hands. I'll admit I haven't really looked at this one much but when I skimmed it in 紀伊國屋 it looked decent. There's a [second book](https://www.amazon.co.jp/-/en/%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E5%85%A8%E5%8A%9B%E3%81%A7%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E3%82%B9%E3%82%B4%E3%81%84%E6%89%8B%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E5%8A%A0%E3%80%85%E7%BE%8E%E9%AB%98%E6%B5%A9/dp/481560567X) too. If you're specifically looking for anime-style hands, this might be worth looking into.
+
+**[目の描き方](https://www.amazon.co.jp/-/en/%E8%A1%A8%E7%8F%BE%E3%82%92%E6%A5%B5%E3%82%81%E3%82%8B-%E7%9B%AE%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E6%9C%AB%E5%86%A8%E6%AD%A3%E7%9B%B4/dp/4802511116)**, *末冨 正直 et al.*
+
+<img src="/learn-drawing/img/kiwameru.jpg" alt="Kiwameru" width="280px"/>
+
+This book is one of those Japanese artbooks where multiple illustrators get together to showcase their skill around a specific theme. Here, it is about the eyes in general with a first part discussing how to draw the eyes from various angles and so on.
+
+**[「瞳」描き方事典](https://www.amazon.co.jp/-/en/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%80%8C%E7%9E%B3%E3%80%8D%E6%8F%8F%E3%81%8D%E6%96%B9%E4%BA%8B%E5%85%B8-STUDIO-PAINT-EX%E3%81%A7%E6%8F%8F%E3%81%8F%EF%BC%81-%E5%80%8B%E6%80%A7%E3%82%92%E5%89%B5%E3%82%8B%E5%BD%A9%E8%89%B2%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB42/dp/4815617139)**, *株式会社レミック et al.*
+
+<img src="/learn-drawing/img/mejiten.jpg" alt="Mejiten" width="280px"/>
+
+This book is of the same category as the one above but focuses very specifically on the 瞳, the pupil of the eye, which is one of the major points of departure between classical portraiture and anime-style drawings. As other books in this series, it focuses on Clip Studio Paint but you can probably translate it to other digital illustration software.
+
+**[きらめく瞳の描き方](https://www.amazon.co.jp/-/en/%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E7%9E%B3%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%8E%84%E5%85%89%E7%A4%BE/dp/476831371X)**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+Part of the famous 超描けるシリーズ, this book focuses on the same topic: anime-style pupils. I feel like it does a bit of a better job at showcasing very different styles but both books are good so I would honestly just get both.
+
+**[Morpho: Fat and Skin Folds](https://www.amazon.com/Morpho-Skin-Folds-Anatomy-Artists/dp/1681985047)**, *Michel Lauricella*
+
+<img src="/learn-drawing/img/fatmorpho.jpg" alt="" width="280px"/>
+
+Now that's a book filling an important niche: how to draw fat around the body. This is a particularly interesting topic for the discerning artist because fat distribution is not as easy to understand as it might seem at first. Once again, another Morpho book so you know the drill, most of the good stuff in here is in the drawings, so get copying.
+
+#### Courses
+
+**[Understanding and Painting the Head](https://www.proko.com/course/understanding-and-painting-the-head-marcobucci)**, *Marco Bucci*
+
+<img src="/learn-drawing/img/bucci.jpg" alt="Bucci" width="280px"/>
+
+Marco Bucci is a fantastic art instructor. This course is a great introduction to drawing the head. Understanding the head really is about understanding the planes of the head (Asaro, etc.) and Marco explains it nicely which leads well to the part about shading.
+
+**[Constructive Head Drawing](https://www.proko.com/course/understanding-and-painting-the-head-marcobucci)**, *Steve Huston*
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+You know of my admiration for Steve Huston already so I won't waste too much time. If you like his stuff, you will like this. Bonus points for discussing how aging influences the anatomy of the head over time. There is a [follow-up course](https://www.nma.art/courses/advanced-head-drawing/). 
+
+**[Head Drawing and Construction](https://www.proko.com/course/head-drawing-and-construction)**, *Michael Hampton*
+
+<img src="/learn-drawing/img/.jpg" alt="hamptonhead" width="280px"/>
+
+Michael Hampton is the other author I really appreciate. As you might have noticed from his figure drawing book, Hampton is very constructive. If you liked his approach, you might like this course.
+
+**[Portrait Drawing Fundamentals](https://www.proko.com/course/portrait-drawing-fundamentals)**, *Stan Prokopenko*
+
+<img src="/learn-drawing/img/prokoportrait.jpg" alt="Proko Portrait" width="280px"/>
+
+Another one of the many video course that Proko has put out. I wasn't sure where to put this here since I don't have a portrait section (I don't really care much for it to be honest) but I figured it was about capturing the human head and its emotions after all. It's the usual Proko stuff, if you liked his Figure Drawing or Anatomy courses, you will like this. The production value is always high.
 
 **[]()**, **
 
@@ -708,7 +817,6 @@ An interesting book on anatomy (do not let the title fool you) with direct appli
 
 
 
-
 **[]()**, **
 
 <img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
@@ -755,5 +863,52 @@ An interesting book on anatomy (do not let the title fool you) with direct appli
 
 <img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
 
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+
+
+
+**[]()**, **
+
+<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
 
 
