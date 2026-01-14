@@ -21,7 +21,7 @@
 - [Part III: Design](#part-iii-design)
 	- [Character Design](#character-design)
 	- [Clothing and Folds](#clothing-and-folds)
-	- [Environments and Backgrounds](#environments-and-backgrounds)
+	- [Backgrounds](#backgrounds)
 	- [3D Tools](#3d-tools)
 - [Part IV: Miscellaneous](#part-iv-miscellaneous)
 	- [Some artists and artbooks I like](#some-artists-and-artbooks-i-like)
@@ -809,9 +809,9 @@ As the name implies, this is a dictionary focusing on how to draw a variety of c
 
 Originally, the course I had in mind was done by Glenn Vilppu but it seems like it got absorbed into this one because I cannot seem to find it anywhere online. Anyway, this has a variety of instructors from NMA (including Vilppu) describing clothing and drapery. Anyway, this course is absolutely massive (it's a whopping 34+ hours) and pretty much covers anything you'd ever need.
 
-## Environments and Backgrounds
+## Backgrounds
 
-In this section, we finally get to my favorite part of drawing: backgrounds. What first drew me into drawing was the art of Nier Automata with its sprawling and lifeless urban environments. This section is where we learn how to draw that kind of stuff. For this, a good understanding of perspective is imperative so make sure you're good on that.
+In this section, we finally get to my favorite part of drawing: backgrounds. What first drew me into drawing was the art of Nier Automata with its sprawling and lifeless urban environments. This section is where we learn how to draw that kind of stuff. For this, a good understanding of perspective is imperative so make sure you're good on that. Environment design is also included in this section.
 
 #### Books
 
@@ -871,29 +871,35 @@ Ok, it's pretty ballsy to put this textbook here. I know the purists will hate i
 
 Perhaps Nathan Fowkes's most important contribution, this course on environment design is the real deal. Obviously, Fowkes is a fantastic concept artist but he's also a really good instructor. If you like it, there's also an accompanying [workout course](https://schoolism.com/courses/concept-art/environment-design-workout-nathan-fowkes) that might be worth checking out where you can draw along.
 
-**[]()**, **
+## 3D Tools
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+This guide is about learning how to draw, so why is 3D mentioned at all? Well, for starters, because I like 3D and I think it's a fantastic tool to support your drawing journey in a variety of ways, be it as a way to simplify your drawings with a model or to better understand light and shadows with a simple ball and a light source. I am by no means an expert but I don't see the point in restricting ourselves to strictly 2D things, especially nowadays. Admittedly, I do not have a lot of references here, but here is what I know, and I only know Blender.
 
+**[亥と卯流 セルルックキャラクター](https://www.amazon.co.jp/-/en/%E3%80%90%E3%83%A2%E3%83%87%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E4%BB%98%E3%80%91Blender-%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%EF%BC%9A%E4%BA%A5%E3%81%A8%E5%8D%AF%E6%B5%81-%E3%82%BB%E3%83%AB%E3%83%AB%E3%83%83%E3%82%AF%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC-%E4%BA%A5%E3%81%A8%E5%8D%AF/dp/4862466303)**, *亥と卯*
 
+<img src="/learn-drawing/img/cell.jpg" alt="Cell" width="280px"/>
 
-**[]()**, **
+This Blender textbook is all about modelling an anime girl. It is not really about texturing but rather modelling from start to finish.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[Blenderジオメトリノード]()**, *シーメン・レンズ*
 
+<img src="/learn-drawing/img/node.jpg" alt="Node" width="280px"/>
 
+This textbook is more advanced as it is all about Blender nodes, a pretty powerful system that Blender uses to allow you to create complex effects. Not what I would start with, but useful if you've got some know-how already.
 
-**[]()**, **
+**[Blender 質感・マテリアル設定実践テクニック]()**, * 灰ならし*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/material.jpg" alt="Material" width="280px"/>
 
+The goal of this book is to get you to render and create a variety of materials, from very shiny metal to wood. Good stuff.
 
+#### Courses
 
-**[]()**, **
+**[Blender Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgGUwGwXlj9kBe7TrVWNjkyv)**, *Blender Guru*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/donut.jpg" alt="Donut" width="280px"/>
 
-
+This is where I recommend you start if you're interested in Blender or 3D tools more generally. This is maybe the most famous Blender tutorial ever and [Blender Guru](https://www.youtube.com/@blenderguru) updates it every year. Honestly, I'd do it just to see if you're interested. If you had fun going through the tutorial, then 3D work might be for you.
 
 **[]()**, **
 
