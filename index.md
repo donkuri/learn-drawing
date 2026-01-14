@@ -340,6 +340,24 @@ What a fantastic book. Hampton simplifies the human body in just the right way i
 
 Probably the most famous of all Loomis books, this one is a clear step up from Fun with a Pencil. It tackles the human body in all its glory. Similarly to Fun with a Pencil, the style is a bit dated and many people do not really like the explanations. Personally, I would probably just skim through the explanations and spend most of my time copying it instead, but some other people might benefit from the explanations.
 
+**[アタリ練習帳](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%82%93%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%82%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%A2%E3%82%BF%E3%83%AA%E7%B7%B4%E7%BF%92%E5%B8%B3-%E8%A5%BF%E6%9D%B1%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4791627970/355-3254362-7590161)**, *西東社*
+
+<img src="/learn-drawing/img/atari.jpg" alt="" width="280px"/>
+
+Tremendous book focusing on アタリ, the rough drawing of the pose before you start putting the muscles and so on. Includes a wide variety of poses that are broken down in four distinct steps, from アタリ to finished drawings. Highly recommended.
+
+**[美しい身体の作画ドリル](https://www.amazon.co.jp/-/en/%E3%83%95%E3%82%B8%E3%82%BF%E3%82%AF-ebook/dp/B0F9958HFT)**, *フジタク*
+
+<img src="/learn-drawing/img/utsukushii.jpg" alt="Utsukushii" width="280px"/>
+
+This one also focuses on the development from the アタリ to the full figure in a few steps. Cool poses in there and there are actual explanations that relate to the way the muscles are attached to the body itself. Good stuff.
+
+**[マンガキャラの描き方超入門](https://www.amazon.co.jp/-/en/%E8%A6%8B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E8%B6%85%E5%85%A5%E9%96%80-KawaiiSensei/dp/4415332781)**, *KawaiiSensei*
+
+<img src="/learn-drawing/img/kawaiisensei.jpg" alt="" width="280px"/>
+
+A pretty gentle introduction to drawing characters in a manga style, mostly by translating real life pictures into anime-style characters. Again, this could be placed elsewhere since it also discusses the head, but considering the amount of time spent on the human figure and the various poses, I think it fits right here. I like this book.
+
 **[Vilppu Drawing Manual](https://www.amazon.co.jp/-/en/Glenn-Vilppu-ebook/dp/B0FCV5BK8M)**, *Glenn Vilppu*
 
 <img src="/learn-drawing/img/vilppu.jpg" alt="Vilppu" width="280px"/>
@@ -358,29 +376,11 @@ A very famous figure drawing book, part of Mike Mattesi's FORCE series that focu
 
 Hikaru Hayashi is pretty well-known in the world of English books teaching you how to draw in a manga or anime kind of style. This is the only book I have seen from him but it is absolutely fantastic and it does not shy away from risqué angles and such (as is obvious from the extended title). Most of it is pretty good though I have seen one or two drawings that I thought were off here and there, so don't just copy mindlessly, try to understand why he does the simplifications you see. Good introduction to drawing cute anime girls, basically.
 
-**[アタリ練習帳](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%82%93%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%82%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%A2%E3%82%BF%E3%83%AA%E7%B7%B4%E7%BF%92%E5%B8%B3-%E8%A5%BF%E6%9D%B1%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4791627970/355-3254362-7590161)**, *西東社*
-
-<img src="/learn-drawing/img/atari.jpg" alt="" width="280px"/>
-
-Tremendous book focusing on アタリ, the rough drawing of the pose before you start putting the muscles and so on. Includes a wide variety of poses that are broken down in four distinct steps, from アタリ to finished drawings. Highly recommended.
-
-**[美しい身体の作画ドリル](https://www.amazon.co.jp/-/en/%E3%83%95%E3%82%B8%E3%82%BF%E3%82%AF-ebook/dp/B0F9958HFT)**, *フジタク*
-
-<img src="/learn-drawing/img/utsukushii.jpg" alt="Utsukushii" width="280px"/>
-
-This one also focuses on the development from the アタリ to the full figure in a few steps. Cool poses in there and there are actual explanations that relate to the way the muscles are attached to the body itself. Good stuff.
-
 **[人物作画テクニック](https://www.amazon.co.jp/-/en/超技巧-人物作画テクニック-ディテールから見えてくる、本当の線の捉え方-toshi/dp/4295200328/355-3254362-7590161)**, *toshi*
 
 <img src="/learn-drawing/img/jinbutsusakuga.jpg" alt="" width="280px"/>
 
 A variety of techniques to draw the human body from one of my favorite art teachers, toshi. This is a mixed bag of tips about perspective (see below), specific body parts and more general things so it does not fit neatly in one category. Since it's all about drawing the human body, I decided to put it in this category.
-
-**[マンガキャラの描き方超入門](https://www.amazon.co.jp/-/en/%E8%A6%8B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E8%B6%85%E5%85%A5%E9%96%80-KawaiiSensei/dp/4415332781)**, *KawaiiSensei*
-
-<img src="/learn-drawing/img/kawaiisensei.jpg" alt="" width="280px"/>
-
-A pretty gentle introduction to drawing characters in a manga style, mostly by translating real life pictures into anime-style characters. Again, this could be placed elsewhere since it also discusses the head, but considering the amount of time spent on the human figure and the various poses, I think it fits right here. I like this book.
 
 **[スーパーマンがデッサン](https://www.amazon.co.jp/-/en/%E6%96%B0%E8%A3%85%E7%89%88-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3-%E4%BD%9C%E7%94%BB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%80%83%E3%81%88%E3%82%8B%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3-%E6%9E%97-%E6%99%83/dp/476613978X)**, *林 晃*
 
@@ -522,7 +522,7 @@ This is the follow-up book, dealing with more dynamic problems in anatomy. If yo
 
 **[Anatomy for Sculptors](https://www.amazon.com/Anatomy-Sculptors-Understanding-Human-Figure/dp/1735039020)**, *Uldis Zarins*
 
-<img src="/learn-drawing/img/scultpors.jpg" alt="Zarins" width="280px"/>
+<img src="/learn-drawing/img/sculptors.jpg" alt="Zarins" width="280px"/>
 
 This fantastic reference is full of extremely detailed anatomical pictures, including 3D models. I use it as the ultimate reference book to help you answer some of your finer anatomical questions. The author is a sculptor but it's not just for sculptors despite what the title says.
 
@@ -540,7 +540,7 @@ Tom Fox is a pretty well known artist (especially on social media) and this is h
 
 **[Stonehouse's Anatomy Note](https://superanius.com/products/stonehouse-anatomy-note)**, *Jeonghyun Seok*
 
-<img src="/learn-drawing/img/stonehouse.jpg" alt="Stonehouse" width="280px"/>
+<img src="/learn-drawing/img/stonehouse.webp" alt="Stonehouse" width="280px"/>
 
 Considered by some to be kind of a final boss of anatomy. Honestly, it's very thick and I haven't been able to learn much from it yet because it's just above my paygrade, but it's legendary for a reason. The drawings are insane and you can tell the author understands anatomy in and out.
 
