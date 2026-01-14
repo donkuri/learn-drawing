@@ -20,9 +20,9 @@
 	- [Specific Anatomy](#specific-anatomy)
 - [Part III: Design](#part-iii-design)
 	- [Character Design](#character-design)
-	- [Environment Design](#environment-design)
-	- [Creature Design](#creature-design)
 	- [Clothing and Folds](#clothing-and-folds)
+	- [Environment Design](#environment-design)
+	- [3D Tools](#3d-tools)
 - [Part IV: Miscellaneous](#part-iv-miscellaneous)
 	- [Some artists and artbooks I like](#some-artists-and-artbooks-i-like)
 	- [A few potential learning tracks](#a-few-potential-learning-tracks)
@@ -229,6 +229,12 @@ This book is part of a whole series of tutorials that were translated in Japanes
 <img src="/learn-drawing/img/jack.jpg" alt="Jaco" width="280px"/>
 
 A great book by a fantastic author that focuses on monochromatic drawing techniques. One might argue this fits better under figure drawing or whatever, but the focus is on shading and monochromatic techniques so I've decided to put it here. If you want to see what the author's work looks like, check [this book](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B09CTSXK9N) out.
+
+**[透明感の描きかた](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E5%A1%97%E3%82%8A%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81-%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AE%E6%8F%8F%E3%81%8D%E3%81%8B%E3%81%9F-%E6%9C%B1%E9%87%8C/dp/4768330495)**, *朱里 et al.*
+
+<img src="/learn-drawing/img/toumeikan.jpg" alt="Toumeikan" width="280px"/>
+
+This book touches on one of my favorite anime style, drawings that have 透明感, a sense of "transparency" I guess, I'm not sure how to translate it. But well, just take a look at the cover. Does that look cool and something you might wanna be able to draw and render? Then get this book.
 
 **[「肌塗り」の秘訣](https://www.amazon.co.jp/mignon%E3%81%8C%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E8%82%8C%E5%A1%97%E3%82%8A%E3%80%8D%E3%81%AE%E7%A7%98%E8%A8%A3-%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%AB%E8%A6%8B%E6%83%9A%E3%82%8C%E3%82%8B%E4%BD%9C%E7%94%BB%E6%B5%81%E5%84%80-mignon/dp/4797397551)**, *mignon*
 
@@ -450,7 +456,6 @@ This is the second book and focuses specifically on 人体ドローイング as 
 
 Stan Prokopenko is perhaps YouTube's most well-known art instructor. His figure drawing course is well-constructed and pretty good, though not everyone can stand Proko's antics. Personally, I don't really mind, but I remember one of my friend getting pretty tired of it when she was going through the anatomy course. If you prefer watching rather than reading, this is really good.
 
-
 **[Constructive Figure Drawing](https://www.nma.art/courses/constructive-figure-drawing-i/)**, *Steve Huston*
 
 <img src="/learn-drawing/img/constructivefd.jpg" alt="Constructive FD" width="280px"/>
@@ -581,10 +586,6 @@ This might seem like a bit of a weird addition. This is very clearly a book abou
 
 An interesting book on anatomy (do not let the title fool you) with direct applications to more dynamic poses and movement, something that tends to be lacking in books discussing anatomy in my experience. I feel like the simplifications made are just right, although the book is slightly more difficult than it looks, so don't be fooled by the cute anime characters, this is a real anatomy book.
 
-**[](https://www.amazon.co.jp/-/en/%EF%BC%88%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A%EF%BC%89%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99%EF%BC%81-%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%80%8C%E8%BA%AB%E4%BD%93%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%83%E3%83%88/dp/4295015903)**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
 #### Courses
 
 **[Anatomy of the Human Body](https://www.proko.com/course/anatomy-of-the-human-body)**, *Stan Prokopenko*
@@ -645,6 +646,13 @@ This book is of the same category as the one above but focuses very specifically
 
 Part of the famous 超描けるシリーズ, this book focuses on the same topic: anime-style pupils. I feel like it does a bit of a better job at showcasing very different styles but both books are good so I would honestly just get both.
 
+
+**[「髪」の描き方](https://www.amazon.co.jp/-/en/Paryi%E3%81%8C%E5%85%A8%E5%8A%9B%E3%81%A7%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E9%AB%AA%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%83%98%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B%E4%BD%9C%E7%94%BB%E6%B5%81%E5%84%80-Paryi/dp/4815607168)**, *Paryi*
+
+<img src="/learn-drawing/img/paryi.jpg" alt="Paryi" width="280px"/>
+
+Another book in the same series, this one features a very extensive discussion of hair. Paryi is a true master and presents a wide variety of ideas including really wavy and interesting (albeit not practical) hairstyles.
+
 **[Morpho: Fat and Skin Folds](https://www.amazon.com/Morpho-Skin-Folds-Anatomy-Artists/dp/1681985047)**, *Michel Lauricella*
 
 <img src="/learn-drawing/img/morphofat.jpg" alt="MorphoFat" width="280px"/>
@@ -677,66 +685,61 @@ Michael Hampton is the other author I really appreciate. As you might have notic
 
 Another one of the many video course that Proko has put out. I wasn't sure where to put this here since I don't have a portrait section (I don't really care much for it to be honest) but I figured it was about capturing the human head and its emotions after all. It's the usual Proko stuff, if you liked his Figure Drawing or Anatomy courses, you will like this. The production value is always high.
 
-**[]()**, **
+# Part III: Design
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+The first two parts dealt with a lot of foundational topics. This third part, the final one discussing specific learning resources, is more subtle. It deals with the question of design in general: How do we design appealing characters? How do we design beautiful backgrounds? The first question will be answered with character design which is split into general character design and clothing.
 
+## Character Design
 
+Picture this: You draw really well, you honed all your fundamentals, your perspective is fantastic, your anatomy is outstanding, great gesture, great rendering. The only question left is: what do we draw? The books in this section help you think about this with regards to characters.
 
-**[]()**, **
+**[Designing Creatures and Characters](https://www.amazon.com/Designing-Creatures-Characters-Portfolio-Animation/dp/1440344094)**, *Marc Taro Holmes*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/holmes.jpg" alt="Holmes" width="280px"/>
 
+A pretty cool book from the rest of the section that doesn't focus so much on specific things as much as it is about generating interesting concept ideas. You can tell Holmes is an industry veteran because the whole thing sounds very "industry-ready" so to speak, so if you're trying to break in the concept artist space you should get this book.
 
+**[Fundamentals of Character Design](https://www.amazon.com/Fundamentals-Character-Design-Illustration-Development/dp/1912843188)**, **
 
-**[]()**, **
+<img src="/learn-drawing/img/fundamentalscd.jpg" alt="FundamentalsCD" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+Immediate disclosure, I have not bought this book (yet). As the title implies, this books lays out the basic fundamentals of character design such as shape language, choice of color, etc. To be honest, I'm not a huge fan of this kind of cartoonish style but the book is supposedly fantastic so I'm keeping it here. I have heard a lot about it from friends so it is probably decent at least. If when I get it I realize it's not great, I'll take it out.
 
+**[ゼロから生み出すキャラクターデザインと表現のコツ](https://www.amazon.co.jp/-/en/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E8%A1%A8%E7%8F%BE%E3%81%AE%E3%82%B3%E3%83%84-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%B4%85%E6%9C%A8-%E6%98%A5/dp/4768315666)**, *紅木 春*
 
+<img src="/learn-drawing/img/zerokara.jpg" alt="ZeroKara" width="280px"/>
 
-**[]()**, **
+A somewhat basic textbook on character design and face expressions. I came across it in Maruzen a bit ago and thought it was very accessible. It does not look life-changing but it might be helpful for a beginner looking to make their characters a bit more expressive.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[「キャラクター」のデザイン＆描き方](https://www.amazon.co.jp/-/en/%E3%80%8C%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%80%8D%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%97%E3%81%A7%E9%AD%85%E3%81%9B%E3%82%8B%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%8A%80%E5%B7%A7-%E3%81%8F%E3%82%8B%E3%81%BF%E3%81%A4/dp/4798625949)**, *くるみつ*
 
+<img src="/learn-drawing/img/kurumitsu.jpg" alt="Kurumitsu" width="280px"/>
 
+What a flashbang of colors! This is くるみつ's design style, colorful pop. Personally, I love this. Even if you do not like it, there is a lot to learn here. This is especially true of color theory, or rather of how the author chooses color to express dynamism. Highly recommended.
 
-**[]()**, **
+**[カラフルポップな「ミニキャラ」のデザイン&描き方](https://www.amazon.co.jp/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%97%E3%81%AA%E3%80%8C%E3%83%9F%E3%83%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%80%8D%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%81%8F%E3%82%8B%E3%81%BF%E3%81%A4/dp/4868190369)**, *くるみつ*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/kurumini.jpg" alt="Kurumini" width="280px"/>
 
+The second book that くるみつ put out, this one focuses on ミニキャラ, usually called chibi characters in English. If you liked the one above, I highly suggest this one again if chibi characters are of interest to you.
 
+**[ミニキャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%9F%E3%83%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%8C%E3%81%A1%E3%81%BE%E3%81%A3%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%80%8D%E3%82%92%E6%8F%8F%E3%81%8F%E5%9F%BA%E6%9C%AC%EF%BC%86%E8%A1%A8%E7%8F%BE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E5%A4%A2%E3%83%8E%E5%86%85%E5%8D%83%E6%98%A5/dp/4295204447)**, **
 
-**[]()**, **
+<img src="/learn-drawing/img/minikyara.jpg" alt="Minikyara" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+Another chibi characters book. This one explains the transposition process between standard and chibi illustrations quite well, so I'd get it even if you don't plan on making chibi characters immediately, because there's a lot to learn about design in the way this transposition happens.
 
+**[メルヘンファンタジーな女の子のキャラデザ＆作画テクニック](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%AA%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%87%E3%82%B6%EF%BC%86%E4%BD%9C%E7%94%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768309844)**, *佐倉おりこ*
 
+<img src="/learn-drawing/img/madchen.jpg" alt="Madchen" width="280px"/>
 
-**[]()**, **
+Yet another book in the 超描けるシリーズ, this one focuses on a very specific design theme, メルヘン (from the German Märchen 'fairy tale'), anime girls with lots of frills that seem straight out of a fairy tale. The title also mentions "fantasy" and I agree that quite a few of these designs could fit right into one of those popular isekai manga. Obviously very specific, but if you like it, there's a [follow-up book](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E8%A1%A3%E8%A3%85%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768311970) and a [clothes catalog](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89-%E3%81%8A%E3%82%8A%E3%81%93/dp/4768316727).
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[かわいい女の子の衣装デザインアイデア帳](https://www.amazon.co.jp/-/en/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E8%A1%A3%E8%A3%85%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E5%B8%B3-%E4%BD%90%E5%80%89-%E3%81%8A%E3%82%8A%E3%81%93/dp/4768320139)**, *佐倉おりこ*
 
+<img src="/learn-drawing/img/oriko.jpg" alt="Oriko" width="280px"/>
 
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+Same author as the above so if you like very cute moe girls this might be for you. I'm more into edgy characters so it's less my thing, but still. This somewhat overlaps with clothes but since it also mentions stuff like hairstyles, I think it's fine here.
 
 **[]()**, **
 
