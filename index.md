@@ -1,4 +1,4 @@
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/4c482587-4b59-474f-b354-9f626bbd2692" /># Contents
+# Contents
 
 - [Introductory remarks](#introductory-remarks)
 	- [What is this?](#what-is-this)
