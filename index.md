@@ -11,7 +11,7 @@
 - [Part I: Foundations](#part-i-foundations)
 	- [Construction](#construction)
 	- [Perspective](#perspective)
-	- [Color and Light](#color-and-light)
+	- [Rendering](#rendering)
 	- [Composition](#composition)
 - [Part II: The Human Body](#part-ii-the-human-body)
 	- [Figure Drawing](#figure-drawing)
@@ -164,9 +164,9 @@ Krenz is a master although his stuff is sometimes hard to understand. Still, he'
 
 This is an extremely comprehensive look at perspective, including some difficult topics. I highly recommend you do not start with this straight up if you haven't seen perspective before because it's a bit overwhelming. Instead, I would use this as a second look, at the same time or replacing Scott Robertson's How to Draw.
 
-## Color and Light
+## Rendering
 
-Color and light are often packaged together because, well, color is perceived through light. This is also where shadows, i.e. the partial (or total) absence of light, usually get treated.
+Rendering is about painting through color and light. These two are often packaged together because, well, color is perceived through light. This is also where shadows, i.e. the partial (or total) absence of light, usually get treated.
 
 #### Books
 
@@ -200,6 +200,18 @@ Very cute book. Basically, it's a workbook that teaches you where to put shadows
 
 We are going to see many books by toshi in this guide. This one focuses on an animator's point of view when it comes to shading. It describes a lot of dynamic poses from many angles with a lot of tips and tricks to understand how and where to fill in shadows properly. Great stuff.
 
+**[Framed Perspective Vol.2](https://www.amazon.com/Framed-Perspective-Vol-Technical-Characters/dp/1624650325)**, *Marcos Mateu-Mestre*
+
+<img src="/learn-drawing/img/mmm2.jpg" alt="FPvol2" width="280px"/>
+
+This is the follow-up book to Marcos Mateu-Mestre's other very famous book Framed Perspective Vol.1 which we saw before. This second book aims to help you draw shadows in perspective. If you liked the first one, I recommend looking at this one too.
+
+**[How to Render](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961)**, *Scott Robertson*
+
+<img src="/learn-drawing/img/scott2.jpg" alt="Scott2" width="280px"/>
+
+This is Robertson's second book in the "How to" series, building on the first book about perspective we saw before. If you loved the first one, you're likely to also like this one. I consider this to be the final say on rendering just about anything and it's more of a reference for me currently, though the explanations are surprisingly understandable. I genuinely think any artist should study this book cover to cover at some point. I know I will.
+
 **[Color and Light](https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719)**, *James Gurney*
 
 <img src="/learn-drawing/img/gurney.jpg" alt="" width="280px"/>
@@ -218,55 +230,35 @@ This book is part of a whole series of tutorials that were translated in Japanes
 
 A great book by a fantastic author that focuses on monochromatic drawing techniques. One might argue this fits better under figure drawing or whatever, but the focus is on shading and monochromatic techniques so I've decided to put it here. If you want to see what the author's work looks like, check [this book](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B09CTSXK9N) out.
 
+**[「肌塗り」の秘訣](https://www.amazon.co.jp/mignon%E3%81%8C%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E6%95%99%E3%81%88%E3%82%8B%E3%80%8C%E8%82%8C%E5%A1%97%E3%82%8A%E3%80%8D%E3%81%AE%E7%A7%98%E8%A8%A3-%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%AB%E8%A6%8B%E6%83%9A%E3%82%8C%E3%82%8B%E4%BD%9C%E7%94%BB%E6%B5%81%E5%84%80-mignon/dp/4797397551)**, *mignon*
 
+<img src="/learn-drawing/img/hadanuri.jpg" alt="Hadanuri" width="280px"/>
 
-**[]()**, **
+This book is part of a series where masters lecture on the topic they are most famous for. In the case of mignon, it is most definitely rendering the human skin. This is invaluable if you draw anime characters.
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+**[「服」の塗り方](https://www.amazon.co.jp/-/en/%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE-ebook/dp/B09J4BVV1P)**, *どうしま*
 
+<img src="/learn-drawing/img/fukunuri.jpg" alt="Fukunuri" width="280px"/>
 
+Another book in the same series as mignon above, this one focusing on rendering clothes.
 
-**[]()**, **
+**[デジタルイラスト「塗り」の教科書](https://www.amazon.co.jp/-/en/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-%E3%80%8C%E5%A1%97%E3%82%8A%E3%80%8D%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%EF%BC%BBCLIP-STUDIO-PAINT-PRO-iPad%E5%AF%BE%E5%BF%9C%EF%BC%BD/dp/4297135612)**, **
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/nuri.jpg" alt="Nuri" width="280px"/>
 
+In Japan, an entire category of textbooks exists where a variety of famous illustrators are asked to show how they approach a certain things. Here, it is about rendering. Usually, these books will focus on a specific rendering tool as well, here it is Clip Studio Paint. There are many like this, and I think it's worth getting these once you understand the basics already and want to see how masters approach a variety of subjects. This one is good but there are others such as [キャラ塗り上達術](https://www.amazon.co.jp/-/en/%E3%80%90%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A%E3%80%91%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB%E3%81%AE%E6%8A%80%E3%82%92%E5%AE%8C%E5%85%A8%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AD%E3%83%A3%E3%83%A9%E5%A1%97%E3%82%8A%E4%B8%8A%E9%81%94%E8%A1%93-CLIP-STUDIO-PAINT/dp/4295005630), [真・キャラ塗り上達術](https://www.amazon.co.jp/-/en/%EF%BC%88%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%87%E3%83%BC%E3%82%BF%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%EF%BC%89%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB%E3%81%AE%E6%8A%80%E3%82%92%E5%AE%8C%E5%85%A8%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E7%9C%9F%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E5%A1%97%E3%82%8A%E4%B8%8A%E9%81%94%E8%A1%93-CLIP-STUDIO-PAINT/dp/4295016004), [デジタルイラストの「キャラ塗り」最強事典](https://www.amazon.co.jp/-/en/%E3%80%90%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A%E3%80%91%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB%E3%81%AE%E6%8A%80%E3%82%92%E5%AE%8C%E5%85%A8%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%AD%E3%83%A3%E3%83%A9%E5%A1%97%E3%82%8A%E4%B8%8A%E9%81%94%E8%A1%93-CLIP-STUDIO-PAINT/dp/4295005630). You can get all of them if you want, but I would rather suggest you only get one if it has an illustration you particularly like and want to understand how it was done.
 
+**[美しい幻想世界とキャラクターを描く](https://www.amazon.co.jp/-/en/%E8%97%A4%E3%81%A1%E3%82%87%E3%81%93-ebook/dp/B07FDQBFP5)**, *藤ちょこ*
 
-**[]()**, **
+<img src="/learn-drawing/img/gensou.jpg" alt="Gensou" width="280px"/>
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+I wasn't sure where to put this book honestly, but since it's 藤ちょこ and her speciality is most definitely rendering, I think it's fine to put it there. Put shortly this is one of my favorite artist and I think you should check out her entire work, it will change how you think about environment design and rendering.
 
 **[塗りフェチ事典](https://www.amazon.co.jp/-/en/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E8%82%89%E6%84%9F%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%92%E6%8F%8F%E3%81%8F-%E5%A1%97%E3%82%8A%E3%83%95%E3%82%A7%E3%83%81%E4%BA%8B%E5%85%B8-%E5%A5%B3%E3%81%AE%E5%AD%90%E7%B7%A8-HJ%E6%8A%80%E6%B3%95%E6%9B%B8%E7%B7%A8%E9%9B%86%E9%83%A8/dp/479862750X)**, *HJ技法書編集部*
 
 <img src="/learn-drawing/img/fechi.jpg" alt="Fechi" width="280px"/>
 
 As the name implies, this is a dictionary for coloring and emphasizing specific parts of the body to make them more sexy. A variety of great artists show you how they approach one illustration with a specific theme in mind.
-
-**[Framed Perspective Vol.2](https://www.amazon.com/Framed-Perspective-Vol-Technical-Characters/dp/1624650325)**, *Marcos Mateu-Mestre*
-
-<img src="/learn-drawing/img/mmm2.jpg" alt="FPvol2" width="280px"/>
-
-This is the follow-up book to Marcos Mateu-Mestre's other very famous book Framed Perspective Vol.1 which we saw before. This second book aims to help you draw shadows in perspective. If you liked the first one, I recommend looking at this one too.
-
-**[How to Render](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961)**, *Scott Robertson*
-
-<img src="/learn-drawing/img/scott2.jpg" alt="Scott2" width="280px"/>
-
-This is Robertson's second book in the "How to" series, building on the first book about perspective we saw before. If you loved the first one, you're likely to also like this one. I consider this to be the final say on rendering just about anything and it's more of a reference for me currently, though the explanations are surprisingly understandable. I genuinely think any artist should study this book cover to cover at some point. I know I will.
 
 #### Courses
 
@@ -408,17 +400,35 @@ The book series that put toshi on the map. As is usual with toshi, this covers a
 
 As you might have noticed, we are going to meet a lot of toshi books in this section and in the guide more generally, in part due to personal bias but also because animators are really good at capturing movement and gesture, something crucial to getting illustrations that are full of life. As the title implies, this books deals with the fundamental rules of character drawing from an animator's point of view.
 
-**[]()**, **
+**[お絵描きチュートリアル](https://www.amazon.co.jp/-/en/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308139)**, *Rino Park*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/paku.jpg" alt="Paku" width="280px"/>
 
+Another book in Rino Park's excellent series of tutorials on drawing. This is an introduction to お絵描き more generally but it focuses on the human body. I have this book and the one on color and light (the one we've mentioned before) but I haven't used it much. Still, it's famous for a reason.
 
+**[美少女キャラデッサンの流儀](https://www.amazon.co.jp/-/en/%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3%E3%81%AE%E6%B5%81%E5%84%80-%E5%AE%9D%E5%B3%B6%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4299056922)**, *宝島社編集部*
+
+<img src="/learn-drawing/img/ryuugi.jpg" alt="Ryuugi" width="280px"/>
+
+This book and the next asks three illustrators to draw a beautiful anime girl (美少女) and they explain their process as they're doing it, similar to the rendering books from before. You learn tips and tricks along the way as well as some insight in the way they go about drawing cute girls.
+
+**[女の子キャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB3%E4%BA%BA%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B-%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3%E6%B5%81%E5%84%80-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4766135385)**, * グラフィック社編集部*
+
+<img src="/learn-drawing/img/ryuugi2.jpg" alt="Ryuugi2" width="280px"/>
+
+Same idea as above, this time focusing on 女の子 as opposed to 美少女, so more about girls being "cute", I guess. Personally, I like the illustrations a little less but the content is still good.
 
 **[神技作画](https://www.amazon.co.jp//Manabu-Kamiwaza-Learning-Techniques-Scratch/dp/4046015039)**, *toshi*
 
 <img src="/learn-drawing/img/kamiwaza.jpg" alt="" width="280px"/>
 
 Yet another book by toshi (sorry!) which first tackles a variety of important questions and struggles in a Q&A. Once again, a book that touches on a variety of subjects that might also be classified elsewhere (for instance shadows and such). Worth getting after you have some experience with drawing アタリ and such. There's [another one](https://www.amazon.co.jp/-/en/%E6%A5%B5%E3%82%81%E3%82%8B-%E3%82%AD%E3%83%A3%E3%83%A9%E4%BD%9C%E7%94%BB-%E7%A5%9E%E6%8A%80%E4%BD%9C%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-KITORA/dp/4046024380) in the series but I don't know much about this one.
+
+**[魅力的な「身体」の描き方](https://www.amazon.co.jp/-/en/%EF%BC%88%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A%EF%BC%89%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99%EF%BC%81-%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%80%8C%E8%BA%AB%E4%BD%93%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%83%E3%83%88/dp/4295015903)**, *ジェネット*
+
+<img src="/learn-drawing/img/miryokushintai.jpg" alt="MiryokuShintai" width="280px"/>
+
+I wasn't sure whether to put this here or in anatomy, but in the end I thought it would be better here. This is a pretty accessible introduction to drawing the body (with a lot of focus on different parts individually) in an anime style to make it look attractive. Personally, I like the drawing and it's easy to get into, so it's good in my book. If you like it, there's also [one focused on the head and face](https://www.amazon.co.jp/-/en/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99-%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%80%8C%E3%82%AD%E3%83%A3%E3%83%A9%E9%A1%94%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B5%E3%82%A4%E3%83%89%E3%83%A9%E3%83%B3%E3%83%81/dp/429501060X), but personally I do not think this is the author's strong point.
 
 **[キャラ作画のコツ160](https://www.amazon.co.jp/-/en/TACO%E7%9B%B4%E4%BC%9D%EF%BC%81-%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E6%82%A9%E3%81%BF%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B-%E3%82%AD%E3%83%A3%E3%83%A9%E4%BD%9C%E7%94%BB%E3%81%AE%E3%82%B3%E3%83%84160-TACO%EF%BC%88%E3%82%BF%E3%82%B3%EF%BC%89/dp/4756257690)**, *TACO*
 
@@ -431,12 +441,6 @@ This book along with the next discuss コツ, various tips and tricks for drawin
 <img src="/learn-drawing/img/kotsu2.jpg" alt="Kotsu-2" width="280px"/>
 
 This is the second book and focuses specifically on 人体ドローイング as the title implies.
-
-**[お絵描きチュートリアル](https://www.amazon.co.jp/-/en/%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%91%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%8E/dp/4837308139)**, *Rino Park*
-
-<img src="/learn-drawing/img/paku.jpg" alt="Paku" width="280px"/>
-
-Another book in Rino Park's excellent series of tutorials on drawing. This is an introduction to お絵描き more generally but it focuses on the human body. I have this book and the one on color and light (the one we've mentioned before) but I haven't used it much. Still, it's famous for a reason.
 
 #### Courses
 
@@ -558,14 +562,7 @@ This might seem like a bit of a weird addition. This is very clearly a book abou
 
 An interesting book on anatomy (do not let the title fool you) with direct applications to more dynamic poses and movement, something that tends to be lacking in books discussing anatomy in my experience. I feel like the simplifications made are just right, although the book is slightly more difficult than it looks, so don't be fooled by the cute anime characters, this is a real anatomy book.
 
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-
-**[]()**, **
+**[](https://www.amazon.co.jp/-/en/%EF%BC%88%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%B9%E5%85%B8%E3%81%82%E3%82%8A%EF%BC%89%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99%EF%BC%81-%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%80%8C%E8%BA%AB%E4%BD%93%E3%80%8D%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%83%E3%83%88/dp/4295015903)**, **
 
 <img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
 
