@@ -639,15 +639,15 @@ This book is one of those Japanese artbooks where multiple illustrators get toge
 
 This book is of the same category as the one above but focuses very specifically on the 瞳, the pupil of the eye, which is one of the major points of departure between classical portraiture and anime-style drawings. As other books in this series, it focuses on Clip Studio Paint but you can probably translate it to other digital illustration software.
 
-**[きらめく瞳の描き方](https://www.amazon.co.jp/-/en/%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E7%9E%B3%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%8E%84%E5%85%89%E7%A4%BE/dp/476831371X)**, **
+**[きらめく瞳の描き方](https://www.amazon.co.jp/-/en/%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E7%9E%B3%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%8E%84%E5%85%89%E7%A4%BE/dp/476831371X)**, *玄光社*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/kirameku.jpg" alt="Kirameku" width="280px"/>
 
 Part of the famous 超描けるシリーズ, this book focuses on the same topic: anime-style pupils. I feel like it does a bit of a better job at showcasing very different styles but both books are good so I would honestly just get both.
 
 **[Morpho: Fat and Skin Folds](https://www.amazon.com/Morpho-Skin-Folds-Anatomy-Artists/dp/1681985047)**, *Michel Lauricella*
 
-<img src="/learn-drawing/img/fatmorpho.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/morphofat.jpg" alt="MorphoFat" width="280px"/>
 
 Now that's a book filling an important niche: how to draw fat around the body. This is a particularly interesting topic for the discerning artist because fat distribution is not as easy to understand as it might seem at first. Once again, another Morpho book so you know the drill, most of the good stuff in here is in the drawings, so get copying.
 
@@ -661,13 +661,13 @@ Marco Bucci is a fantastic art instructor. This course is a great introduction t
 
 **[Constructive Head Drawing](https://www.proko.com/course/understanding-and-painting-the-head-marcobucci)**, *Steve Huston*
 
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
+<img src="/learn-drawing/img/constructive.jpg" alt="Constructive" width="280px"/>
 
 You know of my admiration for Steve Huston already so I won't waste too much time. If you like his stuff, you will like this. Bonus points for discussing how aging influences the anatomy of the head over time. There is a [follow-up course](https://www.nma.art/courses/advanced-head-drawing/). 
 
 **[Head Drawing and Construction](https://www.proko.com/course/head-drawing-and-construction)**, *Michael Hampton*
 
-<img src="/learn-drawing/img/.jpg" alt="hamptonhead" width="280px"/>
+<img src="/learn-drawing/img/hamptonhead.jpg" alt="hamptonhead" width="280px"/>
 
 Michael Hampton is the other author I really appreciate. As you might have noticed from his figure drawing book, Hampton is very constructive. If you liked his approach, you might like this course.
 
