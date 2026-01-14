@@ -596,7 +596,7 @@ Perhaps the most famous anatomy course on the internet. Proko's humor is a bit g
 
 **[Art Anatomy for Beginners](https://www.nma.art/courses/art-anatomy-beginners/)**, *Steve Huston*
 
-<img src="/learn-drawing/img/hustonanatomy.jpg" alt="Huston Anatomy" width="280px"/>
+<img src="/learn-drawing/img/hustonanatomy.png" alt="Huston Anatomy" width="280px"/>
 
 If you liked his figure drawing book or classes, you might enjoy Steve Huston's approach to anatomy laid out in this course. Anatomy was already tackled in his book, but I usually suggest beginners don't spend too much time on it early on, so if you didn't cover that part of the book, you might want to do it while following this course.
 
@@ -671,7 +671,7 @@ Marco Bucci is a fantastic art instructor. This course is a great introduction t
 
 **[Constructive Head Drawing](https://www.proko.com/course/understanding-and-painting-the-head-marcobucci)**, *Steve Huston*
 
-<img src="/learn-drawing/img/constructive.jpg" alt="Constructive" width="280px"/>
+<img src="/learn-drawing/img/constructive.png" alt="Constructive" width="280px"/>
 
 You know of my admiration for Steve Huston already so I won't waste too much time. If you like his stuff, you will like this. Bonus points for discussing how aging influences the anatomy of the head over time. There is a [follow-up course](https://www.nma.art/courses/advanced-head-drawing/). 
 
@@ -683,7 +683,7 @@ Michael Hampton is the other author I really appreciate. As you might have notic
 
 **[Portrait Drawing Fundamentals](https://www.proko.com/course/portrait-drawing-fundamentals)**, *Stan Prokopenko*
 
-<img src="/learn-drawing/img/prokoportrait.jpg" alt="Proko Portrait" width="280px"/>
+<img src="/learn-drawing/img/prokoportrait.jpeg" alt="Proko Portrait" width="280px"/>
 
 Another one of the many video course that Proko has put out. I wasn't sure where to put this here since I don't have a portrait section (I don't really care much for it to be honest) but I figured it was about capturing the human head and its emotions after all. It's the usual Proko stuff, if you liked his Figure Drawing or Anatomy courses, you will like this. The production value is always high.
 
@@ -735,9 +735,15 @@ Another chibi characters book. This one explains the transposition process betwe
 
 **[メルヘンファンタジーな女の子のキャラデザ＆作画テクニック](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%AA%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%87%E3%82%B6%EF%BC%86%E4%BD%9C%E7%94%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768309844)**, *佐倉おりこ*
 
-<img src="/learn-drawing/img/madchen.jpg" alt="Madchen" width="280px"/>
+<img src="/learn-drawing/img/marchen.jpg" alt="Marchen" width="280px"/>
 
-Yet another book in the 超描けるシリーズ, this one focuses on a very specific design theme, メルヘン (from the German Märchen 'fairy tale'), anime girls with lots of frills that seem straight out of a fairy tale. The title also mentions "fantasy" and I agree that quite a few of these designs could fit right into one of those popular isekai manga. Obviously very specific, but if you like it, there's a [follow-up book](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E8%A1%A3%E8%A3%85%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768311970) and a [clothes catalog](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89-%E3%81%8A%E3%82%8A%E3%81%93/dp/4768316727).
+One more book in the 超描けるシリーズ, this one focuses on a very specific design theme, メルヘン (from the German Märchen 'fairy tale'), anime girls with lots of frills that seem straight out of a fairy tale. The title also mentions "fantasy" and I agree that quite a few of these designs could fit right into one of those popular isekai manga. Obviously very specific, but if you like it, there's a [follow-up book](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E8%A1%A3%E8%A3%85%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89%E3%81%8A%E3%82%8A%E3%81%93/dp/4768311970) and a [clothes catalog](https://www.amazon.co.jp/-/en/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0-%E8%B6%85%E6%8F%8F%E3%81%91%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BD%90%E5%80%89-%E3%81%8A%E3%82%8A%E3%81%93/dp/4768316727).
+
+**[キャラクターデザインの教科書](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7%E5%AD%A6%E3%81%B6%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E4%BA%BA%E7%89%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%88-%E3%81%A1%E3%82%83%E3%82%82%E3%83%BC%E3%81%84%E3%80%81toi8%E3%80%81%E3%81%A4%E3%81%AA%E3%81%93%E3%80%81%E3%81%86%E3%81%A3%E3%81%91%E3%80%81Anmi-%E3%80%89/dp/4844365568)**, *株式会社Playce*
+
+<img src="/learn-drawing/img/playce.jpg" alt="Playce" width="280px"/>
+
+Another one of these books where multiple illustrators are invited to think about a specific theme, here character design. Each illustrator designs a cute anime girl based on a specific theme such as a game character, cosplay, etc. I don't think it's mind-blowing but if you like these kinds of books, why not.
 
 **[かわいい女の子の衣装デザインアイデア帳](https://www.amazon.co.jp/-/en/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E8%A1%A3%E8%A3%85%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E5%B8%B3-%E4%BD%90%E5%80%89-%E3%81%8A%E3%82%8A%E3%81%93/dp/4768320139)**, *佐倉おりこ*
 
@@ -750,12 +756,6 @@ Same author as the above so if you like very cute moe girls this might be for yo
 <img src="/learn-drawing/img/vtuber.jpg" alt="VTuber" width="280px"/>
 
 Bit of a different thing going on here. You might have noticed that VTubers are all over pop culture. This books focuses on how to create (and animate) a female VTuber model. Not exactly my thing but since they're so popular, I figure someone will be interested.
-
-**[キャラクターデザインの教科書](https://www.amazon.co.jp/-/en/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7%E5%AD%A6%E3%81%B6%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E4%BA%BA%E7%89%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%88-%E3%81%A1%E3%82%83%E3%82%82%E3%83%BC%E3%81%84%E3%80%81toi8%E3%80%81%E3%81%A4%E3%81%AA%E3%81%93%E3%80%81%E3%81%86%E3%81%A3%E3%81%91%E3%80%81Anmi-%E3%80%89/dp/4844365568)**, *株式会社Playce*
-
-<img src="/learn-drawing/img/playce.jpg" alt="Playce" width="280px"/>
-
-Another one of these books where multiple illustrators are invited to think about a specific theme, here character design. Each illustrator designs a cute anime girl based on a specific theme such as a game character, cosplay, etc. I don't think it's mind-blowing but if you like these kinds of books, why not.
 
 #### Courses
 
