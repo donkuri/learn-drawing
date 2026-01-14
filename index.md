@@ -226,7 +226,7 @@ This book is part of a whole series of tutorials that were translated in Japanes
 
 **[モノクロイラストテクニック](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B07KJ9ST18)**, *jaco*
 
-<img src="/learn-drawing/img/jack.jpg" alt="Jaco" width="280px"/>
+<img src="/learn-drawing/img/jaco.jpg" alt="Jaco" width="280px"/>
 
 A great book by a fantastic author that focuses on monochromatic drawing techniques. One might argue this fits better under figure drawing or whatever, but the focus is on shading and monochromatic techniques so I've decided to put it here. If you want to see what the author's work looks like, check [this book](https://www.amazon.co.jp/-/en/jaco-ebook/dp/B09CTSXK9N) out.
 
