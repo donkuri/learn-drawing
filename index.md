@@ -795,7 +795,7 @@ A pretty approachable book about clothing folds and filling in shadows. My frien
 
 This one focuses a bit more on how folds and creases are created along the clothes as movement happens. I think the references are very clear and the action lines help you better understand what is happening. Good stuff.
 
-**[デジタルイラストの「服装」描き方事典](https://www.amazon.co.jp/デジタルイラストの「服装」描き方事典-キャラクターを着飾る衣服の秘訣45-デジタルイラスト描き方事典-スタジオ・ハードデラックス/dp/4797389915)**, **
+**[デジタルイラストの「服装」描き方事典](https://www.amazon.co.jp/デジタルイラストの「服装」描き方事典-キャラクターを着飾る衣服の秘訣45-デジタルイラスト描き方事典-スタジオ・ハードデラックス/dp/4797389915)**, *スタジオ・ハードデラックス*
 
 <img src="/learn-drawing/img/fukusou.jpg" alt="Fukusou" width="280px"/>
 
@@ -887,7 +887,7 @@ This Blender textbook is all about modelling an anime girl. It is not really abo
 
 This textbook is more advanced as it is all about Blender nodes, a pretty powerful system that Blender uses to allow you to create complex effects. Not what I would start with, but useful if you've got some know-how already.
 
-**[Blender 質感・マテリアル設定実践テクニック]()**, * 灰ならし*
+**[Blender 質感・マテリアル設定実践テクニック]()**, *灰ならし*
 
 <img src="/learn-drawing/img/material.jpg" alt="Material" width="280px"/>
 
