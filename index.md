@@ -418,7 +418,7 @@ Another book in Rino Park's excellent series of tutorials on drawing. This is an
 
 This book and the next asks three illustrators to draw a beautiful anime girl (美少女) and they explain their process as they're doing it, similar to the rendering books from before. You learn tips and tricks along the way as well as some insight in the way they go about drawing cute girls.
 
-**[女の子キャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB3%E4%BA%BA%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B-%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3%E6%B5%81%E5%84%80-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4766135385)**, * グラフィック社編集部*
+**[女の子キャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%97%E3%83%AD%E7%B5%B5%E5%B8%AB3%E4%BA%BA%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B-%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%83%87%E3%83%83%E3%82%B5%E3%83%B3%E6%B5%81%E5%84%80-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E7%A4%BE%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4766135385)**, *グラフィック社編集部*
 
 <img src="/learn-drawing/img/ryuugi2.jpg" alt="Ryuugi2" width="280px"/>
 
@@ -727,7 +727,7 @@ What a flashbang of colors! This is くるみつ's design style, colorful pop. P
 
 The second book that くるみつ put out, this one focuses on ミニキャラ, usually called chibi characters in English. If you liked the one above, I highly suggest this one again if chibi characters are of interest to you.
 
-**[ミニキャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%9F%E3%83%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%8C%E3%81%A1%E3%81%BE%E3%81%A3%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%80%8D%E3%82%92%E6%8F%8F%E3%81%8F%E5%9F%BA%E6%9C%AC%EF%BC%86%E8%A1%A8%E7%8F%BE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E5%A4%A2%E3%83%8E%E5%86%85%E5%8D%83%E6%98%A5/dp/4295204447)**, **
+**[ミニキャラの描き方](https://www.amazon.co.jp/-/en/%E3%83%9F%E3%83%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9-%E3%80%8C%E3%81%A1%E3%81%BE%E3%81%A3%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%80%8D%E3%82%92%E6%8F%8F%E3%81%8F%E5%9F%BA%E6%9C%AC%EF%BC%86%E8%A1%A8%E7%8F%BE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E5%A4%A2%E3%83%8E%E5%86%85%E5%8D%83%E6%98%A5/dp/4295204447)**, *夢ノ内千春*
 
 <img src="/learn-drawing/img/minikyara.jpg" alt="Minikyara" width="280px"/>
 
@@ -819,7 +819,7 @@ A cute book focusing on very girly clothing with lots of frills and ribons. It's
 
 <img src="/learn-drawing/img/nma.jpg" alt="NMA" width="280px"/>
 
-Originally, the course I had in mind was done by Glenn Vilppu but it seems like it got absorbed into this one because I cannot seem to find it anywhere online. Anyway, this has a variety of instructors from NMA (including Vilppu) describing clothing and drapery. Anyway, this course is absolutely massive (it's a whopping 34+ hours) and pretty much covers anything you'd ever need.
+Originally, the course I had in mind was done by Glenn Vilppu but it appears that it got absorbed into this one because I cannot seem to find it anywhere online. Anyway, this has a variety of instructors from NMA (including Vilppu) describing clothing and drapery. Anyway, this course is absolutely massive (it's a whopping 34+ hours) and pretty much covers anything you'd ever need.
 
 ## Backgrounds
 
