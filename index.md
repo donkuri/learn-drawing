@@ -220,9 +220,6 @@ Here are how the five stages are constructed:
   <img
     src="/learn-drawing/img/construction.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
-	<figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 6. Construction (choose one).</i>
-  </figcaption>
 </figure>
 This stage is the most important one of them all. Everything builds off construction one way or another, because it is where you learn how to observe and see with the eyes of an artist, and this is the most important skill you can develop. Just completing Drawabox or Eviston's book can be enough to draw everyday objects and simple stuff decently well and for some, this will be the end of their drawing journey. Pick one or the other but try both to see what you prefer. If you want to get funky, replace either of these with Fun With a Pencil instead.
 
@@ -231,9 +228,6 @@ This stage is the most important one of them all. Everything builds off construc
   <img
     src="/learn-drawing/img/coretheory.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
-	<figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 7. Core Theory.</i>
-  </figcaption>
 </figure>
 This is where things get serious. We now learn about core fundamentals that we will work on during our entire life as artists. Steve Huston's Figure Drawing for Artists and Hampton's Figure Drawing: Design and Invention are two complementary outlooks on figure drawing where we will get acquainted with the human body for the first time. Huston will help us understand gesture and structure through the analysis of masterworks, Hampton will help us understand how the human body is constructed. 
 
@@ -244,9 +238,6 @@ Do not neglect gesture, this infuses your drawings with life. At the same time, 
   <img
     src="/learn-drawing/img/livingsubject.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
-	<figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 8. The Living Subject.</i>
-  </figcaption>
 </figure>
 
 We continue our exploration of the human body. Figure Drawing for All It's Worth will help us get more technical about the body and its proportions. Drawing the Head and Hands will help us with some of the more complicated aspects of the human body. In Framed Perspective Vol. 2, we spend some time trying to apply what we learned in Color and Light by understanding light and shadows with characters in perspective. 
@@ -258,9 +249,6 @@ Through this, we see how light and perspective interact to develop volume and th
   <img
     src="/learn-drawing/img/structureintent.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
-	<figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 9. Structure and Intent.</i>
-  </figcaption>
 </figure>
 Through the past stages, we have gotten acquainted with a variety of art fundamentals. Now, it is time to put more structure in our drawing to more precisely transfer our ideas on the canvas. To do this, we need to deepen our understanding of everything we have already done. This starts with our first deep look at anatomy through Basic Human Anatomy. In there, we learn how to simplify the complex structure of the human body into something manageable. 
 
@@ -271,9 +259,6 @@ Unlike figure drawing where we were mostly interested in keeping the general pro
   <img
     src="/learn-drawing/img/chasingdetails.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
-	<figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 10. Chasing the Details.</i>
-  </figcaption>
 </figure>
 The final, unending stage. By now, you are already an accomplished artist. What is left is to chase the details. To help us, we continue our anatomical adventure, first with Dynamic Human Anatomy. This picks up where we left off but as the title implies, helps us better understand human anatomy in movement. This ties back with our very first theme in figure drawing: gesture is life. 
 
