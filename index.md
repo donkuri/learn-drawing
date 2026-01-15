@@ -268,7 +268,7 @@ As a reality check, I have friends around Stage 2 that regularly get commissione
 Here are how the five stages are constructed:
 
 #### Stage 1: Construction
-<figure style="margin: 2.5rem 0;">
+<figure style="margin: 0.75rem 0 2rem 0;">
   <img
     src="/learn-drawing/img/construction.png"
     style="max-width: 50%; height: auto; display: block; margin: 0 0 0.75rem 0;">
@@ -278,7 +278,7 @@ This stage is the most important one of them all. Everything builds off construc
 Just completing Drawabox or Eviston's book can be enough to draw everyday objects and simple stuff decently well and for some, this will be the end of their drawing journey. Pick one or the other but try both to see what you prefer. If you want to get funky, replace either of these with Fun With a Pencil instead.
 
 #### Stage 2: Core Theory
-<figure style="margin: 2.5rem 0;">
+<figure style="margin: 0.75rem 0 2rem 0;">
   <img
     src="/learn-drawing/img/ctcropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
@@ -288,7 +288,7 @@ This is where things get serious. We now learn about core fundamentals that we w
 Do not neglect gesture, this infuses your drawings with life. At the same time, we will spend some time pondering the more formal aspects of drawing through Framed Perspective Vol.1. Perspective makes up the formal constructs that help us see three-dimensionality in two-dimensional drawing. We will also meet the laws of nature through our study of Color and Light. We will work on all of these skills over and over and over again in this roadmap.
 
 #### Stage 3: The Living Subject
-<figure style="margin: 2.5rem 0;">
+<figure style="margin: 0.75rem 0 2rem 0;">
   <img
     src="/learn-drawing/img/lscropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
@@ -299,7 +299,7 @@ We continue our exploration of the human body. Figure Drawing for All It's Worth
 Through this, we see how light and perspective interact to develop volume and three-dimensionality and give another layer of depth to our drawings. In Clothing folds and creases by the Morpho Anatomy series, we learn more about how clothing interacts with the human figure. Taken together, these four books allow us to understand the human body more dynamically.
 
 #### Stage 4: Structure and Intent
-<figure style="margin: 2.5rem 0;">
+<figure style="margin: 0.75rem 0 2rem 0;">
   <img
     src="/learn-drawing/img/sicropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
@@ -311,7 +311,7 @@ Unlike figure drawing where we were mostly interested in keeping the general pro
 The first one is a complete treatise on perspective culminating in complex technical drawings. The second one is a most thorough look at rendering including reflective materials. To tie it all together, we study composition through Framed Ink, allowing us to better construct beautiful scenes for our characters to shine.
 
 #### Stage 5: Chasing the Details
-<figure style="margin: 2.5rem 0;">
+<figure style="margin: 0.75rem 0 2rem 0;">
   <img
     src="/learn-drawing/img/cdcropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
