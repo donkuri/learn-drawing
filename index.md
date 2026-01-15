@@ -92,9 +92,7 @@ Once we understand all these things, we will be ready to see the actual roadmap 
 
 First, I would learn about setting up (micro)habits. I also heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. 
 
-Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available.
-
-Once you have decided how much time you want to set aside for art every week or every day, here is the routine I would follow:
+Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available. Once you have decided how much time you want to set aside for art every week or every day, here is the routine I would follow:
 
 I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing. Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. 
 
@@ -104,17 +102,13 @@ After this, it's the main topic or drawing of the day. This is my focused study 
 
 A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. 
 
-As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage.
+As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage. Once this is done, I like to do some free stuff. This is my fun time and it is sacred. 
 
-Once this is done, I like to do some free stuff. This is my fun time and it is sacred. I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. 
-
-Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
+I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
 
 This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this introduction, let it be this. 
 
-If you want to learn how to draw, draw; preferably, a lot. 
-
-Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
+If you want to learn how to draw, draw; preferably, a lot. Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
 
 > Q: **Ok, cool, but how do I know how much to study and how much to have fun?**
 
