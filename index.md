@@ -8,7 +8,11 @@
 	- [Why did you not include this resource?](#why-did-you-not-include-this-resource)
 	- [There are so many resources!](#there-are-so-many-resources)
 - [Part I: Methodology and Roadmap](#part-i-methodology-and-roadmap)
-	- [How do I learn to draw?](#how-do-i-learn-to-draw)
+	- [Methodology](#methodology)
+ 		- [Structuring your practice](#structuring-your-practice)
+     	- [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
+     	- [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-frustration-and-burnout)
+     	- [Feedback and progression](#feedback-and-progression)
 - [Part II: Resources and Syllabus](#part-ii-resources-and-syllabus)
 	- [Foundations](#foundations)
   		- [Construction](#construction)
@@ -114,7 +118,7 @@ Here, we can see that the slider is far to the right, in the study portion. Mayb
 
 Those are also valid situations in which to push your slider all the way to the right, but here you need to be a lot more prudent. While the first situation can make you want to stop drawing over a long period of time (in which you see no progress), intense studying for extended periods of time can lead to rapid and sudden crash and burn. While everyone has a different tolerance for these things, every single person _has_ a tolerance level and going past it for too long is dangerous. This is the other way I have seen beginners give up, usually at an alarmingly fast rate. Once again, you need to be aware of these things.
 
-### The eye-hand paradox: understanding frustration and burnout
+### The eye-hand paradox: understanding burnout
 
 You might have seen that one case appeared in both situations above, albeit in reverse. This is what I call the *eye-hand paradox*:
 
@@ -147,12 +151,13 @@ In the second situation, *your hand dominates your progress*, this means that wh
 
 These two situations are complementary. In the eye-dominated situations, you have a strong and clear incentive to get better and what you need to do can become clear if you focus your vision. In hand-dominated situations, you have space to explore your limitations through a back and forth art conversation with your favorite artists. Cherish both situations. If you internalize this properly, you _will_ succeed.
 
-## How do I learn to draw?
-
-
-
+### Feedback and progression
 
 The topic of feedback tends to be sensitive in my experience. Most artists I know tend to be very wary of both receiving and giving criticism, even if it is constructive and candid. This might be because a lot of artists tend to identify very strongly with their art, which makes it a sensitive topic. Not to mention, improvement takes a very long time, something that people tend not to realize upfront. I urge you to stay open-minded and to look for harsh yet constructive criticism that will help you to grow. 
+
+## Roadmap
+
+WIP.
 
 ## Part II: Resources and Syllabus
 
