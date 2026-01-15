@@ -38,9 +38,13 @@
 
 ### What is this?
 
-This website was made catalog and discuss a variety of resources (mostly books) to learn how to draw, along with a general methodology to go from total beginner to advanced. One unique feature of this guide is that it discusses resources in two languages: English and Japanese. For the Japanese resources, I assume you can read Japanese (or at least have something like [Yomitan](https://yomitan.wiki/)) to help you understand. The intersection of people wanting to learn how to draw, especially in an anime-style, and the people who want to learn Japanese is significant in my personal experience. I hope this place can be of help to those people. 
+This website was made catalog and discuss a variety of resources (mostly books) to learn how to draw, along with a general methodology to go from total beginner to advanced. One unique feature of this guide is that it discusses resources in two languages: English and Japanese. 
 
-My hope is that everyone can learn from these, but they are also tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. My main skill is in game direction and scenario and I have decided to learn how to draw better to help with prototyping ideas. I do not claim expertise in the same way that I do on the [Mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/) learning websites. If that fact bothers you, feel free to disregard my explanations and just use this website as a catalog and gallery of cool artbooks.
+For the Japanese resources, I assume you can read Japanese (or at least have something like [Yomitan](https://yomitan.wiki/)) to help you understand. The intersection of people wanting to learn how to draw, especially in an anime-style, and the people who want to learn Japanese is significant in my personal experience. I hope this place can be of help to those people. 
+
+My hope is that everyone can learn from these, but they are also tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. My main skill is in game direction and scenario and I have decided to learn how to draw better to help with prototyping ideas. 
+
+I do not claim expertise in the same way that I do on the [Mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/) learning websites. If that fact bothers you, feel free to disregard my explanations and just use this website as a catalog and gallery of cool artbooks.
 
 ### What is required to do this?
 
@@ -70,7 +74,9 @@ In this first part, I would like to explain the methodology behind this guide as
 
 Some of them are beginning artists, some are fresh art school graduates, some are self-taught and trying to break into the industry, some are respected artists who already broke in and have gone to work on large projects. They all influenced my outlook on how to go about learning how to draw, but also how to learn in general, and this guide is one of a few I have written on specific subjects such as [mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/).
 
-I have specific biases I need to tell you upfront. I am heavily inspired by Japanese animation (e.g. Serial Experiments Lain) and video games (e.g. Nier Automata). At the same time, I am also very fond of French painters such as Boucher, Fragonard, Cabanel (although my favorite painter is Pierre Soulages). These two influences do not hold the same weight in the resources selection below but they are both represented, most notably with Steve Huston (my favorite art instructor) representing the style of the Old Masters in many of his resources. 
+I have specific biases I need to tell you upfront. I am heavily inspired by Japanese animation (e.g. Serial Experiments Lain) and video games (e.g. Nier Automata). At the same time, I am also very fond of French painters such as Boucher, Fragonard, Cabanel (although my favorite painter is Pierre Soulages). 
+
+These two influences do not hold the same weight in the resources selection below but they are both represented, most notably with Steve Huston (my favorite art instructor) representing the style of the Old Masters in many of his resources. 
 
 Because of this interest in animation, multiple resources are explicitly aimed at understanding drawing from an animator's point of view, for instance the resources made by toshi and Glenn Vilppu. Nonetheless, I have avoided recommending resources to learn animation because I do not understand it well enough and I only have one such book: [The Animator's Survival Kit](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X) by Richard Williams.
 
@@ -78,23 +84,37 @@ Alright. With that out of the way, let's get started.
 
 ## How to Learn
 
-In this first section I would like to give you a few pointers to help better understand what we will do to learn how to draw. First we will start by asking ourselves how to set ourselves up for success by creating and structuring a practice routine. After this, I will explain how exactly you should decide what to do with your time. Finally, we will examine one common problem that artists face which often leads to frustration, sometimes all the way to burnout and giving up for good. Once we understand all these things, we will be ready to see the actual roadmap of things we need to learn to get good at drawing in general.
+In this first section I would like to give you a few pointers to help better understand what we will do to learn how to draw. First we will start by asking ourselves how to set ourselves up for success by creating and structuring a practice routine. After this, I will explain how exactly you should decide what to do with your time. Finally, we will examine one common problem that artists face which often leads to frustration, sometimes all the way to burnout and giving up for good. 
+
+Once we understand all these things, we will be ready to see the actual roadmap of things we need to learn to get good at drawing in general.
 
 ### Structuring your practice
 
-First, I would learn about setting up (micro)habits. I also heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available.
+First, I would learn about setting up (micro)habits. I also heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. 
+
+Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available.
 
 Once you have decided how much time you want to set aside for art every week or every day, here is the routine I would follow:
 
-I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing. Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. I find this necessary to have better line quality and "flow", and I find that if I go straight into drawing and studying something complicated, I tend to do worse. Not to mention, these are some of the most important, fundamental things you will have to practice your entire drawing journey. These aren't levels you beat, these are muscles you stretch everyday to run the distance.
+I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing. Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. 
+
+I find this necessary to have better line quality and "flow", and I find that if I go straight into drawing and studying something complicated, I tend to do worse. Not to mention, these are some of the most important, fundamental things you will have to practice your entire drawing journey. These aren't levels you beat, these are muscles you stretch everyday to run the distance.
 
 After this, it's the main topic or drawing of the day. This is my focused study session. As an example, let's say you are currently learning figure drawing and you're working on the chapter about advancing gesture in Huston's Figure Drawing for Artists. 
 
-A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage.
+A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. 
 
-Once this is done, I like to do some free stuff. This is my fun time and it is sacred. I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not you? 
+As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage.
 
-This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this introduction, let it be this. If you want to learn how to draw, draw; preferably, a lot. Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
+Once this is done, I like to do some free stuff. This is my fun time and it is sacred. I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. 
+
+Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
+
+This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this introduction, let it be this. 
+
+If you want to learn how to draw, draw; preferably, a lot. 
+
+Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
 
 > Q: **Ok, cool, but how do I know how much to study and how much to have fun?**
 
@@ -113,7 +133,11 @@ Please observe the following graphic.
   </figcaption>
 </figure>
 
-This is a representation of how much time you would like to put into studying as opposed to more fun activities. Currently, the slider is right in the middle at 50%. This is my recommended initial setup: *You divide your time evenly between studying and fun*. But this is just the initial setup and it will change based on a variety of factors including where you are in your learning journey, your current goal, the difficulty of the material, your mental and physical health, the events you have planned for the day and week, etc. Whatever it is, I suggest you consciously set your study slider to some value you choose. Here are two common cases:
+This is a representation of how much time you would like to put into studying as opposed to more fun activities. Currently, the slider is right in the middle at 50%. This is my recommended initial setup: *You divide your time evenly between studying and fun*. 
+
+But this is just the initial setup and it will change based on a variety of factors including where you are in your learning journey, your current goal, the difficulty of the material, your mental and physical health, the events you have planned for the day and week, etc. Whatever it is, I suggest you consciously set your study slider to some value you choose. 
+
+Here are two common cases:
 
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
@@ -124,9 +148,13 @@ This is a representation of how much time you would like to put into studying as
   </figcaption>
 </figure>
 
-Here, we can see that the slider is far to the left, in the fun portion. Maybe you spend more than 80% of your time just having fun. This is where you want to be in a few situations: Something is not going well for you at the moment and you do not have the mental capacity to study something extensively; You want to focus on applying the skills you have learned recently in a non-systematic way by trying a variety of different things; You are still exploring whether you are interested in this whole drawing thing; You are drawing to cope with a specific life event that has made it difficult for you to do anything else; Your eye has not yet caught up to your recent progress and you feel like a drawing god. 
+Here, we can see that the slider is far to the left, in the fun portion. Maybe you spend more than 80% of your time just having fun. This is where you want to be in a few situations: 
 
-Those are all valid situations in which pushing your slider all the way to the left are quite legitimate. Of course this comes as a cost. Usually, you will make less _focused_ progress (not less progress period, that's a misconception) meaning that some of your goals might not be hit quite as fast. This is not the worst place to be in generally speaking but very slow progress is one of the leading causes of burnout and giving up contrary to what you might expect. This is not specific to drawing, I have seen this happen over and over with beginners trying to learn Japanese. As long as you are aware of this, it's fine. Now let's see the opposite situation.
+Something is not going well for you at the moment and you do not have the mental capacity to study something extensively; You want to focus on applying the skills you have learned recently in a non-systematic way by trying a variety of different things; You are still exploring whether you are interested in this whole drawing thing; You are drawing to cope with a specific life event that has made it difficult for you to do anything else; Your eye has not yet caught up to your recent progress and you feel like a drawing god. 
+
+Those are all valid situations in which pushing your slider all the way to the left are quite legitimate. Of course this comes as a cost. Usually, you will make less _focused_ progress (not less progress period, that's a misconception) meaning that some of your goals might not be hit quite as fast. This is not the worst place to be in generally speaking but very slow progress is one of the leading causes of burnout and giving up contrary to what you might expect. 
+
+This is not specific to drawing, I have seen this happen over and over with beginners trying to learn Japanese. As long as you are aware of this, it's fine. Now let's see the opposite situation.
 
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
@@ -137,9 +165,13 @@ Those are all valid situations in which pushing your slider all the way to the l
   </figcaption>
 </figure>
 
-Here, we can see that the slider is far to the right, in the study portion. Maybe you spend more than 80% of your time just studying. This is where you want to be in a few situations: You feel an exceptional and enduring surge of motivation to get better; You feel lost and need to focus on something to help you see some kind of progress in your art journey; You are trying to develop your portfolio for an upcoming deadline and you are refining one specific component; You are part of an intense but short study group focused on a specific topic; Your eye has caught up to your current skill and you feel like the worst artist in existence, past and present.
+Here, we can see that the slider is far to the right, in the study portion. Maybe you spend more than 80% of your time just studying. This is where you want to be in a few situations: 
 
-Those are also valid situations in which to push your slider all the way to the right, but here you need to be a lot more prudent. While the first situation can make you want to stop drawing over a long period of time (in which you see no progress), intense studying for extended periods of time can lead to rapid and sudden crash and burn. While everyone has a different tolerance for these things, every single person _has_ a tolerance level and going past it for too long is dangerous. This is the other way I have seen beginners give up, usually at an alarmingly fast rate. Once again, you need to be aware of these things.
+You feel an exceptional and enduring surge of motivation to get better; You feel lost and need to focus on something to help you see some kind of progress in your art journey; You are trying to develop your portfolio for an upcoming deadline and you are refining one specific component; You are part of an intense but short study group focused on a specific topic; Your eye has caught up to your current skill and you feel like the worst artist in existence, past and present.
+
+Those are also valid situations in which to push your slider all the way to the right, but here you need to be a lot more prudent. While the first situation can make you want to stop drawing over a long period of time (in which you see no progress), intense studying for extended periods of time can lead to rapid and sudden crash and burn. 
+
+While everyone has a different tolerance for these things, every single person _has_ a tolerance level and going past it for too long is dangerous. This is the other way I have seen beginners give up, usually at an alarmingly fast rate. Once again, you need to be aware of these things.
 
 ### The eye-hand paradox: understanding burnout
 
@@ -160,7 +192,9 @@ A good way to understand this is by looking at the following picture.
 
 This is a bit abstract but the idea is the following. Over time, your eye (meaning how you observe, what you see, how you decompose and simplify life, etc.) and your hand (your applied skill and understanding from theory, your actual drawings, etc.) will progress at different rates. Often, they will not line up quite right. This leads to two kinds of situations.
 
-In the first one (green over blue), your eye is a lot better than your hand is and you see all the little problems in your drawings you did not necessarily see before. This is an opportunity for tremendous growth, but it is also deeply demoralizing. This is when you will start to say things such as "I suck!", "Why did I ever start drawing if it's to produce this kind of crap?", "I should just give up, clearly I have zero talent.", etc. If you do not give up but keep going, you will eventually cross back into the other situation (blue over green) where your hand is better than your eye. 
+In the first one (green over blue), your eye is a lot better than your hand is and you see all the little problems in your drawings you did not necessarily see before. This is an opportunity for tremendous growth, but it is also deeply demoralizing. 
+
+This is when you will start to say things such as "I suck!", "Why did I ever start drawing if it's to produce this kind of crap?", "I should just give up, clearly I have zero talent.", etc. If you do not give up but keep going, you will eventually cross back into the other situation (blue over green) where your hand is better than your eye. 
 
 This is when you will feel like a drawing god. You will start to say things such as "Did I always understand perspective so well?", "Man look at this sternocleiodmastoid insertion!", "The composition is just right!", etc. You should fully enjoy this phase because sooner or later, if you wish to keep progressing, you will cross back into the first situation again. This back and forth cycle is what progress will look like if you embark on this drawing journey.
 
@@ -170,23 +204,35 @@ If you start seeing it as a tool for progress, it becomes a lot bearable. What y
 
 #### Leveraging eye-dominated situations
 
-In the first situation, your *eye dominates your progress*, this means that your eye will tell you what seems to suck so much if you let it. Don't give in to temptation to just say "Everything sucks!", instead do the following: Take your two or three most recent drawings and then start going through your very first drawings, those really crusty ones. Use your fantastic eye to see what changed. Even little wins help. Maybe your line quality god better. Maybe your anatomy got better. Maybe you had no sense of gesture back then but now your drawings are full of life. Look at things objectively. 
+In the first situation, your *eye dominates your progress*, this means that your eye will tell you what seems to suck so much if you let it. Don't give in to temptation to just say "Everything sucks!", instead do the following: Take your two or three most recent drawings and then start going through your very first drawings, those really crusty ones. 
 
-Remember: Being in this situation does not mean you stopped progressing, it just means your skill now has to play catch up with your eye. Some people start with a fantastic eye, some people start with a poor eye. Both will have to improve significantly either way, so there's no point in comparing. Either way *the progress is always there, it's just sometimes too hard to see because everything else is overwhelming*. 
+Use your fantastic eye to see what changed. Even little wins help. Maybe your line quality god better. Maybe your anatomy got better. Maybe you had no sense of gesture back then but now your drawings are full of life. Look at things objectively. 
+
+Remember: Being in this situation does not mean you stopped progressing, it just means your skill now has to play catch up with your eye. Some people start with a fantastic eye, some people start with a poor eye. Both will have to improve significantly either way, so there's no point in comparing. 
+
+Either way *the progress is always there, it's just sometimes too hard to see because everything else is overwhelming*. 
 
 When you seem to hit plateaus in your art journey, it might just be your eye that got better and you are now noticing issues that were invisible to you before. Don't beat yourself up too much because you think you suck. Even great artists think they suck. Just embrace the journey. If you play your cards right, it might last you a lifetime or two.
 
 #### Leveraging hand-dominated situations
 
-In the second situation, *your hand dominates your progress*, this means that what exactly you should work on is not fully apparent at the moment. First of all: pat yourself on the back, you rock. After you have (deservedly) congratulated yourself, it's time to work on your eye. Keep studying through the syllabus, but put more emphasis on observation. Go look at Old Masters study. Copy your favorite artists. What is it that they are doing that amazes you? What is missing in your own drawings? Try something really hard for fun. What is blocking you? What is not blocking you?
+In the second situation, *your hand dominates your progress*, this means that what exactly you should work on is not fully apparent at the moment. First of all: pat yourself on the back, you rock. After you have (deservedly) congratulated yourself, it's time to work on your eye. Keep studying through the syllabus, but put more emphasis on observation. 
 
-These two situations are complementary. In the eye-dominated situations, you have a strong and clear incentive to get better and what you need to do can become clear if you focus your vision. In hand-dominated situations, you have space to explore your limitations through a back and forth art conversation with your favorite artists. Cherish both situations. If you internalize this properly, you _will_ succeed.
+Go look at Old Masters study. Copy your favorite artists. What is it that they are doing that amazes you? What is missing in your own drawings? Try something really hard for fun. What is blocking you? What is not blocking you?
+
+These two situations are complementary. 
+
+In the eye-dominated situations, you have a strong and clear incentive to get better and what you need to do can become clear if you focus your vision. In hand-dominated situations, you have space to explore your limitations through a back and forth art conversation with your favorite artists. Cherish both situations. If you internalize this properly, you _will_ succeed.
 
 ### Feedback and progression
 
-The topic of feedback tends to be sensitive in my experience. Most artists I know tend to be very wary of both receiving and giving criticism, even if it is constructive and candid. This might be because a lot of artists tend to identify very strongly with their art, which makes it a sensitive topic. Not to mention, improvement takes a very long time, something that people tend not to realize upfront. I urge you to stay open-minded and to look for harsh yet constructive criticism that will help you to grow long term. This is particularly true in *eye-dominated* situations (see above) where you can't seem to understand what to do to get better. Trust me, other good artists usually will.
+The topic of feedback tends to be sensitive in my experience. Most artists I know tend to be very wary of both receiving and giving criticism, even if it is constructive and candid. This might be because a lot of artists tend to identify very strongly with their art, which makes it a sensitive topic. Not to mention, improvement takes a very long time, something that people tend not to realize upfront. 
 
-Ideally, you would take part in a supportive community of like-minded artists all looking to get better. This is not particularly easy to find. Some people pretend to want to progress but do not actually want to hear any feedback. Some people will give harsh criticism about small mostly irrelevant details in your artwork. Some people will spend most of their time being subtly dismissive of your work to avoid feeling bad about their artwork. 
+I urge you to stay open-minded and to look for harsh yet constructive criticism that will help you to grow long term. This is particularly true in *eye-dominated* situations (see above) where you can't seem to understand what to do to get better. Trust me, other good artists usually will.
+
+Ideally, you would take part in a supportive community of like-minded artists all looking to get better. This is not particularly easy to find. 
+
+Some people pretend to want to progress but do not actually want to hear any feedback. Some people will give harsh criticism about small mostly irrelevant details in your artwork. Some people will spend most of their time being subtly dismissive of your work to avoid feeling bad about their artwork. 
 
 Avoid crab buckets with all your might. If possible, find an art sibling (someone with similar artistic interests and aspirations) to progress together. If you have the chance, find a mentor, someone you look up to and respect. More generally, keep a gallery of artists you would like to emulate, see the [third part](#part-iii-references-and-inspiration) of this guide for inspiration.
 
@@ -196,7 +242,9 @@ If you properly digest the advice in this section, you will have all the right t
 
 So what do we actually do?
 
-Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose books and courses you can follow. You can check [Part II](#part-ii) for alternatives you could do instead if what I chose does not appeal to you. The only thing I would advise against is bypassing the first stage (construction). Here is the roadmap, I will detail it below.
+Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose books and courses you can follow. You can check [Part II](#part-ii) for alternatives you could do instead if what I chose does not appeal to you. The only thing I would advise against is bypassing the first stage (construction).
+
+Here is the roadmap, I will detail it below.
 
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
@@ -209,9 +257,13 @@ Below, I would like to propose one possible roadmap to learn how to draw. In it,
 
 ### The Five Roadmap Stages
 
-I have separated the roadmap in roughly five sections. The roadmap is made so that each stage benefits from what you have learned before but you are free to skip ahead if something sounds particularly interesting to you. Roughly speaking, every skill builds on construction, and I would highly advise doing figure drawing before anatomy. Composition can be studied whenever, although I believe a basic understanding of perspective makes it more applicable. It's a neglected fundamental so do not skip it. 
+I have separated the roadmap in roughly five sections. The roadmap is made so that each stage benefits from what you have learned before but you are free to skip ahead if something sounds particularly interesting to you. Roughly speaking, every skill builds on construction, and I would highly advise doing figure drawing before anatomy. 
 
-These stages are not meant to be completed quickly and can take years. This does not mean you are not a good artist until you're done with them all, and you can find work way better then too. As a reality check, I have friends around Stage 2 that regularly get commissioned for art, so don't confuse earning a living with advancing your craft. The goal is not to cross items off a checklist, the goal is to be able to fluidly transpose your ideas on a piece of paper or tablet.
+Composition can be studied whenever, although I believe a basic understanding of perspective makes it more applicable. It's a neglected fundamental so do not skip it. 
+
+These stages are not meant to be completed quickly and can take years. This does not mean you are not a good artist until you're done with them all, and you can find work way better then too. 
+
+As a reality check, I have friends around Stage 2 that regularly get commissioned for art, so don't confuse earning a living with advancing your craft. The goal is not to cross items off a checklist, the goal is to be able to fluidly transpose your ideas on a piece of paper or tablet.
 
 Here are how the five stages are constructed:
 
@@ -221,7 +273,9 @@ Here are how the five stages are constructed:
     src="/learn-drawing/img/construction.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
-This stage is the most important one of them all. Everything builds off construction one way or another, because it is where you learn how to observe and see with the eyes of an artist, and this is the most important skill you can develop. Just completing Drawabox or Eviston's book can be enough to draw everyday objects and simple stuff decently well and for some, this will be the end of their drawing journey. Pick one or the other but try both to see what you prefer. If you want to get funky, replace either of these with Fun With a Pencil instead.
+This stage is the most important one of them all. Everything builds off construction one way or another, because it is where you learn how to observe and see with the eyes of an artist, and this is the most important skill you can develop. 
+
+Just completing Drawabox or Eviston's book can be enough to draw everyday objects and simple stuff decently well and for some, this will be the end of their drawing journey. Pick one or the other but try both to see what you prefer. If you want to get funky, replace either of these with Fun With a Pencil instead.
 
 #### Stage 2: Core Theory
 <figure style="margin: 2.5rem 0;">
@@ -252,7 +306,9 @@ Through this, we see how light and perspective interact to develop volume and th
 </figure>
 Through the past stages, we have gotten acquainted with a variety of art fundamentals. Now, it is time to put more structure in our drawing to more precisely transfer our ideas on the canvas. To do this, we need to deepen our understanding of everything we have already done. This starts with our first deep look at anatomy through Basic Human Anatomy. In there, we learn how to simplify the complex structure of the human body into something manageable. 
 
-Unlike figure drawing where we were mostly interested in keeping the general proportions right, here we start a profound study of the muscles of the human body and how they attach to the skeleton. We also perfect our understanding of nature through two books, How to Draw and How to Render. The first one is a complete treatise on perspective culminating in complex technical drawings. The second one is a most thorough look at rendering including reflective materials. To tie it all together, we study composition through Framed Ink, allowing us to better construct beautiful scenes for our characters to shine.
+Unlike figure drawing where we were mostly interested in keeping the general proportions right, here we start a profound study of the muscles of the human body and how they attach to the skeleton. We also perfect our understanding of nature through two books, How to Draw and How to Render. 
+
+The first one is a complete treatise on perspective culminating in complex technical drawings. The second one is a most thorough look at rendering including reflective materials. To tie it all together, we study composition through Framed Ink, allowing us to better construct beautiful scenes for our characters to shine.
 
 #### Stage 5: Chasing the Details
 <figure style="margin: 2.5rem 0;">
@@ -268,17 +324,29 @@ The last recommendation is then Framed Environment Design which will nicely tie 
 
 ### Studying the Stages
 
-In the final section of Part I, I wanna tell you how I would go about studying through the stages above. First, remember to set your [study slider](#the-study-slider-balancing-fun-and-studying). This will determine how much time you spend on the books in the roadmap and how much time you just have fun outside of studying. As I mentioned in the [How to Learn](#how-to-learn) section, I start my drawing sessions by warming up with gesture drawing. After this, I study, which means I work through one of the books of the roadmap. But which book? Each stage past the first one has a group of three or four books, so do I just study them one after the other? All at the same time?
+In the final section of Part I, I wanna tell you how I would go about studying through the stages above. First, remember to set your [study slider](#the-study-slider-balancing-fun-and-studying). This will determine how much time you spend on the books in the roadmap and how much time you just have fun outside of studying. 
 
-Personally, I am a big fan of studying two topics at the same time. I feel like more than this is just too overwhelming. A single topic at a time is fine too, but it can get a bit boring in my experience. If you also decide to study two at a time, I recommend studying Huston and Framed Perspective first in stage 2, both Loomis books first in stage 3, then probably Basic Human Anatomy and How to Draw first in stage 4, and whatever you prefer in stage 5. By the way, do not hesitate to go back and revisit some of the books from previous stages, there is still a lot you can learn from them. Remember, your eye is constantly getting better so if you revisit Huston in stage 4 (say) you will see a lot more things than when you just started out with it. Learning is not entirely linear.
+As I mentioned in the [How to Learn](#how-to-learn) section, I start my drawing sessions by warming up with gesture drawing. After this, I study, which means I work through one of the books of the roadmap. But which book? Each stage past the first one has a group of three or four books, so do I just study them one after the other? All at the same time?
 
-Some textbooks will have a really clear structure that makes it easy to learn from such as How to Draw where you can apply the different techniques immediately. Others look more like references you will have to copy to best understand what they have to tell you like Loomis. Some books will have exercises although I still encourage you to copy and understand their drawings, Huston being a good example of this. Sometimes, the best way to understand a textbook is to try to directly apply specific sections from it to your studies. This is especially true for rendering books such as Color and Light and How to Render. Studies such as value studies and copying masterworks from your favorite artists _are_ studying and you should treat them as such. They will help you just as much (if not more) than going through the books. Ideally, you will do both and try to constantly apply what you learned in the textbooks to your studies and original drawings.
+Personally, I am a big fan of studying two topics at the same time. I feel like more than this is just too overwhelming. A single topic at a time is fine too, but it can get a bit boring in my experience. 
+
+If you also decide to study two at a time, I recommend studying Huston and Framed Perspective first in stage 2, both Loomis books first in stage 3, then probably Basic Human Anatomy and How to Draw first in stage 4, and whatever you prefer in stage 5. By the way, do not hesitate to go back and revisit some of the books from previous stages, there is still a lot you can learn from them. 
+
+Remember, your eye is constantly getting better so if you revisit Huston in stage 4 (say) you will see a lot more things than when you just started out with it. Learning is not entirely linear.
+
+Some textbooks will have a really clear structure that makes it easy to learn from such as How to Draw where you can apply the different techniques immediately. Others look more like references you will have to copy to best understand what they have to tell you like Loomis. Some books will have exercises although I still encourage you to copy and understand their drawings, Huston being a good example of this. 
+
+Sometimes, the best way to understand a textbook is to try to directly apply specific sections from it to your studies. This is especially true for rendering books such as Color and Light and How to Render. Studies such as value studies and copying masterworks from your favorite artists _are_ studying and you should treat them as such. They will help you just as much (if not more) than going through the books. 
+
+Ideally, you will do both and try to constantly apply what you learned in the textbooks to your studies and original drawings.
 
 I wish you luck and success.
 
 ## Part II: General Resources
 
-This part is meant to showcase a variety of resources to help you learn how to draw. I personally learn better from books than from video courses, so I will add the courses at the end of each topic. It is separated in roughly three parts: foundations, the human form, and creative design. Honestly, it's a bit arbitrary but I did have to separate things somewhat or it becomes hard to track. The rendering section is pretty big because it includes both stuff like how light works and also how to render the human body. Lots of books are in Japanese. If you can't understand Japanese but still want to read them, scan them and use an OCR. Or just look at the drawings, that's usually where most of the info is anyway.
+This part is meant to showcase a variety of resources to help you learn how to draw. I personally learn better from books than from video courses, so I will add the courses at the end of each topic. It is separated in roughly three parts: foundations, the human form, and creative design. 
+
+Honestly, it's a bit arbitrary but I did have to separate things somewhat or it becomes hard to track. The rendering section is pretty big because it includes both stuff like how light works and also how to render the human body. Lots of books are in Japanese. If you can't understand Japanese but still want to read them, scan them and use an OCR. Or just look at the drawings, that's usually where most of the info is anyway.
 
 ## Foundations
 
@@ -288,7 +356,9 @@ With this out of the way, let's start.
 
 ### Construction
 
-Construction is the process through which you use simple forms to simplify and represent reality. This requires two things: being able to see things for what they are and learning what shapes can simplify yet retain the essence of what you're drawing, what Steve Huston calls "simple yet characteristic" forms. This should be the first step you take towards learning how to draw and proper construction creates a three-dimensional look to your drawing. Of course, a two-dimensional look is cool too and was very popular in various places and at various periods of human history, but this is not what we're aiming for right now. Better to be able to do both 2D and 3D than to only be able to do 2D.
+Construction is the process through which you use simple forms to simplify and represent reality. This requires two things: being able to see things for what they are and learning what shapes can simplify yet retain the essence of what you're drawing, what Steve Huston calls "simple yet characteristic" forms. 
+
+This should be the first step you take towards learning how to draw and proper construction creates a three-dimensional look to your drawing. Of course, a two-dimensional look is cool too and was very popular in various places and at various periods of human history, but this is not what we're aiming for right now. Better to be able to do both 2D and 3D than to only be able to do 2D.
 
 #### Books
 
