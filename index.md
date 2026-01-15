@@ -106,9 +106,9 @@ As a reminder, the goal is not to finish the book but to become a better artist,
 
 I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
 
-This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this introduction, let it be this. 
+This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this section, let it be this:
 
-If you want to learn how to draw, draw; preferably, a lot. Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
+**If you want to learn how to draw, draw; preferably, a lot**. Even if it’s not perfect, keep drawing. Drawing is not a spectator sport. You can read every single book in this list, watch every single video and still not know how to draw. Draftsmanship and line quality matter a lot so get drawing.
 
 > Q: **Ok, cool, but how do I know how much to study and how much to have fun?**
 
