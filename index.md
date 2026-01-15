@@ -13,6 +13,7 @@
       - [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
       - [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-frustration-and-burnout)
       - [Feedback and progression](#feedback-and-progression)
+	- [Roadmap](#roadmap)
 - [Part II: Resources and Syllabus](#part-ii-resources-and-syllabus)
 	- [Foundations](#foundations)
   		- [Construction](#construction)
@@ -177,9 +178,13 @@ If you properly digest the advice in this section, you will have all the right t
 
 ## Roadmap
 
-WIP.
+So what do we actually?
+
+Below, I would like to propose one possible roadmap to learn how to draw. This is most definitely just my opinion so feel free to disregard it with one exception: start with construction no matter what you do.
 
 ## Part II: Resources and Syllabus
+
+
 
 ## Foundations
 
