@@ -7,14 +7,16 @@
 	- [Do I need to draw traditionally?](#do-i-need-to-draw-traditionally)
 	- [Why did you not include this resource?](#why-did-you-not-include-this-resource)
 	- [There are so many resources!](#there-are-so-many-resources)
-- [Part I: Methodology and Roadmap](#part-i-methodology-and-roadmap)
-    - [Methodology](#methodology)
+- [Part I: Learning to Draw](#part-i-methodology-and-roadmap)
+    - [How to Learn](#how-to-learn)
       - [Structuring your practice](#structuring-your-practice)
       - [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
       - [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-burnout)
       - [Feedback and progression](#feedback-and-progression)
-	- [Roadmap](#roadmap)
-- [Part II: Resources and Syllabus](#part-ii-resources-and-syllabus)
+	- [What to Learn](#what-to-learn)
+      - [The Five Roadmap Stages](#the-five-roadmap-stages)
+      - [Studying the Stages](#studying-the-stages)
+- [Part II: General Resources](#part-ii-general-resources)
 	- [Foundations](#foundations)
 		- [Construction](#construction)
 		- [Perspective](#perspective)
@@ -68,7 +70,7 @@ I have specific biases I need to tell you upfront. I am heavily inspired by Japa
 
 Alright. With that out of the way, let's get started.
 
-## Methodology
+## How to Learn
 
 In this first section I would like to give you a few pointers to help better understand what we will do to learn how to draw. First we will start by asking ourselves how to set ourselves up for success by creating and structuring a practice routine. After this, I will explain how exactly you should decide what to do with your time. Finally, we will examine one common problem that artists face which often leads to frustration, sometimes all the way to burnout and giving up for good. Once we understand all these things, we will be ready to see the actual roadmap of things we need to learn to get good at drawing in general.
 
@@ -80,7 +82,7 @@ Once you have decided how much time you want to set aside for art every week or 
 
 I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing. Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. I find this necessary to have better line quality and "flow", and I find that if I go straight into drawing and studying something complicated, I tend to do worse. Not to mention, these are some of the most important, fundamental things you will have to practice your entire drawing journey. These aren't levels you beat, these are muscles you stretch everyday to run the distance.
 
-After this, it's the main topic or drawing of the day. This is my focused study session. As an example, let's say you are currently learning figure drawing and you're working on the chapter about advancing gesture in Huston's Figure Drawing for Artists. A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. As a reminder, the goal is not to finish the book but to become a better artist, so don't rush.
+After this, it's the main topic or drawing of the day. This is my focused study session. As an example, let's say you are currently learning figure drawing and you're working on the chapter about advancing gesture in Huston's Figure Drawing for Artists. A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage.
 
 Once this is done, I like to do some free stuff. This is my fun time and it is sacred. I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not you? 
 
@@ -174,13 +176,13 @@ The topic of feedback tends to be sensitive in my experience. Most artists I kno
 
 Ideally, you would take part in a supportive community of like-minded artists all looking to get better. This is not particularly easy to find. Some people pretend to want to progress but do not actually want to hear any feedback. Some people will give harsh criticism about small mostly irrelevant details in your artwork. Some people will spend most of their time being subtly dismissive of your work to avoid feeling bad about their artwork. Avoid crab buckets with all your might. If possible, find an art sibling (someone with similar artistic interests and aspirations) to progress together. If you have the chance, find a mentor, someone you look up to and respect. More generally, keep a gallery of artists you would like to emulate, see the [third part](#part-iii-references-and-inspiration) of this guide for inspiration.
 
-If you properly digest the advice in this section, you will have all the right tools to achieve your artist dreams. Now to get there you need an actionable plan that details what you need to learn. This is what we will take up in the next section.
+If you properly digest the advice in this section, you will have all the right tools to achieve your artistic dreams. Now to get there you need an actionable plan that details what you need to learn. This is what we will take up in the next section.
 
-## Roadmap
+## What to Learn
 
 So what do we actually do?
 
-Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose potential books and courses you can follow. You can check [Part II](#part-ii) for other potential books or course you could do instead if what I chose does not appeal to you. In fact, you could choose entirely different books, or do them in entirely different order, with one notable exception: Start with construction. Here is the roadmap. I will detail each stages below.
+Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose books and courses you can follow. You can check [Part II](#part-ii) for alternatives you could do instead if what I chose does not appeal to you. The only thing I would advise against is bypassing the first stage (construction). Here is the roadmap, I will detail it below.
 
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
@@ -200,21 +202,56 @@ These stages are not meant to be completed quickly and can take years. This does
 Here are how the five stages are constructed:
 
 #### Stage 1: Construction
+<figure style="margin: 2.5rem auto;">
+  <img
+    src="/learn-drawing/img/construction.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+</figure>
 This stage is the most important one of them all. Everything builds off construction one way or another, because it is where you learn how to observe and see with the eyes of an artist, and this is the most important skill you can develop. Just completing Drawabox or Eviston's book can be enough to draw everyday objects and simple stuff decently well and for some, this will be the end of their drawing journey. If you want to get funky, replace either of these with Fun With a Pencil instead.
 
 #### Stage 2: Core Theory
+<figure style="margin: 2.5rem auto;">
+  <img
+    src="/learn-drawing/img/coretheory.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+</figure>
 This is where things get serious. We now learn about core fundamentals that we will work on during our entire life as artists. Steve Huston's Figure Drawing for Artists and Hampton's Figure Drawing: Design and Invention are two complementary outlooks on figure drawing where we will get acquainted with the human body for the first time. Huston will help us understand gesture and structure through the analysis of masterworks, Hampton will help us understand how the human body is constructed. Do not neglect gesture, this infuses your drawings with life. At the same time, we will spend some time pondering the more formal aspects of drawing through Framed Perspective Vol.1. Perspective makes up the formal constructs that help us see three-dimensionality in two-dimensional drawing. We will also meet the laws of nature through our study of Color and Light. We will work on all of these skills over and over and over again in this roadmap.
 
 #### Stage 3: The Living Subject
+<figure style="margin: 2.5rem auto;">
+  <img
+    src="/learn-drawing/img/livingsubject.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+</figure>
 We continue our exploration of the human body. Figure Drawing for All It's Worth will help us get more technical about the body and its proportions. Drawing the Head and Hands will help us with some of the more complicated aspects of the human body. In Framed Perspective Vol. 2, we spend some time trying to apply what we learned in Color and Light by understanding light and shadows with characters in perspective. Through this, we see how light and perspective interact to develop volume and three-dimensionality and give another layer of depth to our drawings. In Clothing folds and creases by the Morpho Anatomy series, we learn more about how clothing interacts with the human figure. Taken together, these four books allow us to understand the human body more dynamically.
 
 #### Stage 4: Structure and Intent
+<figure style="margin: 2.5rem auto;">
+  <img
+    src="/learn-drawing/img/structureintent.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+</figure>
 Through the past stages, we have gotten acquainted with a variety of art fundamentals. Now, it is time to put more structure in our drawing to more precisely transfer our ideas on the canvas. To do this, we need to deepen our understanding of everything we have already done. This starts with our first deep look at anatomy through Basic Human Anatomy. In there, we learn how to simplify the complex structure of the human body into something manageable. Unlike figure drawing where we were mostly interested in keeping the general proportions right, here we start a profound study of the muscles of the human body and how they attach to the skeleton. We also perfect our understanding of nature through two books, How to Draw and How to Render. The first one is a complete treatise on perspective culminating in complex technical drawings. The second one is a most thorough look at rendering including reflective materials. To tie it all together, we study composition through Framed Ink, allowing us to better construct beautiful scenes for our characters to shine.
 
 #### Stage 5: Chasing the Details
+<figure style="margin: 2.5rem auto;">
+  <img
+    src="/learn-drawing/img/chasingdetails.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+</figure>
 The final, unending stage. By now, you are already an accomplished artist. What is left is to chase the details. To help us, we continue our anatomical adventure, first with Dynamic Human Anatomy. This picks up where we left off but as the title implies, helps us better understand human anatomy in movement. This ties back with our very first theme in figure drawing: gesture is life. After this comes Bridgman's Complete Guide to Drawing from Life, perhaps the most famous of drawing books. In copying it from cover to cover twice, the second time without looking at the references too much, we learn Bridgman's vocabulary and his economical approach to anatomy which helps highlight structure, volume, and gesture efficiently in just a few lines. The last recommendation is then Framed Environment Design which will nicely tie all the Framed series back into one final look at how to apply all we have learned to create memorable backgrounds and environments in which our characters can live and develop. But this is not the end of the stage. The three dots signify you never actually stop chasing the details and it is now up to you to decide what to do next.
 
-## Part II: Resources and Syllabus
+### Studying the Stages
+
+In the final section of Part I, I wanna tell you how I would go about studying through the stages above. First, remember to set your [study slider](#the-study-slider-balancing-fun-and-studying). This will determine how much time you spend on the books in the roadmap and how much time you just have fun outside of studying. As I mentioned in the [How to Learn](#how-to-learn) section, I start my drawing sessions by warming up with gesture drawing. After this, I study, which means I work through one of the books of the roadmap. But which book? Each stage past the first one has a group of three or four books, so do I just study them one after the other? All at the same time?
+
+Personally, I am a big fan of studying two topics at the same time. I feel like more than this is just too overwhelming. A single topic at a time is fine too, but it can get a bit boring in my experience. If you also decide to study two at a time, I recommend studying Huston and Framed Perspective first in stage 2, both Loomis books first in stage 3, then probably Basic Human Anatomy and How to Draw first in stage 4, and whatever you prefer in stage 5. By the way, do not hesitate to go back and revisit some of the books from previous stages, there is still a lot you can learn from them. Remember, your eye is constantly getting better so if you revisit Huston in stage 4 (say) you will see a lot more things than when you just started out with it. Learning is not entirely linear.
+
+Some textbooks will have a really clear structure that makes it easy to learn from such as How to Draw where you can apply the different techniques immediately. Others look more like references you will have to copy to best understand what they have to tell you like Loomis. Some books will have exercises although I still encourage you to copy and understand their drawings, Huston being a good example of this. Sometimes, the best way to understand a textbook is to try to directly apply specific sections from it to your studies. This is especially true for rendering books such as Color and Light and How to Render. Studies such as value studies and copying masterworks from your favorite artists _are_ studying and you should treat them as such. They will help you just as much (if not more) than going through the books. Ideally, you will do both and try to constantly apply what you learned in the textbooks to your studies and original drawings.
+
+I wish you luck and success.
+
+## Part II: General Resources
 
 This part is meant to showcase a variety of resources to help you learn how to draw. I personally learn better from books than from video courses, so I will add the courses at the end of each topic. It is separated in roughly three parts: foundations, the human form, and creative design. Honestly, it's a bit arbitrary but I did have to separate things somewhat or it becomes hard to track. The rendering section is pretty big because it includes both stuff like how light works and also how to render the human body. Lots of books are in Japanese. If you can't understand Japanese but still want to read them, scan them and use an OCR. Or just look at the drawings, that's usually where most of the info is anyway.
 
