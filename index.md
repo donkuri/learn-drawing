@@ -8,11 +8,11 @@
 	- [Why did you not include this resource?](#why-did-you-not-include-this-resource)
 	- [There are so many resources!](#there-are-so-many-resources)
 - [Part I: Methodology and Roadmap](#part-i-methodology-and-roadmap)
-	- [Methodology](#methodology)
- 		- [Structuring your practice](#structuring-your-practice)
-   		- [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
-     	- [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-frustration-and-burnout)
-   		- [Feedback and progression](#feedback-and-progression)
+    - [Methodology](#methodology)
+      - [Structuring your practice](#structuring-your-practice)
+   	  - [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
+      - [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-frustration-and-burnout)
+      - [Feedback and progression](#feedback-and-progression)
 - [Part II: Resources and Syllabus](#part-ii-resources-and-syllabus)
 	- [Foundations](#foundations)
   		- [Construction](#construction)
@@ -102,25 +102,37 @@ Please observe the following graphic.
   </figcaption>
 </figure>
 
-<figure>
-  <img src="/learn-drawing/img/study_slider.png" style="max-width: 100%; height: auto;">
-  <figcaption><i>Fig 1. The study slider set at 50%.</i></figcaption>
+<figure style="margin: 2.5rem auto; text-align: center;">
+  <img
+    src="/learn-drawing/img/study_slider.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+  <figcaption style="font-size: 0.9rem; color: #666;">
+    <i>Fig 1. The study slider set at 50%.</i>
+  </figcaption>
 </figure>
 
 This is a representation of how much time you would like to put into studying as opposed to more fun activities. Currently, the slider is right in the middle at 50%. This is my recommended initial setup: *You divide your time evenly between studying and fun*. But this is just the initial setup and it will change based on a variety of factors including where you are in your learning journey, your current goal, the difficulty of the material, your mental and physical health, the events you have planned for the day and week, etc. Whatever it is, I suggest you consciously set your study slider to some value you choose. Here are two common cases:
 
-<figure>
-  <img src="/learn-drawing/img/study_slider-fun.png" style="max-width: 100%; height: auto;">
-  <figcaption><i>Fig 2. Focusing on fun.</i></figcaption>
+<figure style="margin: 2.5rem auto; text-align: center;">
+  <img
+    src="/learn-drawing/img/study_slider-fun.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+  <figcaption style="font-size: 0.9rem; color: #666;">
+    <i>Fig 2. Focusing on fun.</i>
+  </figcaption>
 </figure>
 
 Here, we can see that the slider is far to the left, in the fun portion. Maybe you spend more than 80% of your time just having fun. This is where you want to be in a few situations: Something is not going well for you at the moment and you do not have the mental capacity to study something extensively; You want to focus on applying the skills you have learned recently in a non-systematic way by trying a variety of different things; You are still exploring whether you are interested in this whole drawing thing; You are drawing to cope with a specific life event that has made it difficult for you to do anything else; Your eye has not yet caught up to your recent progress and you feel like a drawing god. 
 
 Those are all valid situations in which pushing your slider all the way to the left are quite legitimate. Of course this comes as a cost. Usually, you will make less _focused_ progress (not less progress period, that's a misconception) meaning that some of your goals might not be hit quite as fast. This is not the worst place to be in generally speaking but very slow progress is one of the leading causes of burnout and giving up contrary to what you might expect. This is not specific to drawing, I have seen this happen over and over with beginners trying to learn Japanese. As long as you are aware of this, it's fine. Now let's see the opposite situation.
 
-<figure>
-  <img src="/learn-drawing/img/study_slider-study.png" style="max-width: 100%; height: auto;">
-  <figcaption><i>Fig 3. Focusing on studying.</i></figcaption>
+<figure style="margin: 2.5rem auto; text-align: center;">
+  <img
+    src="/learn-drawing/img/study_slider-study.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+  <figcaption style="font-size: 0.9rem; color: #666;">
+    <i>Fig 3. Focusing on studying.</i>
+  </figcaption>
 </figure>
 
 Here, we can see that the slider is far to the right, in the study portion. Maybe you spend more than 80% of your time just studying. This is where you want to be in a few situations: You feel an exceptional and enduring surge of motivation to get better; You feel lost and need to focus on something to help you see some kind of progress in your art journey; You are trying to develop your portfolio for an upcoming deadline and you are refining one specific component; You are part of an intense but short study group focused on a specific topic; Your eye has caught up to your current skill and you feel like the worst artist in existence, past and present.
@@ -135,9 +147,13 @@ You might have seen that one case appeared in both situations above, albeit in r
 
 A good way to understand this is by looking at the following picture.
 
-<figure>
-  <img src="/learn-drawing/img/eye-hand.png" style="max-width: 100%; height: auto;">
-  <figcaption><i>Fig 4. The eye-hand paradox in action.</i></figcaption>
+<figure style="margin: 2.5rem auto; text-align: center;">
+  <img
+    src="/learn-drawing/img/eye-hand.png"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+  <figcaption style="font-size: 0.9rem; color: #666;">
+    <i>Fig 4. The eye-hand paradox in action.</i>
+  </figcaption>
 </figure>
 
 This is a bit abstract but the idea is the following. Over time, your eye (meaning how you observe, what you see, how you decompose and simplify life, etc.) and your hand (your applied skill and understanding from theory, your actual drawings, etc.) will progress at different rates. Often, they will not line up quite right. This leads to two kinds of situations.
@@ -162,7 +178,11 @@ These two situations are complementary. In the eye-dominated situations, you hav
 
 ### Feedback and progression
 
-The topic of feedback tends to be sensitive in my experience. Most artists I know tend to be very wary of both receiving and giving criticism, even if it is constructive and candid. This might be because a lot of artists tend to identify very strongly with their art, which makes it a sensitive topic. Not to mention, improvement takes a very long time, something that people tend not to realize upfront. I urge you to stay open-minded and to look for harsh yet constructive criticism that will help you to grow. 
+The topic of feedback tends to be sensitive in my experience. Most artists I know tend to be very wary of both receiving and giving criticism, even if it is constructive and candid. This might be because a lot of artists tend to identify very strongly with their art, which makes it a sensitive topic. Not to mention, improvement takes a very long time, something that people tend not to realize upfront. I urge you to stay open-minded and to look for harsh yet constructive criticism that will help you to grow long term. This is particularly true in *eye-dominated* situations (see above) where you can't seem to understand what to do to get better. Trust me, other good artists usually will.
+
+Ideally, you would take part in a supportive community of like-minded artists all looking to get better. This is not particularly easy to find. Some people pretend to want to progress but do not actually want to hear any feedback. Some people will give harsh criticism about small mostly irrelevant details in your artwork. Some people will spend most of their time being subtly dismissive of your work to avoid feeling bad about their artwork. Avoid crab buckets with all your might. If possible, find an art sibling (someone with similar artistic interests and aspirations) to progress together. If you have the chance, find a mentor, someone you look up to and respect. More generally, keep a gallery of artists you would like to emulate, see the [third part](#part-iii-references-and-inspiration) of this guide for inspiration.
+
+If you properly digest the advice in this section, you will have all the right tools to achieve your artist dreams. Now to get there you need an actionable plan that details what you need to learn. This is what we will take up in the next section.
 
 ## Roadmap
 
