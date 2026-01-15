@@ -226,7 +226,7 @@ This stage is the most important one of them all. Everything builds off construc
 #### Stage 2: Core Theory
 <figure style="margin: 2.5rem 0;">
   <img
-    src="/learn-drawing/img/coretheory.png"
+    src="/learn-drawing/img/ctcropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
 This is where things get serious. We now learn about core fundamentals that we will work on during our entire life as artists. Steve Huston's Figure Drawing for Artists and Hampton's Figure Drawing: Design and Invention are two complementary outlooks on figure drawing where we will get acquainted with the human body for the first time. Huston will help us understand gesture and structure through the analysis of masterworks, Hampton will help us understand how the human body is constructed. 
@@ -236,7 +236,7 @@ Do not neglect gesture, this infuses your drawings with life. At the same time, 
 #### Stage 3: The Living Subject
 <figure style="margin: 2.5rem 0;">
   <img
-    src="/learn-drawing/img/livingsubject.png"
+    src="/learn-drawing/img/lscropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
 
@@ -247,7 +247,7 @@ Through this, we see how light and perspective interact to develop volume and th
 #### Stage 4: Structure and Intent
 <figure style="margin: 2.5rem 0;">
   <img
-    src="/learn-drawing/img/structureintent.png"
+    src="/learn-drawing/img/sicropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
 Through the past stages, we have gotten acquainted with a variety of art fundamentals. Now, it is time to put more structure in our drawing to more precisely transfer our ideas on the canvas. To do this, we need to deepen our understanding of everything we have already done. This starts with our first deep look at anatomy through Basic Human Anatomy. In there, we learn how to simplify the complex structure of the human body into something manageable. 
@@ -257,7 +257,7 @@ Unlike figure drawing where we were mostly interested in keeping the general pro
 #### Stage 5: Chasing the Details
 <figure style="margin: 2.5rem 0;">
   <img
-    src="/learn-drawing/img/chasingdetails.png"
+    src="/learn-drawing/img/cdcropped.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
 The final, unending stage. By now, you are already an accomplished artist. What is left is to chase the details. To help us, we continue our anatomical adventure, first with Dynamic Human Anatomy. This picks up where we left off but as the title implies, helps us better understand human anatomy in movement. This ties back with our very first theme in figure drawing: gesture is life. 
