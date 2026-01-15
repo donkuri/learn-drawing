@@ -10,7 +10,7 @@
 - [Part I: Methodology and Roadmap](#part-i-methodology-and-roadmap)
     - [Methodology](#methodology)
       - [Structuring your practice](#structuring-your-practice)
-   	  - [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
+      - [The study slider: balancing fun and studying](#the-study-slider-balancing-fun-and-studying)
       - [The eye-hand paradox: understanding burnout](#the-eye-hand-paradox-understanding-frustration-and-burnout)
       - [Feedback and progression](#feedback-and-progression)
 - [Part II: Resources and Syllabus](#part-ii-resources-and-syllabus)
@@ -92,15 +92,6 @@ This is where I would like to introduce you to a concept I have been thinking of
 ### The study slider: balancing fun and studying
 
 Please observe the following graphic.
-
-<figure style="margin: 2.5rem auto; text-align: center;">
-  <img
-    src="/learn-drawing/img/study_slider.png"
-    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
-  <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 1. The study slider set at 50%.</i>
-  </figcaption>
-</figure>
 
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
