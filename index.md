@@ -36,35 +36,35 @@
 
 # Introductory remarks
 
-## What is this?
+### What is this?
 
 This website was made catalog and discuss a variety of resources (mostly books) to learn how to draw, along with a general methodology to go from total beginner to advanced. One unique feature of this guide is that it discusses resources in two languages: English and Japanese. For the Japanese resources, I assume you can read Japanese (or at least have something like [Yomitan](https://yomitan.wiki/)) to help you understand. The intersection of people wanting to learn how to draw, especially in an anime-style, and the people who want to learn Japanese is significant in my personal experience. I hope this place can be of help to those people. 
 
 My hope is that everyone can learn from these, but they are also tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. My main skill is in game direction and scenario and I have decided to learn how to draw better to help with prototyping ideas. I do not claim expertise in the same way that I do on the [Mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/) learning websites. If that fact bothers you, feel free to disregard my explanations and just use this website as a catalog and gallery of cool artbooks.
 
-## What is required to do this?
+### What is required to do this?
 
 Some time and a tendency for self-care. Learning anything is hard but art is a particularly long journey. I believe it was Steve Huston that said something along the lines of "Artists often hit their strides in their sixties." He's right. It's a marathon, not a race, so take it one step at a time. Remember: 千里の道も一歩から。
 
-## Who is this for?
+### Who is this for?
 
 Anyone with even a passing interest in learning how to draw. Other than this, the rest doesn't matter, including your age or previous experience with drawing.
 
-## Do I need to draw traditionally?
+### Do I need to draw traditionally?
 
 Up to you honestly. When it comes to rendering, I would do it on your preferred medium because it is pretty different. I like to do studies with a pencil and some nice paper but you can also do everything digitally.
 
-## Why did you not include this resource?
+### Why did you not include this resource?
 
 Probably because I am not aware of it. If I am aware of it, I haven't had the chance to see or use it myself, nor do I know someone close that did and can provide earnest feedback.
 
-## There are so many resources!
+### There are so many resources!
 
 I don't believe you should go through every single book in order in every topic before moving on. Some books go much deeper or require more background to truly appreciate (looking at you, Bridgman!) and thus are better left for later. I have resisted the temptation to label what resources is for what level because I think you should get a feel for it yourself. After all, what I consider to be more difficult might be more adapted to you, or you might just like it better than some other resources. 
 
 Still, here are two recommendations. First, do construction first, and keep working on it every day. Second, learn and get good at using light values before you completely dive in color studies. Getting the wrong hue or chroma does not do as much damage to a drawing as getting the wrong values in my opinion, provided that is not an artistic choice on your part. In the last part, I will show a potential learning order you can follow if you'd rather do that.
 
-# Part I: Methodology and Roadmap
+# Part I: Learning to Draw
 
 In this first part, I would like to explain the methodology behind this guide as well as provide a roadmap to develop general drawing skills. The methodology in particular comes from me synthesizing a variety of sources and advice I have heard over the year from established art instructors and industry leaders as well as more personal experience I have had through conversations with friends. 
 
