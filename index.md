@@ -1193,40 +1193,6 @@ The goal of this book is to get you to render and create a variety of materials,
 
 This is where I recommend you start if you're interested in Blender or 3D tools more generally. This is maybe the most famous Blender tutorial ever and [Blender Guru](https://www.youtube.com/@blenderguru) updates it every year. Honestly, I'd do it just to see if you're interested. If you had fun going through the tutorial, then 3D work might be for you.
 
+# Part III: References and Inspirations
 
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
-
-**[]()**, **
-
-<img src="/learn-drawing/img/.jpg" alt="" width="280px"/>
-
-
+WIP.
