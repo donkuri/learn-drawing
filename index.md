@@ -271,7 +271,7 @@ Here are how the five stages are constructed:
 <figure style="margin: 2.5rem 0;">
   <img
     src="/learn-drawing/img/construction.png"
-    style="max-width: 70%; height: auto; display: block; margin: 0 0 0.75rem 0;">
+    style="max-width: 50%; height: auto; display: block; margin: 0 0 0.75rem 0;">
 </figure>
 This stage is the most important one of them all. Everything builds off construction one way or another, because it is where you learn how to observe and see with the eyes of an artist, and this is the most important skill you can develop. 
 
