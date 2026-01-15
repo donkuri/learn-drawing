@@ -242,7 +242,7 @@ If you properly digest the advice in this section, you will have all the right t
 
 So what do we actually do?
 
-Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose books and courses you can follow. You can check [Part II](#part-ii) for alternatives you could do instead if what I chose does not appeal to you. The only thing I would advise against is bypassing the first stage (construction).
+Below, I would like to propose one possible roadmap to learn how to draw. In it, I will propose books and courses you can follow. You can check [Part II](#part-ii-general-resources) for alternatives you could do instead if what I chose does not appeal to you. The only thing I would advise against is bypassing the first stage (construction).
 
 Here is the roadmap, I will detail it below.
 
