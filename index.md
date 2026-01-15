@@ -141,7 +141,7 @@ A good way to understand this is by looking at the following picture.
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
     src="/learn-drawing/img/eye-hand.png"
-    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+    style="max-width: 40%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
     <i>Fig 4. The eye-hand paradox in action.</i>
   </figcaption>
