@@ -90,7 +90,16 @@ Once we understand all these things, we will be ready to see the actual roadmap 
 
 ### Structuring your practice
 
-First, I would learn about setting up (micro)habits. I heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. 
+First, I would learn about setting up (micro)habits. I heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process.
+
+<figure style="margin: 2.5rem auto; text-align: center;">
+  <img
+    src="/learn-drawing/img/habits.jpg"
+    style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+  <figcaption style="font-size: 0.9rem; color: #666;">
+    <i>Fig 1. Good Habits, Bad Habits.</i>
+  </figcaption>
+</figure>
 
 Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available. Once you have decided how much time you want to set aside for art every week or every day, here is the routine I would follow:
 
@@ -125,7 +134,7 @@ Please observe the following graphic.
     src="/learn-drawing/img/study_slider.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 1. The study slider set at 50%.</i>
+    <i>Fig 2. The study slider set at 50%.</i>
   </figcaption>
 </figure>
 
@@ -140,7 +149,7 @@ Here are two common cases:
     src="/learn-drawing/img/study_slider-fun.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 2. Focusing on fun.</i>
+    <i>Fig 3. Focusing on fun.</i>
   </figcaption>
 </figure>
 
@@ -157,7 +166,7 @@ This is not specific to drawing, I have seen this happen over and over with begi
     src="/learn-drawing/img/study_slider-study.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 3. Focusing on studying.</i>
+    <i>Fig 4. Focusing on studying.</i>
   </figcaption>
 </figure>
 
@@ -182,7 +191,7 @@ A good way to understand this is by looking at the following picture.
     src="/learn-drawing/img/eye-hand.png"
     style="max-width: 55%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 4. The eye-hand paradox in action.</i>
+    <i>Fig 5. The eye-hand paradox in action.</i>
   </figcaption>
 </figure>
 
@@ -247,7 +256,7 @@ Here is the roadmap, I will detail it below.
     src="/learn-drawing/img/roadmap.png"
     style="max-width: 70%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
-    <i>Fig 5. The drawing roadmap.</i>
+    <i>Fig 6. The drawing roadmap.</i>
   </figcaption>
 </figure>
 
