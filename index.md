@@ -95,7 +95,7 @@ First, I would learn about setting up (micro)habits. I heavily suggest reading [
 <figure style="margin: 2.5rem auto; text-align: center;">
   <img
     src="/learn-drawing/img/habits.jpg"
-    style="max-width: 45%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
+    style="max-width: 15%; height: auto; display: block; margin: 0 auto 0.75rem auto;">
   <figcaption style="font-size: 0.9rem; color: #666;">
     <i>Fig 1. Good Habits, Bad Habits.</i>
   </figcaption>
