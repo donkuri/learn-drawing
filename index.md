@@ -5,7 +5,7 @@
 	- [What is required to do this?](#what-is-required-to-do-this)
 	- [Who is this for?](#who-is-this-for)
 	- [Do I need to draw traditionally?](#do-i-need-to-draw-traditionally)
-	- [Why did you not include this resource?](#why-did-you-not-include-this-resource)
+	- [Why did you not include this resource I like?](#why-did-you-not-include-this-resource-i-like)
 	- [There are so many resources!](#there-are-so-many-resources)
 - [Part I: Learning to Draw](#part-i-methodology-and-roadmap)
     - [How to Learn](#how-to-learn)
@@ -38,17 +38,17 @@
 
 ### What is this?
 
-This website was made catalog and discuss a variety of resources (mostly books) to learn how to draw, along with a general methodology to go from total beginner to advanced. One unique feature of this guide is that it discusses resources in two languages: English and Japanese. 
+This website is a three-parts guide to learning how to draw from total beginner to advanced. In the first part, I explain how to go about learning how to draw, including creating a practice routine and how to avoid a few common pitfalls. I also lay out a roadmap you can follow to get a lot of drawing gains provided you also draw on the side. The second part is a large catalog of art resources, mostly books but also a few courses. One unique feature of the catalog is that there are both English and Japanese resources. The third part lists a few of my favorite artists and discusses how to find inspiration.
 
-For the Japanese resources, I assume you can read Japanese (or at least have something like [Yomitan](https://yomitan.wiki/)) to help you understand. The intersection of people wanting to learn how to draw, especially in an anime-style, and the people who want to learn Japanese is significant in my personal experience. I hope this place can be of help to those people. 
+For the Japanese resources, I assume you can read Japanese (or at least have something like [Yomitan](https://yomitan.wiki/)) to help you understand. The intersection of people wanting to learn how to draw, especially in an anime-style, and the people who want to learn Japanese is significant in my personal experience. I hope this place can be of help to them.
 
-My hope is that everyone can learn from these, but they are also tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. My main skill is in game direction and scenario and I have decided to learn how to draw better to help with prototyping ideas. 
+The resources are partially tailored to my own personal preferences. I'm very much in the process of learning how to draw as well so I have also asked other artists I know to comment on the books they know about. My main skill is in game direction and scenario and I have decided to learn how to draw better to help with prototyping ideas. 
 
 I do not claim expertise in the same way that I do on the [Mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/) learning websites. If that fact bothers you, feel free to disregard my explanations and just use this website as a catalog and gallery of cool artbooks.
 
 ### What is required to do this?
 
-Some time and a tendency for self-care. Learning anything is hard but art is a particularly long journey. I believe it was Steve Huston that said something along the lines of "Artists often hit their strides in their sixties." He's right. It's a marathon, not a race, so take it one step at a time. Remember: 千里の道も一歩から。
+Some time and a tendency for self-care. Learning anything is hard but art is a particularly long journey. I believe it was Steve Huston that said something along the lines of "Artists often hit their strides in their sixties". He's right. It's a marathon, not a race, so take it one step at a time. Remember: 千里の道も一歩から。
 
 ### Who is this for?
 
@@ -58,21 +58,21 @@ Anyone with even a passing interest in learning how to draw. Other than this, th
 
 Up to you honestly. When it comes to rendering, I would do it on your preferred medium because it is pretty different. I like to do studies with a pencil and some nice paper but you can also do everything digitally.
 
-### Why did you not include this resource?
+### Why did you not include this resource I like?
 
 Probably because I am not aware of it. If I am aware of it, I haven't had the chance to see or use it myself, nor do I know someone close that did and can provide earnest feedback.
 
 ### There are so many resources!
 
-I don't believe you should go through every single book in order in every topic before moving on. Some books go much deeper or require more background to truly appreciate (looking at you, Bridgman!) and thus are better left for later. I have resisted the temptation to label what resources is for what level because I think you should get a feel for it yourself. After all, what I consider to be more difficult might be more adapted to you, or you might just like it better than some other resources. 
+I don't believe you should go through every single book in order in every topic before moving on. Some books go much deeper or require more background to truly appreciate (looking at you, Bridgman!) and thus are better left for later. I have resisted the temptation to label what resources is for what level because I think you should get a feel for it yourself. After all, what I consider to be more difficult might be more adapted to you, or you might just like it better than some other resources. Still, here are two recommendations. 
 
-Still, here are two recommendations. First, do construction first, and keep working on it every day. Second, learn and get good at using light values before you completely dive in color studies. Getting the wrong hue or chroma does not do as much damage to a drawing as getting the wrong values in my opinion, provided that is not an artistic choice on your part. In the last part, I will show a potential learning order you can follow if you'd rather do that.
+First, do construction first, and keep working on it every day. Second, learn and get good at using light values before you completely dive in color studies. Getting the wrong hue or chroma does not do as much damage to a drawing as getting the wrong values in my opinion, provided that is not an artistic choice on your part. In the last part, I will show a potential learning order you can follow if you'd rather do that.
 
 # Part I: Learning to Draw
 
 In this first part, I would like to explain the methodology behind this guide as well as provide a roadmap to develop general drawing skills. The methodology in particular comes from me synthesizing a variety of sources and advice I have heard over the year from established art instructors and industry leaders as well as more personal experience I have had through conversations with friends. 
 
-Some of them are beginning artists, some are fresh art school graduates, some are self-taught and trying to break into the industry, some are respected artists who already broke in and have gone to work on large projects. They all influenced my outlook on how to go about learning how to draw, but also how to learn in general, and this guide is one of a few I have written on specific subjects such as [mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/).
+Some of them are beginning artists, some are fresh art school graduates, some are self-taught and trying to break into the industry, some are respected artists who already broke in and have gone on to work on large projects. They all influenced my outlook on learning how to draw, but also how to learn in general, and this guide is one of a few I have written on specific subjects such as [mathematics](https://donkuri.github.io/learn-mathematics/) and [Japanese](https://donkuri.github.io/learn-japanese/).
 
 I have specific biases I need to tell you upfront. I am heavily inspired by Japanese animation (e.g. Serial Experiments Lain) and video games (e.g. Nier Automata). At the same time, I am also very fond of French painters such as Boucher, Fragonard, Cabanel (although my favorite painter is Pierre Soulages). 
 
@@ -90,21 +90,23 @@ Once we understand all these things, we will be ready to see the actual roadmap 
 
 ### Structuring your practice
 
-First, I would learn about setting up (micro)habits. I also heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. 
+First, I would learn about setting up (micro)habits. I heavily suggest reading [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) which is where I learned how to build habits for the long term. This is what I would consider "metacognition", by which I mean actively thinking about your learning process. 
 
 Needless to say, I would rather you spent thirty minutes each day drawing then having only one day in the week where you draw for four hours, but not everyone has the same time available. Once you have decided how much time you want to set aside for art every week or every day, here is the routine I would follow:
 
-I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing. Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. 
+I suggest you start your drawing sessions by warming up. The way I do that is by doing gesture drawing (we will see what this is in the beginner figure drawing books). Usually for me that will be quick poses, between thirty seconds and a minute. I also like to draw a few basic forms, such as straight lines, curved lines, circles, ellipses, spheres, and boxes. 
 
-I find this necessary to have better line quality and "flow", and I find that if I go straight into drawing and studying something complicated, I tend to do worse. Not to mention, these are some of the most important, fundamental things you will have to practice your entire drawing journey. These aren't levels you beat, these are muscles you stretch everyday to run the distance.
+I find this necessary to have better line quality and "flow". If I go straight into studying something complicated, I tend to do worse. Not to mention, these fundamentals are some of the most important, fundamental things you will have to practice your entire drawing journey. They aren't levels you beat, they are muscles you stretch everyday to run the distance.
 
-After this, it's the main topic or drawing of the day. This is my focused study session. As an example, let's say you are currently learning figure drawing and you're working on the chapter about advancing gesture in Huston's Figure Drawing for Artists. 
+After that, it's the main topic or drawing of the day. This is my focused study session. As an example, let's say you are currently learning figure drawing and you're working on the chapter about advancing gesture in Huston's Figure Drawing for Artists. 
 
 A sample study session would be reading the explanations, perhaps copying the drawings (or at least trying to understand them thoroughly) and then working on the exercises of the chapter. Perhaps in the middle you think about a specific problem you have and you go look it up online or in other textbooks. That is all fine, the point is that you are trying to work through the material. 
 
-As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage. Once this is done, I like to do some free stuff. This is my fun time and it is sacred. 
+As a reminder, the goal is not to finish the book but to become a better artist, so don't rush. If you follow my roadmap, this is the part where you study what is in one of the book of your current stage. Once this is done, I like to do some free stuff. 
 
-I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious with even if it's above my paygrade, etc. Who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
+This is my fun time and it is sacred. 
+
+I have a pretty analytical mind and fun stuff for me often includes some of the following: copying a drawing I like, laying some tracing paper over an old master study and drawing the majors forms, starting a new original piece, watching a tutorial on a specific thing I have always been curious about, even if it's way above my paygrade. And who cares if it's above my paygrade? This is my fun time, it's totally fine to fail miserably. Even Proko had his funny drawing, so why not me? 
 
 This is your free time and it is imperative that you do not spend all of it just studying. In fact, you should spend a lot of time "just drawing". Chess masters spend years actually solving tactics to sharpen their skill and vision, similarly artists need to draw every day. This is the most important thing and if you’re going to retain anything from this section, let it be this:
 
